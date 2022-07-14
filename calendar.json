@@ -6,18 +6,17 @@
 		"Hiver"		:	["12-21", "12-31"],
 		"Hiver2"	:	["01-01", "03-20"]
 	},
-	"Feries"	:	{
-		"01-01"		:	"Nouvel An",
-		"01-05"		:	"Fête du travail",
-		"00-04"		:	"Pâques",
-		"50-04"		:	"Pentecôte",
-		"08-05"		:	"Fin de la Seconde Guerre Mondiale",
-		"21-06"		:	"Fête de la Musique",
-		"14-07"		:	"Fête Nationale Française",
-		"15-08"		:	"Assomption de Marie",
-		"01-11"		:	"Toussaint",
-		"11-11"		:	"Armistice",
-		"25-12"		:	"Noel"
+	"Fetes"         :	{
+		"01-01"		:	["Nouvel An"],
+		"05-01"		:	["Fête du travail"],
+		"04-05"		:	["Pentecôte"],
+		"05-08"		:	["Fin de la Seconde Guerre Mondiale"],
+		"06-21"		:	["Fête de la Musique"],
+		"07-14"		:	["Fête Nationale Française"],
+		"08-15"		:	["Assomption de Marie"],
+		"11-01"		:	["Toussaint"],
+		"11-11"		:	["Armistice"],
+		"12-25"		:	["Noel"]
 	},
 	"Prenoms"	:	{
 		"01"	:	{
