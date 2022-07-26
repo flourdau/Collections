@@ -791,5 +791,12 @@
 		"Octobre à moitié pluvieux, rend le laboureur joyeux.",
 		"Tonnerre en novembre fait prospérer le blé, et remplit le grenier.",
 		"Décembre aux pieds blancs s'en vient ; An de neige est an de bien"
-	]
+	],
+        "Anniversaires"       :       {
+                "1983-02-27"    :       "Florian",
+                "1982-07-02"    :       "Damien",
+                "1981-03-17"    :       "Priscilla",
+                "1973-04-09"    :       "Laurent",
+                "1952-11-03"    :       "Danièle"
+        }
 }

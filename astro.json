@@ -1,5 +1,5 @@
 {
-	 "Occidental"	:	{
+	"Occidental"	:	{
 		"Bèlier"	:	["Feu", "03-21", "04-20"],
 		"Taureau"	:	["Terre", "04-20", "05-20"],
 		"Gèmeaux"	:	["Air", "05-21", "06-21"],
@@ -13,7 +13,7 @@
 		"Capricorne2"	:	["Terre", "12-22", "12-31"],
 		"Verseau"	:	["Air", "01-21", "02-19"],
 	 	"Poisson"	:	["Eau", "02-20", "03-20"]
-	 },
+	},
 	"Chinois"	:	{
 		"nbCycle"	:	"60",
 		"lastCycle"	:	"1984-02-04",
