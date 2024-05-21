@@ -8,15 +8,21 @@
 	},
 	"Fetes"         :	{
 		"01-01"		:	["Nouvel An"],
-		"05-01"		:	["Fête du travail"],
-		"04-05"		:	["Pentecôte"],
+		"02-14"		:	["de Saint Valentin"],
+		"04-05"		:	["de la Pentecôte"],
+		"05-01"		:	["du travail"],
 		"05-08"		:	["Fin de la Seconde Guerre Mondiale"],
 		"06-21"		:	["Fête de la Musique"],
 		"07-14"		:	["Fête Nationale Française"],
 		"08-15"		:	["Assomption de Marie"],
+		"10-31"		:	["Halloween"],
 		"11-01"		:	["Toussaint"],
 		"11-11"		:	["Armistice"],
 		"12-25"		:	["Noel"]
+	},
+	"FetesNoDay"         :	{
+		"05-??"		:	["Fête des Mères"],
+		"06-??"		:	["Fête des Pères"]
 	},
 	"Prenoms"	:	{
 		"01"	:	{
@@ -796,7 +802,6 @@
                 "1983-02-27"    :       "Florian",
                 "1982-07-02"    :       "Damien",
                 "1981-03-17"    :       "Priscilla",
-                "1973-04-09"    :       "Laurent",
                 "1952-11-03"    :       "Danièle"
         }
 }
