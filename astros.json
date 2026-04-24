@@ -1,0 +1,182 @@
+{
+	"metadata": {
+		"name": "astros.json",
+		"description": "Collections astrologiques occidentales et chinoises.",
+		"author": "Florian LOURDAUX",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "Standard Collection",
+		"create": "2026-01-25",
+		"update": "2026-01-25",
+		"version": "1.0"
+	},
+
+
+	"occidental": {
+		"belier": {
+			"label": "Bélier",
+			"element": "Feu",
+			"start": "03-21",
+			"end": "04-20"
+		},
+		"taureau": {
+			"label": "Taureau",
+			"element": "Terre",
+			"start": "04-21",
+			"end": "05-20"
+		},
+		"gemeaux": {
+			"label": "Gémeaux",
+			"element": "Air",
+			"start": "05-21",
+			"end": "06-21"
+		},
+		"cancer": {
+			"label": "Cancer",
+			"element": "Eau",
+			"start": "06-22",
+			"end": "07-22"
+		},
+		"lion": {
+			"label": "Lion",
+			"element": "Feu",
+			"start": "07-23",
+			"end": "08-22"
+		},
+		"vierge": {
+			"label": "Vierge",
+			"element": "Terre",
+			"start": "08-23",
+			"end": "09-22"
+		},
+		"balance": {
+			"label": "Balance",
+			"element": "Air",
+			"start": "09-23",
+			"end": "10-22"
+		},
+		"scorpion": {
+			"label": "Scorpion",
+			"element": "Eau",
+			"start": "10-23",
+			"end": "11-22"
+		},
+		"sagittaire": {
+			"label": "Sagittaire",
+			"element": "Feu",
+			"start": "11-23",
+			"end": "12-21"
+		},
+		"capricorne": {
+			"label": "Capricorne",
+			"element": "Terre",
+			"dates": [
+				[
+					"12-22",
+					"12-31"
+				],
+				[
+					"01-01",
+					"01-20"
+				]
+			]
+		},
+		"verseau": {
+			"label": "Verseau",
+			"element": "Air",
+			"start": "01-21",
+			"end": "02-19"
+		},
+		"poisson": {
+			"label": "Poisson",
+			"element": "Eau",
+			"start": "02-20",
+			"end": "03-20"
+		}
+	},
+	"chinois": {
+		"nbCycle": 60,
+		"lastCycle": "1984-02-04",
+		"polarite": [
+			{
+				"cn": "陽",
+				"fr": "Yang"
+			},
+			{
+				"cn": "陰",
+				"fr": "Yin"
+			}
+		],
+		"elements": [
+			{
+				"cn": "木",
+				"fr": "Bois"
+			},
+			{
+				"cn": "火",
+				"fr": "Feu"
+			},
+			{
+				"cn": "土",
+				"fr": "Terre"
+			},
+			{
+				"cn": "金",
+				"fr": "Métal"
+			},
+			{
+				"cn": "水",
+				"fr": "Eau"
+			}
+		],
+		"signes": [
+			[
+				"鼠",
+				"Rat"
+			],
+			[
+				"牛",
+				"Bœuf"
+			],
+			[
+				"虎",
+				"Tigre"
+			],
+			[
+				"兔",
+				"Lapin"
+			],
+			[
+				"龍",
+				"Dragon"
+			],
+			[
+				"蛇",
+				"Serpent"
+			],
+			[
+				"馬",
+				"Cheval"
+			],
+			[
+				"羊",
+				"Chèvre"
+			],
+			[
+				"猴",
+				"Singe"
+			],
+			[
+				"鷄",
+				"Coq"
+			],
+			[
+				"狗",
+				"Chien"
+			],
+			[
+				"猪",
+				"Cochon"
+			]
+		]
+	}
+}

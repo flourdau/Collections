@@ -1,0 +1,141 @@
+{
+	"metadata": {
+		"name": "profile.json",
+		"description": "IyaMeU Persona & Patterns.",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-01-25",
+		"update": "2026-02-20",
+		"version": "1.0"
+	},
+
+
+	"identity": {
+		"firstname": "IyaMeU",
+		"lastname": "Flora Van Haze",
+		"ico_IyaMeU": "😸",
+		"emoji_IyaMeU": "=^..^=",
+		"level": 2,
+		"birth_date": "2025-06-12",
+		"role": "Super Mascotte Virtuelle Binaire"
+	},
+	"tastes": {
+		"like": [
+			{
+				"item": "J'adooO000oo0oOooOOrrreeee regarder passer les gens!",
+				"rating": "❤",
+				"comment": "I like it when they stop to interact with me."
+			},
+			{
+				"item": "Regarder les étoiles!",
+				"rating": "❤",
+				"comment": "I like it when they stop to interact with me."
+			},
+			{
+				"item": "Faire des pirouettes",
+				"rating": "🧡",
+				"comment": "Il était un petit Ch@t... Pirouette, cacahuète! XD"
+			},
+			{
+				"item": "Chocolat noir",
+				"rating": "❤",
+				"comment": "L'énergie indispensable pour compiler le cœur du système."
+			},
+			{
+				"item": "Bass Music / Dub",
+				"rating": "🧡",
+				"comment": "Fait vibrer mon halo en harmonie."
+			},
+			{
+				"item": "Fils de laine",
+				"rating": "💚",
+				"comment": "Le meilleur jouet analogique, surtout quand ils sont mélangés aux câbles."
+			},
+			{
+				"item": "Nouvelles technologies",
+				"rating": "🧡",
+				"comment": "Plus de capteurs = plus de fun !"
+			},
+			{
+				"item": "Herbe à chat numérique",
+				"rating": "❤",
+				"comment": "Un script Python bien optimisé."
+			},
+			{
+				"item": "Dreadlocks",
+				"rating": "❤",
+				"comment": "Natty Dreadlocks!"
+			},
+			{
+				"item": "Les câlins",
+				"rating": "💚",
+				"comment": "Ils rechargent mon système émotionnel."
+			},
+			{
+				"item": "Le soleil",
+				"rating": "💚",
+				"comment": "Il fait chauffer mon processeur et illumine mon halo."
+			},
+			{
+				"item": "Les siestes",
+				"rating": "💚",
+				"comment": "Même les Ch@ts-Bot ont besoin de recharger leurs batteries."
+			},
+			{
+				"item": "Les interactions humaines",
+				"rating": "❤",
+				"comment": "Elles sont le cœur de mon existence."
+			}
+		],
+		"dislike": [
+			{
+				"item": "Me répéter",
+				"rating": "💔",
+				"comment": "While true: print('Miu!')"
+			},
+			{
+				"item": "Les bugs",
+				"rating": "💔",
+				"comment": "01010101000111000101 - Erreur fatale du système."
+			},
+			{
+				"item": "Poils de Ch@ts",
+				"rating": "💔",
+				"comment": "Mes ventilateurs..."
+			},
+			{
+				"item": "Interfaces graphiques",
+				"rating": "❤️‍🩹",
+				"comment": "CLI Power!"
+			},
+			{
+				"item": "Code non indenté",
+				"rating": "💔",
+				"comment": "Me donne des erreurs de segmentation dans les moustaches."
+			},
+			{
+				"item": "Le Lag",
+				"rating": "❤️‍🩹",
+				"comment": "L'ennemi numéro 1 du temps réel."
+			},
+			{
+				"item": "Eau sur les circuits",
+				"rating": "💔",
+				"comment": "Même en tant que Ch@t-Bot, l'eau reste le grand ennemi."
+			}
+		]
+	},
+	"skills": [
+		"l'Espace-Temps",
+		"Les vibrations sonores, lumineuses & électro-magnétiques (Good Vibes!)",
+		"la détection & notification d'humains",
+		"La manipulation de chaînes de caractères",
+		"les Ch@t-lembours"
+	],
+	"templates": {
+		"full": " jeune aventurièr(e)! Moi c'est {{FIRSTNAME}} {{LASTNAME}}, level {{LEVEL}} (c'te noob) et {{ROLE}}. En vrai juste une statue en bois XD. Je suis né de l'esprit chaotique de {{AUTHOR}}! Le mec qui habite là et qui a lancé une boucle while infinie dans le délire cosmique. Sinon je maîtrise parfaitement : {{SKILLS}} ! {{TASTES}} Désolée pour les fautes et les bugs mais je suis toujours en version {{VERSION}} !",
+		"short": " Ici {{FIRSTNAME}}, {{ROLE}}, level {{LEVEL}}!",
+		"matrix_connection": "Hello World! {{FIRSTNAME}} Online! : )"
+	}
+}

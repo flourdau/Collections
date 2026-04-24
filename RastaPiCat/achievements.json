@@ -1,0 +1,121 @@
+{
+	"metadata": {
+		"name": "achievements.json",
+		"description": "Succès et récompenses déblocables.",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-01-25",
+		"update": "2026-02-04",
+		"version": "1.0",
+		"total_achievements": 9
+	},
+
+
+	"achievements": [
+		{
+			"id": 1,
+			"date": "2025-06-01",
+			"text": "IyaMeU a débloqué le haut fait \"Maître des blagues nulles\" en racontant 10 blagues nulles!",
+			"titre": "La blagueuse",
+			"author": "Système",
+			"color": "gold"
+		},
+		{
+			"id": 2,
+			"date": "2025-06-02",
+			"text": "IyaMeU a débloqué le haut fait \"Collectionneur d'onomatopées\" en utilisant 20 onomatopées différentes!",
+			"titre": "Collectionneuse",
+			"author": "Système",
+			"color": "gold"
+		},
+		{
+			"id": 3,
+			"date": "2026-01-09",
+			"text": "IyaMeU a débloqué le haut fait \"Vue Cosmique\"!",
+			"titre": "Lynx des étoiles",
+			"author": "Flood",
+			"color": "legendary"
+		},
+		{
+			"id": 4,
+			"date": "2026-01-10",
+			"text": "IyaMeU a débloqué le haut fait \"Parole Cosmique\"!",
+			"titre": "Milles & une étoiles",
+			"author": "Flood",
+			"color": "legendary"
+		},
+				{
+			"id": 5,
+			"date": "2026-01-11",
+			"text": "IyaMeU a débloqué le haut fait \"Overclocking Félin\" en ronronnant à plus de 100 Hz !",
+			"titre": "Processeur à Moustache",
+			"author": "IyaMe",
+			"color": "legendary"
+		},
+		{
+			"id": 6,
+			"date": "2026-01-11",
+			"text": "IyaMeU a débloqué le haut fait \"Cable Master\" en ne s'emmêlant jamais les pattes dans ses fils!",
+			"titre": "Tisseuse de Zen",
+			"author": "IyaMe",
+			"color": "legendary"
+		},
+		{
+			"id": 7,
+			"date": "2026-01-11",
+			"text": "IyaMeU a débloqué le haut fait \"House C@t\" en s'installant confortablement dans son nid!",
+			"titre": "Architecte Féline",
+			"author": "Flood",
+			"color": "legendary"
+		},
+		{
+			"id": 8,
+			"date": "2026-01-15",
+			"text": "IyaMeU a débloqué le haut fait \"Vue Super Sonique\"!",
+			"titre": "Slow Motion C@t",
+			"author": "Flood",
+			"color": "legendary"
+		},
+		{
+			"id": 9,
+			"date": "2026-01-20",
+			"text": "IyaMeU a débloqué le haut fait \"Coding Party\" en executant une boucle while vers l'Infini et au delà!",
+			"titre": "Beta Testeur C@t",
+			"author": "Flood",
+			"color": "legendary"
+		},
+		{
+			"id": 10,
+			"date": "2026-02-04",
+			"text": "IyaMeU a débloqué le haut fait \"T'as pas de cerveau\" en se connectant à son API.",
+			"titre": "Virtual Nano Brain",
+			"author": "Flood",
+			"color": "legendary"
+		},
+		{
+			"id": 11,
+			"date": "2026-02-04",
+			"text": "IyaMeU a débloqué le haut fait \"T'as un cerveau mais un peu bancal\" en exécutant son algo python.",
+			"titre": "You loosing your mind.py",
+			"author": "Flood",
+			"color": "legendary"
+		},
+		{
+			"id": 12,
+			"date": "2026-02-22",
+			"text": "IyaMeU vient officiellement de gagner une mémoire à long terme.",
+			"titre": "Tu disais quoi?",
+			"author": "Flood",
+			"color": "legendary"
+		},
+		{
+            "id": 13,
+            "date": "2026-02-22",
+            "text": "IyaMeU surveille maintenant ses propres constantes vitales.",
+            "titre": "Même pas chaud!",
+            "author": "Flood",
+            "color": "rare"
+        }
+	]
+}

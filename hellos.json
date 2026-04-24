@@ -1,0 +1,124 @@
+{
+	"metadata": {
+		"name": "hellos.json",
+		"description": "Formules de salutation pour débuter une interaction.",
+		"author": "Florian LOURDAUX",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "Standard Collection",
+		"create": "2026-01-25",
+		"update": "2026-02-17",
+		"version": "1.0"
+	},
+
+
+	"items": [
+		{
+			"terme": "Big Up",
+			"style": "urbain",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Ch@t-roule",
+			"style": "IyaMeU",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Bonjour",
+			"style": "formel",
+			"lang": "fr",
+			"period": "day"
+		},
+		{
+			"terme": "Bonsoir",
+			"style": "formel",
+			"lang": "fr",
+			"period": "evening"
+		},
+		{
+			"terme": "Coucou",
+			"style": "affectueux",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Hello",
+			"style": "neutre",
+			"lang": "en",
+			"period": "all"
+		},
+		{
+			"terme": "Hi",
+			"style": "informel",
+			"lang": "en",
+			"period": "all"
+		},
+		{
+			"terme": "Holà",
+			"style": "neutre",
+			"lang": "es",
+			"period": "all"
+		},
+		{
+			"terme": "Salut",
+			"style": "informel",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Salutation",
+			"style": "très formel",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Wesh",
+			"style": "argot",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Yo",
+			"style": "informel",
+			"lang": "en",
+			"period": "all"
+		},
+		{
+			"terme": "Ch@t-lut",
+			"style": "IyaMeU",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Ch@t-lutation",
+			"style": "IyaMeU",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Ch@t-lut",
+			"style": "IyaMeU",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Ch@t-lutttttt",
+			"style": "IyaMeU",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Salutttttt",
+			"style": "IyaMeU",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Yelloo!",
+			"style": "amical",
+			"lang": "fr",
+			"period": "all"
+		}
+	]
+}

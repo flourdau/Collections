@@ -1,0 +1,80 @@
+{
+"metadata": {
+                "name": "ratings.json",
+                "description": "Systèmes d'évaluation et de notation.",
+                "author": "Florian LOURDAUX",
+                "email": "lourdaux.florian.pro@gmail.com",
+                "project": "Standard Collection",
+                "create": "2026-01-25",
+                "update": "2026-01-25",
+                "version": "1.0"
+        },
+
+
+	"levels": [
+		{
+			"rank": 1,
+			"emoji": "❤",
+			"label_fr": "Parmi les meilleurs",
+			"label_en": "Best of the best",
+			"color_hex": "#FF0000",
+			"color_name": "red"
+		},
+		{
+			"rank": 2,
+			"emoji": "🧡",
+			"label_fr": "Incroyable",
+			"label_en": "Amazing",
+			"color_hex": "#FF8C00",
+			"color_name": "darkorange"
+		},
+		{
+			"rank": 3,
+			"emoji": "💚",
+			"label_fr": "Très bon",
+			"label_en": "Very good",
+			"color_hex": "#00FF00",
+			"color_name": "lime"
+		},
+		{
+			"rank": 4,
+			"emoji": "💙",
+			"label_fr": "Sympa",
+			"label_en": "Nice",
+			"color_hex": "#1E90FF",
+			"color_name": "dodgerblue"
+		},
+		{
+			"rank": 5,
+			"emoji": "💜",
+			"label_fr": "Bof bof",
+			"label_en": "So so",
+			"color_hex": "#800080",
+			"color_name": "purple"
+		},
+		{
+			"rank": 6,
+			"emoji": "❤️‍🩹",
+			"label_fr": "Mauvais",
+			"label_en": "Bad",
+			"color_hex": "#A52A2A",
+			"color_name": "brown"
+		},
+		{
+			"rank": 7,
+			"emoji": "💔",
+			"label_fr": "Très mauvais",
+			"label_en": "Very bad",
+			"color_hex": "#4B0082",
+			"color_name": "indigo"
+		},
+		{
+			"rank": 8,
+			"emoji": "🖤",
+			"label_fr": "Connais pas",
+			"label_en": "Don't know",
+			"color_hex": "#2F4F4F",
+			"color_name": "darkslategray"
+		}
+	]
+}

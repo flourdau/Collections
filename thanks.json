@@ -1,0 +1,27 @@
+{
+	"metadata": {
+		"name": "thanks.json",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-02-19",
+		"update": "2026-02-19",
+		"version": "1.0",
+		"total_text": 10
+	},
+
+
+	"data": [
+        "Thx",
+        "Thanks!",
+        "Thank you!",
+        "Merci!",
+        "Merci à toi!",
+        "Merci à vous!",
+        "Merci beaucoup!",
+        "Merci infiniment!",
+        "Merci pour tout!",
+        "Danke schön!",
+        "Gracias!"
+	]
+}

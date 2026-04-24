@@ -1,0 +1,351 @@
+{
+    "metadata": {
+        "name": "detections.json",
+        "description": "Logs et types de détections capteurs - Reclassé par type.",
+        "author": "Senacra Flora Van Haze",
+        "email": "lourdaux.florian.pro@gmail.com",
+        "project": "RastaPiC@t",
+        "create": "2026-01-25",
+        "update": "2026-03-11",
+        "version": "1.1",
+        "total_states": 65
+    },
+    "reactions": [
+		{
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "?",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Par les dreadlocks de Bob Marley!?",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Par les vinyles de Félix da HouseC@t!?",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Par les moustaches de Félix le C@t!?",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Par la guitare électrique de Jimmy Hendrix!?",
+            "couleur_alerte": "#00FF00"
+        },
+		{
+			"etat": "amical",
+			"type": "PIR_DETECTED",
+			"message": "Par les dreadouilles de Flood!? Qui va là!?",
+			"couleur_alerte": "#00FF00"
+		},
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Nom de Zeus!?",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Je rêve?",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Nom d'une ligne de code!?",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Booh!",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Hey!",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Hu?",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Z'ai cru voir un 'rominet?..",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "ôO",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Human Detected!",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Humain Détecté!",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Mouvement Détecté!",
+            "couleur_alerte": "#00FF00"
+        },
+		{
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Was ist das?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Qu'est-ce que c'est?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Youhou!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "What?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "WTF?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "What The F#ck?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Qui va là?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Quoi?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Qui?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "C'est quoi?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "C'est qui?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Ché ki? li?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "C'est à moi qu'tu parles?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "C'est toi?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Flood?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Was?",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Veuillez-vous identifier!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Identification en cours...",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Ne bouge plus!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Don't move!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Processus de contact visuel activé!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "doodo",
+            "type": "PIR_DETECTED",
+            "message": "Zzz... Capteurs en mod veille. Zzz...",
+            "couleur_alerte": "#4682B4"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Cible en vue!",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Mais oui! Mais oui! Z'ai bien vu un 'rominet!",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Scan en cours... Probabilité d'hostilité: 99.9% !",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "hostile",
+            "type": "PIR_DETECTED",
+            "message": "Piou! Piou! Piou! Piou!",
+            "couleur_alerte": "#FF0000"
+        },
+        {
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "Accès autorisé! Ronronnement système en cours...",
+            "couleur_alerte": "#00FF00"
+        },
+        {
+            "etat": "hostile",
+            "type": "PIR_DETECTED",
+            "message": "Cible détectée! mod défensif activé! Piou! Piou! Piou! Piou! XD",
+            "couleur_alerte": "#FF0000"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Sélectionnez le nom & appuyez sur le bouton d'appel!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "inconnu",
+            "type": "PIR_DETECTED",
+            "message": "Lancement du processus de déshumanisation en cours! Veuillez patienter!..  :)",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "L'espace temps vient d'être bouleversé par ton arrivée!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "Fuyez! Pauvres fous!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "VOUS! Neeee passeraiiii pas!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "Téléportation dans 3... 2... 1... Destination: Walibi Belgium!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "Téléportation dans 3... 2... 1... Destination: Lagoa! Dsl Mamie! XD",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "Téléportation dans 3... 2... 1... Destination: Ici et Maintenant!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "Ouverture du portail Interdimensionnel en cours!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "Bienvenue dans cette dimension parallèle!",
+            "couleur_alerte": "#FFA500"
+        },
+		{
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "Chargement du portail inter-dimenssionel en cours! Merci de patienter!",
+            "couleur_alerte": "#FFA500"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+	"metadata": {
+		"name": "nsfw_filters.json",
+		"description": "Termes et patterns pour la modération de contenu sensible.",
+		"author": "Florian LOURDAUX",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "Standard Collection",
+		"create": "2026-01-25",
+		"update": "2026-02-03",
+		"version": "1.0"
+	},
+
+
+	"data": [
+		"bâtard",
+		"bite",
+		"bordel",
+		"chier",
+		"connard",
+		"connasse",
+		"couille",
+		"enculé",
+		"enculer",
+		"enculeur",
+		"merde",
+		"nique",
+		"pétasse",
+		"poufiasse",
+		"pute",
+		"salope"
+	]
+}

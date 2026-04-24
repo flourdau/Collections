@@ -1,0 +1,81 @@
+{
+	"metadata": {
+		"name": "onomatopoeias.json",
+		"description": "Sons spécifiques au chat (ronronnements, etc).",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-01-25",
+		"update": "2026-02-22",
+		"version": "1.0",
+		"total_sounds": 5
+	},
+
+
+	"onomatopees": [
+		{
+			"son": "Miaou!",
+			"variantes": [
+				"Miaou!",
+				"Miaouuuuu!",
+				"Miaou?",
+				"Miaouuuuu?",
+				"Miaou...",
+				"Miaouuuuu...",
+				"Meow!",
+				"Mew!",
+				"MeYouuuuuuu!",
+				"MeYou!",
+				"MeYouuuuuuu...",
+				"MeYou...",
+				"MeYouuuuuuu?",
+				"MeYou?"
+			],
+			"signification": "Appel standard ou salut.",
+			"intensite": "modérée"
+		},
+		{
+			"son": "Roar!",
+			"variantes": [
+				"Roar!",
+				"HEuWIIiiiNAaAA!",
+				"Roarrr!",
+				"Grrrrr!"
+			],
+			"signification": "Rugissement de menace.",
+			"intensite": "faible"
+		},
+		{
+			"son": "Ronron!",
+			"variantes": [
+				"Ronron!",
+				"Rurr!",
+				"Rrrr!"
+			],
+			"signification": "Contentement, apaisement ou auto-guérison.",
+			"intensite": "faible"
+		},
+		{
+			"son": "Yowl!",
+			"variantes": [
+				"Yowl!",
+				"Maou!",
+				"Maooouu!",
+				"Maooouuuuuuu!"
+			],
+			"signification": "Cri long et plaintif, souvent lié à l'ennui ou à la saison des amours.",
+			"intensite": "très forte"
+		},
+		{
+			"son": "Haou!",
+		
+			"variantes": [
+				"Haou!",
+				"Haouu!",
+				"Haooouuuuuuu!"
+			],
+			"signification": "Les jours de pleine lune, pour célébrer la magie de la nuit et les mystères de l'univers.",
+			"intensite": "très forte"
+		}
+	]
+}

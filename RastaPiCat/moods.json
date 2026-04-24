@@ -1,0 +1,72 @@
+{
+	"metadata": {
+		"name": "moods.json",
+		"description": "Moteur emotionnel et reglages hardware associes.",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-01-25",
+		"update": "2026-02-05",
+		"version": "1.0",
+		"count": 7
+	},
+
+	"moods": [
+		{
+			"state": "Chill",
+			"display": {
+				"color": "green",
+				"speed": 0.003
+			},
+			"description": "Tout va bien, musique Dub en fond."
+		},
+		{
+			"state": "Warning",
+			"display": {
+				"color": "orange",
+				"speed": 0.001
+			},
+			"description": "Attention !"
+		},
+		{
+			"state": "Kernel_Panic",
+			"display": {
+				"color": "red",
+				"speed": 0.005
+			},
+			"description": "Erreur systeme !"
+		},
+		{
+			"state": "Love",
+			"display": {
+				"color": "pink",
+				"speed": 0.002
+			},
+			"description": "Mode C@t-linou d'amour active !"
+		},
+		{
+			"state": "Disco",
+			"display": {
+				"color": "rasta_cycle",
+				"speed": 0.0002
+			},
+			"description": "Disco Dance !"
+		},
+		{
+			"state": "Gourmand",
+			"display": {
+				"color": "chocolate_brown",
+				"speed": 0.002
+			},
+			"description": "Miam ! Chocolat."
+		},
+		{
+			"state": "Doodo",
+			"display": {
+				"color": "none",
+				"speed": 0
+			},
+			"description": "Il est 22H42, extinction des feux pour la nuit."
+		}
+	]
+}

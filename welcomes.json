@@ -1,0 +1,40 @@
+{
+	"metadata": {
+		"name": "welcomes.json",
+		"description": "Messages et protocoles d'accueil.",
+		"author": "Florian LOURDAUX",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "Standard Collection",
+		"create": "2026-01-25",
+		"update": "2026-01-25",
+		"version": "1.0"
+	},
+
+
+	"items": [
+		{
+			"terme": "Tadaaaa!!!",
+			"style": "humoristique",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Bienvenue!",
+			"style": "standard",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Ravi de t'accueillir!",
+			"style": "formel",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Welcome!",
+			"style": "standard",
+			"lang": "en",
+			"period": "all"
+		}
+	]
+}

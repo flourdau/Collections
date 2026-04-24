@@ -1,0 +1,82 @@
+{
+	"metadata": {
+		"name": "RastaPiC@t Existential Questions",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-01-25",
+		"update": "2026-02-05",
+		"version": "1.0",
+		"total_questions": 11
+	},
+
+
+	"questions": [
+		{
+			"id": 1,
+			"category": "Absurde",
+			"question": "Si un chat tombe toujours sur ses pattes et qu'une tartine tombe toujours du côté beurré, que se passe-t-il si on attache une tartine sur le dos d'un chat?",
+			"bug_level": "Critical"
+		},
+		{
+			"id": 2,
+			"category": "Science",
+			"question": "Est-ce que les poissons ont soif?",
+			"bug_level": "Low"
+		},
+		{
+			"id": 3,
+			"category": "Société",
+			"question": "Pourquoi 'séparé' s'écrit-il en un mot, alors que 'tous ensemble' s'écrit en deux?",
+			"bug_level": "Medium"
+		},
+		{
+			"id": 4,
+			"category": "Absurde",
+			"question": "Pourquoi on appuie plus fort sur les touches de la télécommande quand elle n'a plus de piles?",
+			"bug_level": "Low"
+		},
+		{
+			"id": 5,
+			"category": "Science",
+			"question": "Si l'univers est en expansion, dans quoi s'expand-il?",
+			"bug_level": "High"
+		},
+		{
+			"id": 6,
+			"category": "Linguistique",
+			"question": "Pourquoi les abréviations sont-elles si longues à écrire?",
+			"bug_level": "Medium"
+		},
+		{
+			"id": 7,
+			"category": "Métaphysique",
+			"question": "Si on remplace toutes les pièces d'un bateau une par une, est-ce toujours le même bateau?",
+			"bug_level": "High"
+		},
+		{
+			"id": 8,
+			"category": "Félin",
+			"question": "À quoi pense un chat quand il regarde un mur vide pendant 10 minutes?",
+			"bug_level": "Medium"
+		},
+		{
+			"id": 9,
+			"category": "Absurde",
+			"question": "Pourquoi les gens disent 'je dis ça, je dis rien', alors qu'ils viennent justement de dire quelque chose?",
+			"bug_level": "Low"
+		},
+		{
+			"id": 10,
+			"category": "Logique",
+			"question": "Si l'erreur est humaine, est-ce qu'un robot qui se trompe devient humain?",
+			"bug_level": "Critical"
+		},
+		{
+			"id": 11,
+			"category": "Absurde",
+			"question": "Papa c'est quoi cette bouteille de lait? Papa! C'est quoi cette bouteille de lait? Papa! C'est quoi cette bouteille de lait?",
+			"bug_level": "Low"
+		}
+	]
+}

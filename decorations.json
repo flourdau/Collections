@@ -1,6 +1,20 @@
-[
-        "🟩🟨🟥",
-        "🟪🟦⬜",
-        "...:::┇┇┇",
-        "💗❤💓♥"
-]
+{
+	"metadata": {
+		"name": "decorations.json",
+		"description": "Motifs et patterns décoratifs pour interfaces et terminaux.",
+		"author": "Florian LOURDAUX",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "Standard Collection",
+		"create": "2026-01-25",
+		"update": "2026-02-03",
+		"version": "1.0"
+	},
+
+
+	"data": [
+		"🟩🟨🟥",
+		"🟪🟦⬜",
+		"...:::┇┇┇",
+		"💗❤💓♥"
+	]
+}

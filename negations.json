@@ -1,0 +1,22 @@
+{
+        "metadata": {
+                "name": "negations.json",
+                "description": "Expressions de refus et de négation.",
+                "author": "Florian LOURDAUX",
+                "email": "lourdaux.florian.pro@gmail.com",
+                "project": "Standard Collection",
+                "create": "2026-01-25",
+                "update": "2026-02-03",
+                "version": "1.0"
+        },
+
+	
+	"data": [
+		"Je refuse",
+		"Ko",
+		"Negatif",
+		"Non",
+		"Nop",
+		"que nenni"
+	]
+}

@@ -1,0 +1,5136 @@
+{
+	"metadata": {
+		"name": "tags.json",
+		"description": "Étiquettes de classification transversales.",
+		"author": "Florian LOURDAUX",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "Standard Collection",
+		"create": "2026-01-25",
+		"update": "2026-01-25",
+		"version": "1.0"
+	},
+
+
+	"data": [
+		{
+			"name": "Développement Web",
+			"slug": "developpement-web",
+			"color": "#336699"
+		},
+		{
+			"name": "Intelligence Artificielle",
+			"slug": "intelligence-artificielle",
+			"color": "#663399"
+		},
+		{
+			"name": "Machine Learning",
+			"slug": "machine-learning",
+			"color": "#996633"
+		},
+		{
+			"name": "Cybersécurité",
+			"slug": "cybersecurite",
+			"color": "#339966"
+		},
+		{
+			"name": "Blockchain",
+			"slug": "blockchain",
+			"color": "#993366"
+		},
+		{
+			"name": "Cloud Computing",
+			"slug": "cloud-computing",
+			"color": "#669933"
+		},
+		{
+			"name": "DevOps",
+			"slug": "devops",
+			"color": "#339999"
+		},
+		{
+			"name": "Big Data",
+			"slug": "big-data",
+			"color": "#996699"
+		},
+		{
+			"name": "Internet des Objets",
+			"slug": "internet-des-objets",
+			"color": "#669999"
+		},
+		{
+			"name": "Réalité Virtuelle",
+			"slug": "realite-virtuelle",
+			"color": "#999966"
+		},
+		{
+			"name": "Réalité Augmentée",
+			"slug": "realite-augmentee",
+			"color": "#669966"
+		},
+		{
+			"name": "UI/UX Design",
+			"slug": "ui-ux-design",
+			"color": "#336666"
+		},
+		{
+			"name": "Productivité",
+			"slug": "productivite",
+			"color": "#993333"
+		},
+		{
+			"name": "Automatisation",
+			"slug": "automatisation",
+			"color": "#663366"
+		},
+		{
+			"name": "Open Source",
+			"slug": "open-source",
+			"color": "#336633"
+		},
+		{
+			"name": "PHP",
+			"slug": "php",
+			"color": "#8892be"
+		},
+		{
+			"name": "JavaScript",
+			"slug": "javascript",
+			"color": "#f7e018"
+		},
+		{
+			"name": "Python",
+			"slug": "python",
+			"color": "#3776ab"
+		},
+		{
+			"name": "Java",
+			"slug": "java",
+			"color": "#007396"
+		},
+		{
+			"name": "C++",
+			"slug": "c-plus-plus",
+			"color": "#00599c"
+		},
+		{
+			"name": "Ruby",
+			"slug": "ruby",
+			"color": "#cc342d"
+		},
+		{
+			"name": "Go",
+			"slug": "go",
+			"color": "#00add8"
+		},
+		{
+			"name": "Rust",
+			"slug": "rust",
+			"color": "#dea584"
+		},
+		{
+			"name": "TypeScript",
+			"slug": "typescript",
+			"color": "#3178c6"
+		},
+		{
+			"name": "HTML5",
+			"slug": "html5",
+			"color": "#e34c26"
+		},
+		{
+			"name": "CSS3",
+			"slug": "css3",
+			"color": "#264de4"
+		},
+		{
+			"name": "React",
+			"slug": "react",
+			"color": "#61dafb"
+		},
+		{
+			"name": "Angular",
+			"slug": "angular",
+			"color": "#dd0031"
+		},
+		{
+			"name": "Vue.js",
+			"slug": "vue-js",
+			"color": "#4fc08d"
+		},
+		{
+			"name": "Node.js",
+			"slug": "node-js",
+			"color": "#68a063"
+		},
+		{
+			"name": "Docker",
+			"slug": "docker",
+			"color": "#2496ed"
+		},
+		{
+			"name": "Kubernetes",
+			"slug": "kubernetes",
+			"color": "#326ce5"
+		},
+		{
+			"name": "AWS",
+			"slug": "aws",
+			"color": "#ff9900"
+		},
+		{
+			"name": "Azure",
+			"slug": "azure",
+			"color": "#0078d4"
+		},
+		{
+			"name": "Google Cloud",
+			"slug": "google-cloud",
+			"color": "#4285f4"
+		},
+		{
+			"name": "Bases de données",
+			"slug": "bases-de-donnees",
+			"color": "#a8a8a8"
+		},
+		{
+			"name": "SQL",
+			"slug": "sql",
+			"color": "#336699"
+		},
+		{
+			"name": "NoSQL",
+			"slug": "nosql",
+			"color": "#669966"
+		},
+		{
+			"name": "MongoDB",
+			"slug": "mongodb",
+			"color": "#47a248"
+		},
+		{
+			"name": "PostgreSQL",
+			"slug": "postgresql",
+			"color": "#336791"
+		},
+		{
+			"name": "IA générative",
+			"slug": "ia-generative",
+			"color": "#993399"
+		},
+		{
+			"name": "Chatbot",
+			"slug": "chatbot",
+			"color": "#339933"
+		},
+		{
+			"name": "Web3",
+			"slug": "web3",
+			"color": "#cc0066"
+		},
+		{
+			"name": "Metaverse",
+			"slug": "metaverse",
+			"color": "#990099"
+		},
+		{
+			"name": "Gaming",
+			"slug": "gaming",
+			"color": "#ff0000"
+		},
+		{
+			"name": "E-sport",
+			"slug": "e-sport",
+			"color": "#0000ff"
+		},
+		{
+			"name": "PC Gaming",
+			"slug": "pc-gaming",
+			"color": "#00ffff"
+		},
+		{
+			"name": "Console",
+			"slug": "console",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "PlayStation",
+			"slug": "playstation",
+			"color": "#003791"
+		},
+		{
+			"name": "Xbox",
+			"slug": "xbox",
+			"color": "#107c10"
+		},
+		{
+			"name": "Nintendo",
+			"slug": "nintendo",
+			"color": "#e4000f"
+		},
+		{
+			"name": "Rétrogaming",
+			"slug": "retrogaming",
+			"color": "#ffaa00"
+		},
+		{
+			"name": "RPG",
+			"slug": "rpg",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "FPS",
+			"slug": "fps",
+			"color": "#00ff00"
+		},
+		{
+			"name": "Stratégie",
+			"slug": "strategie",
+			"color": "#0000ff"
+		},
+		{
+			"name": "MMORPG",
+			"slug": "mmorpg",
+			"color": "#9900ff"
+		},
+		{
+			"name": "Indie Games",
+			"slug": "indie-games",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Streaming",
+			"slug": "streaming",
+			"color": "#9933cc"
+		},
+		{
+			"name": "Twitch",
+			"slug": "twitch",
+			"color": "#6441a5"
+		},
+		{
+			"name": "YouTube Gaming",
+			"slug": "youtube-gaming",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Musique",
+			"slug": "musique",
+			"color": "#00ffcc"
+		},
+		{
+			"name": "Pop",
+			"slug": "pop",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "Rock",
+			"slug": "rock",
+			"color": "#ff3300"
+		},
+		{
+			"name": "Hip-Hop",
+			"slug": "hip-hop",
+			"color": "#0066cc"
+		},
+		{
+			"name": "Électro",
+			"slug": "electro",
+			"color": "#9933ff"
+		},
+		{
+			"name": "Jazz",
+			"slug": "jazz",
+			"color": "#ff9933"
+		},
+		{
+			"name": "Classique",
+			"slug": "classique",
+			"color": "#cccccc"
+		},
+		{
+			"name": "Métal",
+			"slug": "metal",
+			"color": "#666666"
+		},
+		{
+			"name": "R&B",
+			"slug": "r-and-b",
+			"color": "#ff99cc"
+		},
+		{
+			"name": "Folk",
+			"slug": "folk",
+			"color": "#339900"
+		},
+		{
+			"name": "Indie",
+			"slug": "indie",
+			"color": "#ccff33"
+		},
+		{
+			"name": "K-pop",
+			"slug": "k-pop",
+			"color": "#ff66ff"
+		},
+		{
+			"name": "Rap",
+			"slug": "rap",
+			"color": "#003366"
+		},
+		{
+			"name": "Soul",
+			"slug": "soul",
+			"color": "#ff9999"
+		},
+		{
+			"name": "Blues",
+			"slug": "blues",
+			"color": "#000033"
+		},
+		{
+			"name": "Reggae",
+			"slug": "reggae",
+			"color": "#ffcc33"
+		},
+		{
+			"name": "Musique de film",
+			"slug": "musique-de-film",
+			"color": "#3366cc"
+		},
+		{
+			"name": "Concert",
+			"slug": "concert",
+			"color": "#990000"
+		},
+		{
+			"name": "Festival",
+			"slug": "festival",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Vinyle",
+			"slug": "vinyle",
+			"color": "#666699"
+		},
+		{
+			"name": "Podcasts",
+			"slug": "podcasts",
+			"color": "#ff3366"
+		},
+		{
+			"name": "Streaming Musical",
+			"slug": "streaming-musical",
+			"color": "#9966ff"
+		},
+		{
+			"name": "Spotify",
+			"slug": "spotify",
+			"color": "#1db954"
+		},
+		{
+			"name": "Apple Music",
+			"slug": "apple-music",
+			"color": "#fc3c44"
+		},
+		{
+			"name": "Soundcloud",
+			"slug": "soundcloud",
+			"color": "#ff7700"
+		},
+		{
+			"name": "DJ",
+			"slug": "dj",
+			"color": "#00ccff"
+		},
+		{
+			"name": "Production musicale",
+			"slug": "production-musicale",
+			"color": "#ccff66"
+		},
+		{
+			"name": "Synthétiseur",
+			"slug": "synthetiseur",
+			"color": "#9999ff"
+		},
+		{
+			"name": "Guitare",
+			"slug": "guitare",
+			"color": "#663300"
+		},
+		{
+			"name": "Batterie",
+			"slug": "batterie",
+			"color": "#333333"
+		},
+		{
+			"name": "Piano",
+			"slug": "piano",
+			"color": "#000000"
+		},
+		{
+			"name": "Web Dev",
+			"slug": "web-dev",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Mobile Dev",
+			"slug": "mobile-dev",
+			"color": "#00ff00"
+		},
+		{
+			"name": "Full-Stack",
+			"slug": "full-stack",
+			"color": "#0000ff"
+		},
+		{
+			"name": "Front-End",
+			"slug": "front-end",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Back-End",
+			"slug": "back-end",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "APIs",
+			"slug": "apis",
+			"color": "#00ccff"
+		},
+		{
+			"name": "Frameworks",
+			"slug": "frameworks",
+			"color": "#9933ff"
+		},
+		{
+			"name": "Libs",
+			"slug": "libs",
+			"color": "#ff99cc"
+		},
+		{
+			"name": "Databases",
+			"slug": "databases",
+			"color": "#336699"
+		},
+		{
+			"name": "Algorithms",
+			"slug": "algorithms",
+			"color": "#663399"
+		},
+		{
+			"name": "Data Science",
+			"slug": "data-science",
+			"color": "#996633"
+		},
+		{
+			"name": "AI",
+			"slug": "ai",
+			"color": "#339966"
+		},
+		{
+			"name": "AR/VR",
+			"slug": "ar-vr",
+			"color": "#993366"
+		},
+		{
+			"name": "Game Dev",
+			"slug": "game-dev",
+			"color": "#669933"
+		},
+		{
+			"name": "Web Design",
+			"slug": "web-design",
+			"color": "#339999"
+		},
+		{
+			"name": "Graphic Design",
+			"slug": "graphic-design",
+			"color": "#996699"
+		},
+		{
+			"name": "3D Modeling",
+			"slug": "3d-modeling",
+			"color": "#669999"
+		},
+		{
+			"name": "Animation",
+			"slug": "animation",
+			"color": "#999966"
+		},
+		{
+			"name": "VFX",
+			"slug": "vfx",
+			"color": "#669966"
+		},
+		{
+			"name": "Motion Graphics",
+			"slug": "motion-graphics",
+			"color": "#336666"
+		},
+		{
+			"name": "Photography",
+			"slug": "photography",
+			"color": "#993333"
+		},
+		{
+			"name": "Videography",
+			"slug": "videography",
+			"color": "#663366"
+		},
+		{
+			"name": "Film",
+			"slug": "film",
+			"color": "#336633"
+		},
+		{
+			"name": "Music Production",
+			"slug": "music-production",
+			"color": "#8892be"
+		},
+		{
+			"name": "Sound Design",
+			"slug": "sound-design",
+			"color": "#f7e018"
+		},
+		{
+			"name": "Audio Engineering",
+			"slug": "audio-engineering",
+			"color": "#3776ab"
+		},
+		{
+			"name": "Mixing",
+			"slug": "mixing",
+			"color": "#007396"
+		},
+		{
+			"name": "Mastering",
+			"slug": "mastering",
+			"color": "#00599c"
+		},
+		{
+			"name": "Ableton Live",
+			"slug": "ableton-live",
+			"color": "#cc342d"
+		},
+		{
+			"name": "FL Studio",
+			"slug": "fl-studio",
+			"color": "#00add8"
+		},
+		{
+			"name": "Logic Pro",
+			"slug": "logic-pro",
+			"color": "#dea584"
+		},
+		{
+			"name": "Pro Tools",
+			"slug": "pro-tools",
+			"color": "#3178c6"
+		},
+		{
+			"name": "Hardware",
+			"slug": "hardware",
+			"color": "#e34c26"
+		},
+		{
+			"name": "Software",
+			"slug": "software",
+			"color": "#264de4"
+		},
+		{
+			"name": "Périphériques",
+			"slug": "peripheriques",
+			"color": "#61dafb"
+		},
+		{
+			"name": "Électronique",
+			"slug": "electronique",
+			"color": "#dd0031"
+		},
+		{
+			"name": "Circuits",
+			"slug": "circuits",
+			"color": "#4fc08d"
+		},
+		{
+			"name": "Arduino",
+			"slug": "arduino",
+			"color": "#68a063"
+		},
+		{
+			"name": "Raspberry Pi",
+			"slug": "raspberry-pi",
+			"color": "#2496ed"
+		},
+		{
+			"name": "Robotics",
+			"slug": "robotics",
+			"color": "#326ce5"
+		},
+		{
+			"name": "Domotique",
+			"slug": "domotique",
+			"color": "#ff9900"
+		},
+		{
+			"name": "Smart Home",
+			"slug": "smart-home",
+			"color": "#0078d4"
+		},
+		{
+			"name": "Sécurité Maison",
+			"slug": "securite-maison",
+			"color": "#4285f4"
+		},
+		{
+			"name": "IoT",
+			"slug": "iot",
+			"color": "#a8a8a8"
+		},
+		{
+			"name": "Wearables",
+			"slug": "wearables",
+			"color": "#336699"
+		},
+		{
+			"name": "Smartwatches",
+			"slug": "smartwatches",
+			"color": "#669966"
+		},
+		{
+			"name": "Fitness Tech",
+			"slug": "fitness-tech",
+			"color": "#47a248"
+		},
+		{
+			"name": "Santé Connectée",
+			"slug": "sante-connectee",
+			"color": "#336791"
+		},
+		{
+			"name": "Biométrie",
+			"slug": "biometrie",
+			"color": "#993399"
+		},
+		{
+			"name": "Microservices",
+			"slug": "microservices",
+			"color": "#339933"
+		},
+		{
+			"name": "Containers",
+			"slug": "containers",
+			"color": "#cc0066"
+		},
+		{
+			"name": "Serverless",
+			"slug": "serverless",
+			"color": "#990099"
+		},
+		{
+			"name": "CI/CD",
+			"slug": "ci-cd",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Git",
+			"slug": "git",
+			"color": "#0000ff"
+		},
+		{
+			"name": "GitHub",
+			"slug": "github",
+			"color": "#00ffff"
+		},
+		{
+			"name": "GitLab",
+			"slug": "gitlab",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "Jira",
+			"slug": "jira",
+			"color": "#0052cc"
+		},
+		{
+			"name": "Agile",
+			"slug": "agile",
+			"color": "#0099ff"
+		},
+		{
+			"name": "Scrum",
+			"slug": "scrum",
+			"color": "#0066cc"
+		},
+		{
+			"name": "Kanban",
+			"slug": "kanban",
+			"color": "#00ff66"
+		},
+		{
+			"name": "Architecture logicielle",
+			"slug": "architecture-logicielle",
+			"color": "#ff6699"
+		},
+		{
+			"name": "Monolith",
+			"slug": "monolith",
+			"color": "#6633cc"
+		},
+		{
+			"name": "SaaS",
+			"slug": "saas",
+			"color": "#ff99ff"
+		},
+		{
+			"name": "PaaS",
+			"slug": "paas",
+			"color": "#cc00ff"
+		},
+		{
+			"name": "IaaS",
+			"slug": "iaas",
+			"color": "#6600cc"
+		},
+		{
+			"name": "Sécurité web",
+			"slug": "securite-web",
+			"color": "#009966"
+		},
+		{
+			"name": "Hacking",
+			"slug": "hacking",
+			"color": "#00cc33"
+		},
+		{
+			"name": "Pen Testing",
+			"slug": "pen-testing",
+			"color": "#00ff33"
+		},
+		{
+			"name": "Vie privée",
+			"slug": "vie-privee",
+			"color": "#006600"
+		},
+		{
+			"name": "Data Privacy",
+			"slug": "data-privacy",
+			"color": "#009900"
+		},
+		{
+			"name": "RGPD",
+			"slug": "rgpd",
+			"color": "#00cc00"
+		},
+		{
+			"name": "Figma",
+			"slug": "figma",
+			"color": "#a259ff"
+		},
+		{
+			"name": "Sketch",
+			"slug": "sketch",
+			"color": "#f7b731"
+		},
+		{
+			"name": "Adobe XD",
+			"slug": "adobe-xd",
+			"color": "#ff61f6"
+		},
+		{
+			"name": "Photoshop",
+			"slug": "photoshop",
+			"color": "#31a8ff"
+		},
+		{
+			"name": "Illustrator",
+			"slug": "illustrator",
+			"color": "#ff9a00"
+		},
+		{
+			"name": "After Effects",
+			"slug": "after-effects",
+			"color": "#9966ff"
+		},
+		{
+			"name": "Blender",
+			"slug": "blender",
+			"color": "#e87b00"
+		},
+		{
+			"name": "Unity",
+			"slug": "unity",
+			"color": "#000000"
+		},
+		{
+			"name": "Unreal Engine",
+			"slug": "unreal-engine",
+			"color": "#ffffff"
+		},
+		{
+			"name": "Mobile First",
+			"slug": "mobile-first",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Responsive Design",
+			"slug": "responsive-design",
+			"color": "#00ff00"
+		},
+		{
+			"name": "Progressive Web App",
+			"slug": "progressive-web-app",
+			"color": "#0000ff"
+		},
+		{
+			"name": "SEO",
+			"slug": "seo",
+			"color": "#ff0000"
+		},
+		{
+			"name": "SEM",
+			"slug": "sem",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "Marketing Digital",
+			"slug": "marketing-digital",
+			"color": "#00ccff"
+		},
+		{
+			"name": "Content Marketing",
+			"slug": "content-marketing",
+			"color": "#9933ff"
+		},
+		{
+			"name": "Growth Hacking",
+			"slug": "growth-hacking",
+			"color": "#ff99cc"
+		},
+		{
+			"name": "Email Marketing",
+			"slug": "email-marketing",
+			"color": "#336699"
+		},
+		{
+			"name": "Social Media",
+			"slug": "social-media",
+			"color": "#663399"
+		},
+		{
+			"name": "Symphony",
+			"slug": "symphony",
+			"color": "#000000"
+		},
+		{
+			"name": "Laravel",
+			"slug": "laravel",
+			"color": "#ff2d20"
+		},
+		{
+			"name": "Django",
+			"slug": "django",
+			"color": "#092e20"
+		},
+		{
+			"name": "Flask",
+			"slug": "flask",
+			"color": "#000000"
+		},
+		{
+			"name": "Spring",
+			"slug": "spring",
+			"color": "#6db33f"
+		},
+		{
+			"name": "ASP.NET",
+			"slug": "asp-net",
+			"color": "#512bd4"
+		},
+		{
+			"name": "Express.js",
+			"slug": "express-js",
+			"color": "#000000"
+		},
+		{
+			"name": "Next.js",
+			"slug": "next-js",
+			"color": "#000000"
+		},
+		{
+			"name": "Gatsby",
+			"slug": "gatsby",
+			"color": "#663399"
+		},
+		{
+			"name": "Nuxt.js",
+			"slug": "nuxt-js",
+			"color": "#00c58e"
+		},
+		{
+			"name": "Docker Swarm",
+			"slug": "docker-swarm",
+			"color": "#2496ed"
+		},
+		{
+			"name": "Helm",
+			"slug": "helm",
+			"color": "#0f1689"
+		},
+		{
+			"name": "Prometheus",
+			"slug": "prometheus",
+			"color": "#e6522c"
+		},
+		{
+			"name": "Grafana",
+			"slug": "grafana",
+			"color": "#f15a24"
+		},
+		{
+			"name": "Terraform",
+			"slug": "terraform",
+			"color": "#6232b5"
+		},
+		{
+			"name": "Ansible",
+			"slug": "ansible",
+			"color": "#ee0000"
+		},
+		{
+			"name": "Puppet",
+			"slug": "puppet",
+			"color": "#ffcf22"
+		},
+		{
+			"name": "Chef",
+			"slug": "chef",
+			"color": "#f1572c"
+		},
+		{
+			"name": "Unity3D",
+			"slug": "unity3d",
+			"color": "#000000"
+		},
+		{
+			"name": "Godot",
+			"slug": "godot",
+			"color": "#4a799c"
+		},
+		{
+			"name": "C#",
+			"slug": "c-sharp",
+			"color": "#68217a"
+		},
+		{
+			"name": "VR",
+			"slug": "vr",
+			"color": "#00ffff"
+		},
+		{
+			"name": "AR",
+			"slug": "ar",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "Mixed Reality",
+			"slug": "mixed-reality",
+			"color": "#9933cc"
+		},
+		{
+			"name": "HoloLens",
+			"slug": "hololens",
+			"color": "#0078d4"
+		},
+		{
+			"name": "Oculus",
+			"slug": "oculus",
+			"color": "#000000"
+		},
+		{
+			"name": "HTC Vive",
+			"slug": "htc-vive",
+			"color": "#000000"
+		},
+		{
+			"name": "Gaming PC",
+			"slug": "gaming-pc",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Custom PC",
+			"slug": "custom-pc",
+			"color": "#00ff00"
+		},
+		{
+			"name": "Hardware Review",
+			"slug": "hardware-review",
+			"color": "#0000ff"
+		},
+		{
+			"name": "GPU",
+			"slug": "gpu",
+			"color": "#ff0000"
+		},
+		{
+			"name": "CPU",
+			"slug": "cpu",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "RAM",
+			"slug": "ram",
+			"color": "#00ccff"
+		},
+		{
+			"name": "Stockage",
+			"slug": "stockage",
+			"color": "#9933ff"
+		},
+		{
+			"name": "Périphériques Gaming",
+			"slug": "peripheriques-gaming",
+			"color": "#ff99cc"
+		},
+		{
+			"name": "Clavier Mécanique",
+			"slug": "clavier-mecanique",
+			"color": "#336699"
+		},
+		{
+			"name": "Souris Gaming",
+			"slug": "souris-gaming",
+			"color": "#663399"
+		},
+		{
+			"name": "Casque Gaming",
+			"slug": "casque-gaming",
+			"color": "#996633"
+		},
+		{
+			"name": "Moniteur Gaming",
+			"slug": "moniteur-gaming",
+			"color": "#339966"
+		},
+		{
+			"name": "Sim Racing",
+			"slug": "sim-racing",
+			"color": "#993366"
+		},
+		{
+			"name": "Flight Sim",
+			"slug": "flight-sim",
+			"color": "#669933"
+		},
+		{
+			"name": "Jeu de rôle",
+			"slug": "jeu-de-role",
+			"color": "#339999"
+		},
+		{
+			"name": "Jeu de plateforme",
+			"slug": "jeu-de-plateforme",
+			"color": "#996699"
+		},
+		{
+			"name": "Jeu d'aventure",
+			"slug": "jeu-d-aventure",
+			"color": "#669999"
+		},
+		{
+			"name": "Jeu de survie",
+			"slug": "jeu-de-survie",
+			"color": "#999966"
+		},
+		{
+			"name": "Jeu d'horreur",
+			"slug": "jeu-d-horreur",
+			"color": "#669966"
+		},
+		{
+			"name": "Jeu de puzzle",
+			"slug": "jeu-de-puzzle",
+			"color": "#336666"
+		},
+		{
+			"name": "Jeu de combat",
+			"slug": "jeu-de-combat",
+			"color": "#993333"
+		},
+		{
+			"name": "Jeu de sport",
+			"slug": "jeu-de-sport",
+			"color": "#663366"
+		},
+		{
+			"name": "Esport",
+			"slug": "esport",
+			"color": "#336633"
+		},
+		{
+			"name": "LOL",
+			"slug": "lol",
+			"color": "#000000"
+		},
+		{
+			"name": "Dota 2",
+			"slug": "dota-2",
+			"color": "#000000"
+		},
+		{
+			"name": "CS:GO",
+			"slug": "cs-go",
+			"color": "#000000"
+		},
+		{
+			"name": "Valorant",
+			"slug": "valorant",
+			"color": "#ff4655"
+		},
+		{
+			"name": "Fortnite",
+			"slug": "fortnite",
+			"color": "#3399ff"
+		},
+		{
+			"name": "PUBG",
+			"slug": "pubg",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Overwatch",
+			"slug": "overwatch",
+			"color": "#ff9900"
+		},
+		{
+			"name": "World of Warcraft",
+			"slug": "world-of-warcraft",
+			"color": "#0000ff"
+		},
+		{
+			"name": "Final Fantasy",
+			"slug": "final-fantasy",
+			"color": "#9900ff"
+		},
+		{
+			"name": "The Elder Scrolls",
+			"slug": "the-elder-scrolls",
+			"color": "#663399"
+		},
+		{
+			"name": "Cyberpunk",
+			"slug": "cyberpunk",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "Steam",
+			"slug": "steam",
+			"color": "#000000"
+		},
+		{
+			"name": "Epic Games",
+			"slug": "epic-games",
+			"color": "#ff0000"
+		},
+		{
+			"name": "GOG",
+			"slug": "gog",
+			"color": "#6633ff"
+		},
+		{
+			"name": "Discord",
+			"slug": "discord",
+			"color": "#5865f2"
+		},
+		{
+			"name": "Twitch Stream",
+			"slug": "twitch-stream",
+			"color": "#6441a5"
+		},
+		{
+			"name": "YouTube Stream",
+			"slug": "youtube-stream",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Let's Play",
+			"slug": "lets-play",
+			"color": "#ff9933"
+		},
+		{
+			"name": "Game Review",
+			"slug": "game-review",
+			"color": "#33ccff"
+		},
+		{
+			"name": "Game News",
+			"slug": "game-news",
+			"color": "#66ff33"
+		},
+		{
+			"name": "Gaming Community",
+			"slug": "gaming-community",
+			"color": "#ff6699"
+		},
+		{
+			"name": "Musique Alternative",
+			"slug": "musique-alternative",
+			"color": "#3399ff"
+		},
+		{
+			"name": "Musique du monde",
+			"slug": "musique-du-monde",
+			"color": "#996633"
+		},
+		{
+			"name": "Folk Metal",
+			"slug": "folk-metal",
+			"color": "#660000"
+		},
+		{
+			"name": "Pop Punk",
+			"slug": "pop-punk",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "Ambient",
+			"slug": "ambient",
+			"color": "#003366"
+		},
+		{
+			"name": "Techno",
+			"slug": "techno",
+			"color": "#9900ff"
+		},
+		{
+			"name": "House",
+			"slug": "house",
+			"color": "#ff66cc"
+		},
+		{
+			"name": "Trance",
+			"slug": "trance",
+			"color": "#00ff99"
+		},
+		{
+			"name": "Drum and Bass",
+			"slug": "drum-and-bass",
+			"color": "#006699"
+		},
+		{
+			"name": "Dubstep",
+			"slug": "dubstep",
+			"color": "#ff00cc"
+		},
+		{
+			"name": "IDM",
+			"slug": "idm",
+			"color": "#336633"
+		},
+		{
+			"name": "Expérimental",
+			"slug": "experimental",
+			"color": "#6666ff"
+		},
+		{
+			"name": "Symphonique",
+			"slug": "symphonique",
+			"color": "#ccccff"
+		},
+		{
+			"name": "Soundtrack",
+			"slug": "soundtrack",
+			"color": "#6699ff"
+		},
+		{
+			"name": "Musique de jeu vidéo",
+			"slug": "musique-de-jeu-video",
+			"color": "#ff6666"
+		},
+		{
+			"name": "Karaoké",
+			"slug": "karaoke",
+			"color": "#ffcc99"
+		},
+		{
+			"name": "Instrumental",
+			"slug": "instrumental",
+			"color": "#99ff99"
+		},
+		{
+			"name": "Chant",
+			"slug": "chant",
+			"color": "#ccffcc"
+		},
+		{
+			"name": "Ukulélé",
+			"slug": "ukulele",
+			"color": "#ffcc33"
+		},
+		{
+			"name": "Violon",
+			"slug": "violon",
+			"color": "#993300"
+		},
+		{
+			"name": "Violoncelle",
+			"slug": "violoncelle",
+			"color": "#663300"
+		},
+		{
+			"name": "Flûte",
+			"slug": "flute",
+			"color": "#0099ff"
+		},
+		{
+			"name": "Trompette",
+			"slug": "trompette",
+			"color": "#ff9900"
+		},
+		{
+			"name": "Saxo",
+			"slug": "saxo",
+			"color": "#006699"
+		},
+		{
+			"name": "Clarinette",
+			"slug": "clarinette",
+			"color": "#660099"
+		},
+		{
+			"name": "Harpe",
+			"slug": "harpe",
+			"color": "#ff99ff"
+		},
+		{
+			"name": "Percussions",
+			"slug": "percussions",
+			"color": "#cc99ff"
+		},
+		{
+			"name": "World Music",
+			"slug": "world-music",
+			"color": "#ffcc66"
+		},
+		{
+			"name": "Indie Pop",
+			"slug": "indie-pop",
+			"color": "#ccff99"
+		},
+		{
+			"name": "Shoegaze",
+			"slug": "shoegaze",
+			"color": "#99ccff"
+		},
+		{
+			"name": "Post-Rock",
+			"slug": "post-rock",
+			"color": "#ff9966"
+		},
+		{
+			"name": "New Wave",
+			"slug": "new-wave",
+			"color": "#ff66cc"
+		},
+		{
+			"name": "Synthwave",
+			"slug": "synthwave",
+			"color": "#ff33cc"
+		},
+		{
+			"name": "Vaporwave",
+			"slug": "vaporwave",
+			"color": "#ff0099"
+		},
+		{
+			"name": "Lo-fi",
+			"slug": "lo-fi",
+			"color": "#666666"
+		},
+		{
+			"name": "J-Rock",
+			"slug": "j-rock",
+			"color": "#ff0000"
+		},
+		{
+			"name": "J-Pop",
+			"slug": "j-pop",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "Anime Music",
+			"slug": "anime-music",
+			"color": "#cc00ff"
+		},
+		{
+			"name": "Gaming Musique",
+			"slug": "gaming-musique",
+			"color": "#336699"
+		},
+		{
+			"name": "Développement mobile",
+			"slug": "developpement-mobile",
+			"color": "#00ffcc"
+		},
+		{
+			"name": "iOS",
+			"slug": "ios",
+			"color": "#000000"
+		},
+		{
+			"name": "Android",
+			"slug": "android",
+			"color": "#3ddc84"
+		},
+		{
+			"name": "Swift",
+			"slug": "swift",
+			"color": "#ff9900"
+		},
+		{
+			"name": "Kotlin",
+			"slug": "kotlin",
+			"color": "#7f52ff"
+		},
+		{
+			"name": "Flutter",
+			"slug": "flutter",
+			"color": "#02569b"
+		},
+		{
+			"name": "Xamarin",
+			"slug": "xamarin",
+			"color": "#3498db"
+		},
+		{
+			"name": "Cordova",
+			"slug": "cordova",
+			"color": "#6633ff"
+		},
+		{
+			"name": "Ionic",
+			"slug": "ionic",
+			"color": "#488aff"
+		},
+		{
+			"name": "PWA",
+			"slug": "pwa",
+			"color": "#5a0094"
+		},
+		{
+			"name": "GraphQL",
+			"slug": "graphql",
+			"color": "#e10098"
+		},
+		{
+			"name": "REST",
+			"slug": "rest",
+			"color": "#6699ff"
+		},
+		{
+			"name": "SOAP",
+			"slug": "soap",
+			"color": "#339966"
+		},
+		{
+			"name": "WebSockets",
+			"slug": "websockets",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Micro-frontend",
+			"slug": "micro-frontend",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Design system",
+			"slug": "design-system",
+			"color": "#00ff00"
+		},
+		{
+			"name": "Accessibility",
+			"slug": "accessibility",
+			"color": "#0000ff"
+		},
+		{
+			"name": "Performance web",
+			"slug": "performance-web",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "WebAssembly",
+			"slug": "webassembly",
+			"color": "#654ff0"
+		},
+		{
+			"name": "WebRTC",
+			"slug": "webrtc",
+			"color": "#0066cc"
+		},
+		{
+			"name": "WebGPU",
+			"slug": "webgpu",
+			"color": "#ff6600"
+		},
+		{
+			"name": "WebGL",
+			"slug": "webgl",
+			"color": "#00ff00"
+		},
+		{
+			"name": "Three.js",
+			"slug": "three-js",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Babylon.js",
+			"slug": "babylon-js",
+			"color": "#ccff00"
+		},
+		{
+			"name": "Physics",
+			"slug": "physics",
+			"color": "#0000ff"
+		},
+		{
+			"name": "Moteurs de jeux",
+			"slug": "moteurs-de-jeux",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "Indie Dev",
+			"slug": "indie-dev",
+			"color": "#9933cc"
+		},
+		{
+			"name": "AAA Games",
+			"slug": "aaa-games",
+			"color": "#ff3300"
+		},
+		{
+			"name": "Jeu mobile",
+			"slug": "jeu-mobile",
+			"color": "#00ffcc"
+		},
+		{
+			"name": "Cloud Gaming",
+			"slug": "cloud-gaming",
+			"color": "#ffcc66"
+		},
+		{
+			"name": "Stadia",
+			"slug": "stadia",
+			"color": "#990000"
+		},
+		{
+			"name": "GeForce Now",
+			"slug": "geforce-now",
+			"color": "#009900"
+		},
+		{
+			"name": "Xbox Cloud Gaming",
+			"slug": "xbox-cloud-gaming",
+			"color": "#107c10"
+		},
+		{
+			"name": "Série X",
+			"slug": "serie-x",
+			"color": "#107c10"
+		},
+		{
+			"name": "PS5",
+			"slug": "ps5",
+			"color": "#003791"
+		},
+		{
+			"name": "Nintendo Switch",
+			"slug": "nintendo-switch",
+			"color": "#e4000f"
+		},
+		{
+			"name": "PC",
+			"slug": "pc",
+			"color": "#336699"
+		},
+		{
+			"name": "Mac",
+			"slug": "mac",
+			"color": "#999999"
+		},
+		{
+			"name": "Linux",
+			"slug": "linux",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "Open World",
+			"slug": "open-world",
+			"color": "#669966"
+		},
+		{
+			"name": "Jeu de survie",
+			"slug": "jeu-de-survie",
+			"color": "#ff9933"
+		},
+		{
+			"name": "Jeu d'horreur",
+			"slug": "jeu-d-horreur",
+			"color": "#330000"
+		},
+		{
+			"name": "Jeu d'action",
+			"slug": "jeu-d-action",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Jeu de stratégie",
+			"slug": "jeu-de-strategie",
+			"color": "#0000ff"
+		},
+		{
+			"name": "Jeu de rôle",
+			"slug": "jeu-de-role",
+			"color": "#9900ff"
+		},
+		{
+			"name": "Jeu de course",
+			"slug": "jeu-de-course",
+			"color": "#00ffff"
+		},
+		{
+			"name": "Simulation",
+			"slug": "simulation",
+			"color": "#00ff00"
+		},
+		{
+			"name": "Jeu de combat",
+			"slug": "jeu-de-combat",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "MOBA",
+			"slug": "moba",
+			"color": "#336699"
+		},
+		{
+			"name": "Battle Royale",
+			"slug": "battle-royale",
+			"color": "#663399"
+		},
+		{
+			"name": "Roguelike",
+			"slug": "roguelike",
+			"color": "#996633"
+		},
+		{
+			"name": "Metroidvania",
+			"slug": "metroidvania",
+			"color": "#339966"
+		},
+		{
+			"name": "Visual Novel",
+			"slug": "visual-novel",
+			"color": "#993366"
+		},
+		{
+			"name": "RPG Maker",
+			"slug": "rpg-maker",
+			"color": "#669933"
+		},
+		{
+			"name": "Unity Asset Store",
+			"slug": "unity-asset-store",
+			"color": "#000000"
+		},
+		{
+			"name": "Unreal Marketplace",
+			"slug": "unreal-marketplace",
+			"color": "#ffffff"
+		},
+		{
+			"name": "Steam Workshop",
+			"slug": "steam-workshop",
+			"color": "#000000"
+		},
+		{
+			"name": "Modding",
+			"slug": "modding",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Speedrun",
+			"slug": "speedrun",
+			"color": "#00ff00"
+		},
+		{
+			"name": "High Score",
+			"slug": "high-score",
+			"color": "#0000ff"
+		},
+		{
+			"name": "Collection",
+			"slug": "collection",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Game Art",
+			"slug": "game-art",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "Game Design",
+			"slug": "game-design",
+			"color": "#00ccff"
+		},
+		{
+			"name": "Game Level Design",
+			"slug": "game-level-design",
+			"color": "#9933ff"
+		},
+		{
+			"name": "Game Narrative",
+			"slug": "game-narrative",
+			"color": "#ff99cc"
+		},
+		{
+			"name": "Streaming Live",
+			"slug": "streaming-live",
+			"color": "#336699"
+		},
+		{
+			"name": "YouTube",
+			"slug": "youtube",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Twitch",
+			"slug": "twitch",
+			"color": "#6441a5"
+		},
+		{
+			"name": "TikTok",
+			"slug": "tiktok",
+			"color": "#000000"
+		},
+		{
+			"name": "Instagram",
+			"slug": "instagram",
+			"color": "#833ab4"
+		},
+		{
+			"name": "Facebook",
+			"slug": "facebook",
+			"color": "#4267b2"
+		},
+		{
+			"name": "Twitter",
+			"slug": "twitter",
+			"color": "#1da1f2"
+		},
+		{
+			"name": "LinkedIn",
+			"slug": "linkedin",
+			"color": "#0a66c2"
+		},
+		{
+			"name": "Reddit",
+			"slug": "reddit",
+			"color": "#ff4500"
+		},
+		{
+			"name": "Discord Server",
+			"slug": "discord-server",
+			"color": "#5865f2"
+		},
+		{
+			"name": "Gaming News",
+			"slug": "gaming-news",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Game Awards",
+			"slug": "game-awards",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "E3",
+			"slug": "e3",
+			"color": "#000000"
+		},
+		{
+			"name": "Gamescom",
+			"slug": "gamescom",
+			"color": "#003366"
+		},
+		{
+			"name": "Tokyo Game Show",
+			"slug": "tokyo-game-show",
+			"color": "#ff0000"
+		},
+		{
+			"name": "PAX",
+			"slug": "pax",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "Playstation Experience",
+			"slug": "playstation-experience",
+			"color": "#003791"
+		},
+		{
+			"name": "Xbox FanFest",
+			"slug": "xbox-fanfest",
+			"color": "#107c10"
+		},
+		{
+			"name": "Nintendo Direct",
+			"slug": "nintendo-direct",
+			"color": "#e4000f"
+		},
+		{
+			"name": "Musique Indie",
+			"slug": "musique-indie",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "Musique Alternative",
+			"slug": "musique-alternative",
+			"color": "#6699ff"
+		},
+		{
+			"name": "Musique Électronique",
+			"slug": "musique-electronique",
+			"color": "#9900ff"
+		},
+		{
+			"name": "Musique de Film",
+			"slug": "musique-de-film",
+			"color": "#ff3366"
+		},
+		{
+			"name": "Soundtrack",
+			"slug": "soundtrack",
+			"color": "#336699"
+		},
+		{
+			"name": "Concert Live",
+			"slug": "concert-live",
+			"color": "#990000"
+		},
+		{
+			"name": "Musique en ligne",
+			"slug": "musique-en-ligne",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Plateforme musicale",
+			"slug": "plateforme-musicale",
+			"color": "#00ffcc"
+		},
+		{
+			"name": "Mixage",
+			"slug": "mixage",
+			"color": "#ff99cc"
+		},
+		{
+			"name": "Mastering",
+			"slug": "mastering",
+			"color": "#9966ff"
+		},
+		{
+			"name": "DAW",
+			"slug": "daw",
+			"color": "#663399"
+		},
+		{
+			"name": "Effets audio",
+			"slug": "effets-audio",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "Instruments virtuels",
+			"slug": "instruments-virtuels",
+			"color": "#9933ff"
+		},
+		{
+			"name": "Vocal",
+			"slug": "vocal",
+			"color": "#ffcc66"
+		},
+		{
+			"name": "Chœur",
+			"slug": "choeur",
+			"color": "#990000"
+		},
+		{
+			"name": "Opéra",
+			"slug": "opera",
+			"color": "#663366"
+		},
+		{
+			"name": "Musique classique",
+			"slug": "musique-classique",
+			"color": "#cccccc"
+		},
+		{
+			"name": "Musique contemporaine",
+			"slug": "musique-contemporaine",
+			"color": "#666666"
+		},
+		{
+			"name": "Symphonie",
+			"slug": "symphonie",
+			"color": "#336699"
+		},
+		{
+			"name": "Concerto",
+			"slug": "concerto",
+			"color": "#663399"
+		},
+		{
+			"name": "Sonate",
+			"slug": "sonate",
+			"color": "#996633"
+		},
+		{
+			"name": "Rap US",
+			"slug": "rap-us",
+			"color": "#339966"
+		},
+		{
+			"name": "Rap FR",
+			"slug": "rap-fr",
+			"color": "#993366"
+		},
+		{
+			"name": "Grime",
+			"slug": "grime",
+			"color": "#669933"
+		},
+		{
+			"name": "Hip-Hop Underground",
+			"slug": "hip-hop-underground",
+			"color": "#339999"
+		},
+		{
+			"name": "Trap",
+			"slug": "trap",
+			"color": "#996699"
+		},
+		{
+			"name": "Boom Bap",
+			"slug": "boom-bap",
+			"color": "#669999"
+		},
+		{
+			"name": "Jazz Fusion",
+			"slug": "jazz-fusion",
+			"color": "#999966"
+		},
+		{
+			"name": "Jazz Manouche",
+			"slug": "jazz-manouche",
+			"color": "#669966"
+		},
+		{
+			"name": "Free Jazz",
+			"slug": "free-jazz",
+			"color": "#336666"
+		},
+		{
+			"name": "Rock Progressif",
+			"slug": "rock-progressif",
+			"color": "#993333"
+		},
+		{
+			"name": "Rock Psychédélique",
+			"slug": "rock-psychedelique",
+			"color": "#663366"
+		},
+		{
+			"name": "Hard Rock",
+			"slug": "hard-rock",
+			"color": "#336633"
+		},
+		{
+			"name": "Heavy Metal",
+			"slug": "heavy-metal",
+			"color": "#8892be"
+		},
+		{
+			"name": "Pop Rock",
+			"slug": "pop-rock",
+			"color": "#f7e018"
+		},
+		{
+			"name": "Shoegaze",
+			"slug": "shoegaze",
+			"color": "#3776ab"
+		},
+		{
+			"name": "Punk",
+			"slug": "punk",
+			"color": "#007396"
+		},
+		{
+			"name": "Post-Punk",
+			"slug": "post-punk",
+			"color": "#00599c"
+		},
+		{
+			"name": "New Wave",
+			"slug": "new-wave",
+			"color": "#cc342d"
+		},
+		{
+			"name": "Musique Alternative",
+			"slug": "musique-alternative",
+			"color": "#00add8"
+		},
+		{
+			"name": "Pop Française",
+			"slug": "pop-francaise",
+			"color": "#dea584"
+		},
+		{
+			"name": "Rock Français",
+			"slug": "rock-francais",
+			"color": "#3178c6"
+		},
+		{
+			"name": "Rap Français",
+			"slug": "rap-francais",
+			"color": "#e34c26"
+		},
+		{
+			"name": "Technologie",
+			"slug": "technologie",
+			"color": "#264de4"
+		},
+		{
+			"name": "Informatique",
+			"slug": "informatique",
+			"color": "#61dafb"
+		},
+		{
+			"name": "Développement",
+			"slug": "developpement",
+			"color": "#dd0031"
+		},
+		{
+			"name": "Programmation",
+			"slug": "programmation",
+			"color": "#4fc08d"
+		},
+		{
+			"name": "Coding",
+			"slug": "coding",
+			"color": "#68a063"
+		},
+		{
+			"name": "Logiciels",
+			"slug": "logiciels",
+			"color": "#2496ed"
+		},
+		{
+			"name": "Matériel",
+			"slug": "materiel",
+			"color": "#326ce5"
+		},
+		{
+			"name": "Ordinateur",
+			"slug": "ordinateur",
+			"color": "#ff9900"
+		},
+		{
+			"name": "Smartphone",
+			"slug": "smartphone",
+			"color": "#0078d4"
+		},
+		{
+			"name": "Tablette",
+			"slug": "tablette",
+			"color": "#4285f4"
+		},
+		{
+			"name": "Montre connectée",
+			"slug": "montre-connectee",
+			"color": "#a8a8a8"
+		},
+		{
+			"name": "Casque VR",
+			"slug": "casque-vr",
+			"color": "#336699"
+		},
+		{
+			"name": "Maison connectée",
+			"slug": "maison-connectee",
+			"color": "#669966"
+		},
+		{
+			"name": "Réseaux",
+			"slug": "reseaux",
+			"color": "#47a248"
+		},
+		{
+			"name": "Wi-Fi",
+			"slug": "wi-fi",
+			"color": "#336791"
+		},
+		{
+			"name": "5G",
+			"slug": "5g",
+			"color": "#993399"
+		},
+		{
+			"name": "Sécurité",
+			"slug": "securite",
+			"color": "#339933"
+		},
+		{
+			"name": "Cryptographie",
+			"slug": "cryptographie",
+			"color": "#cc0066"
+		},
+		{
+			"name": "Hacking Éthique",
+			"slug": "hacking-ethique",
+			"color": "#990099"
+		},
+		{
+			"name": "Data Science",
+			"slug": "data-science",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Analyse de données",
+			"slug": "analyse-de-donnees",
+			"color": "#0000ff"
+		},
+		{
+			"name": "Visualisation de données",
+			"slug": "visualisation-de-donnees",
+			"color": "#00ffff"
+		},
+		{
+			"name": "Machine Learning",
+			"slug": "machine-learning",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "Deep Learning",
+			"slug": "deep-learning",
+			"color": "#003791"
+		},
+		{
+			"name": "Neural Networks",
+			"slug": "neural-networks",
+			"color": "#107c10"
+		},
+		{
+			"name": "NLP",
+			"slug": "nlp",
+			"color": "#e4000f"
+		},
+		{
+			"name": "Computer Vision",
+			"slug": "computer-vision",
+			"color": "#ffaa00"
+		},
+		{
+			"name": "Robotique",
+			"slug": "robotique",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "Automation",
+			"slug": "automation",
+			"color": "#00ff00"
+		},
+		{
+			"name": "IoT",
+			"slug": "iot",
+			"color": "#9900ff"
+		},
+		{
+			"name": "Microcontrôleur",
+			"slug": "microcontroleur",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Électronique",
+			"slug": "electronique",
+			"color": "#9933cc"
+		},
+		{
+			"name": "Imprimante 3D",
+			"slug": "imprimante-3d",
+			"color": "#ff99cc"
+		},
+		{
+			"name": "Modélisation 3D",
+			"slug": "modelisation-3d",
+			"color": "#336699"
+		},
+		{
+			"name": "Design Produit",
+			"slug": "design-produit",
+			"color": "#663399"
+		},
+		{
+			"name": "Prototypage",
+			"slug": "prototypage",
+			"color": "#996633"
+		},
+		{
+			"name": "Startup",
+			"slug": "startup",
+			"color": "#339966"
+		},
+		{
+			"name": "Entrepreneuriat",
+			"slug": "entrepreneuriat",
+			"color": "#993366"
+		},
+		{
+			"name": "Fintech",
+			"slug": "fintech",
+			"color": "#669933"
+		},
+		{
+			"name": "Edtech",
+			"slug": "edtech",
+			"color": "#339999"
+		},
+		{
+			"name": "Santé Tech",
+			"slug": "sante-tech",
+			"color": "#996699"
+		},
+		{
+			"name": "Green Tech",
+			"slug": "green-tech",
+			"color": "#669999"
+		},
+		{
+			"name": "Gaming",
+			"slug": "gaming",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Esports",
+			"slug": "esports",
+			"color": "#0000ff"
+		},
+		{
+			"name": "Jeux vidéos",
+			"slug": "jeux-videos",
+			"color": "#00ffff"
+		},
+		{
+			"name": "PC",
+			"slug": "pc",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "Console",
+			"slug": "console",
+			"color": "#003791"
+		},
+		{
+			"name": "Mobile",
+			"slug": "mobile",
+			"color": "#107c10"
+		},
+		{
+			"name": "Rétrogaming",
+			"slug": "retrogaming",
+			"color": "#e4000f"
+		},
+		{
+			"name": "Indie Games",
+			"slug": "indie-games",
+			"color": "#ffaa00"
+		},
+		{
+			"name": "RPG",
+			"slug": "rpg",
+			"color": "#ff00ff"
+		},
+		{
+			"name": "FPS",
+			"slug": "fps",
+			"color": "#00ff00"
+		},
+		{
+			"name": "Stratégie",
+			"slug": "strategie",
+			"color": "#0000ff"
+		},
+		{
+			"name": "MMORPG",
+			"slug": "mmorpg",
+			"color": "#9900ff"
+		},
+		{
+			"name": "Simulation",
+			"slug": "simulation",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Aventure",
+			"slug": "aventure",
+			"color": "#9933cc"
+		},
+		{
+			"name": "Horreur",
+			"slug": "horreur",
+			"color": "#330000"
+		},
+		{
+			"name": "Fighting",
+			"slug": "fighting",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Sport",
+			"slug": "sport",
+			"color": "#0000ff"
+		},
+		{
+			"name": "Compétition",
+			"slug": "competition",
+			"color": "#9900ff"
+		},
+		{
+			"name": "Streaming",
+			"slug": "streaming",
+			"color": "#ff6600"
+		},
+		{
+			"name": "YouTube",
+			"slug": "youtube",
+			"color": "#ff0000"
+		},
+		{
+			"name": "Twitch",
+			"slug": "twitch",
+			"color": "#6441a5"
+		},
+		{
+			"name": "Live",
+			"slug": "live",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "Review",
+			"slug": "review",
+			"color": "#00ccff"
+		},
+		{
+			"name": "News",
+			"slug": "news",
+			"color": "#66ff33"
+		},
+		{
+			"name": "Musique",
+			"slug": "musique",
+			"color": "#00ffcc"
+		},
+		{
+			"name": "Pop",
+			"slug": "pop",
+			"color": "#ffcc00"
+		},
+		{
+			"name": "Rock",
+			"slug": "rock",
+			"color": "#ff3300"
+		},
+		{
+			"name": "Hip-Hop",
+			"slug": "hip-hop",
+			"color": "#0066cc"
+		},
+		{
+			"name": "Électronique",
+			"slug": "electronique",
+			"color": "#9933ff"
+		},
+		{
+			"name": "Jazz",
+			"slug": "jazz",
+			"color": "#ff9933"
+		},
+		{
+			"name": "Classique",
+			"slug": "classique",
+			"color": "#cccccc"
+		},
+		{
+			"name": "Metal",
+			"slug": "metal",
+			"color": "#666666"
+		},
+		{
+			"name": "R&B",
+			"slug": "r-and-b",
+			"color": "#ff99cc"
+		},
+		{
+			"name": "Folk",
+			"slug": "folk",
+			"color": "#339900"
+		},
+		{
+			"name": "Indie",
+			"slug": "indie",
+			"color": "#ccff33"
+		},
+		{
+			"name": "K-pop",
+			"slug": "k-pop",
+			"color": "#ff66ff"
+		},
+		{
+			"name": "Rap",
+			"slug": "rap",
+			"color": "#003366"
+		},
+		{
+			"name": "Soul",
+			"slug": "soul",
+			"color": "#ff9999"
+		},
+		{
+			"name": "Blues",
+			"slug": "blues",
+			"color": "#000033"
+		},
+		{
+			"name": "Reggae",
+			"slug": "reggae",
+			"color": "#ffcc33"
+		},
+		{
+			"name": "Soundtrack",
+			"slug": "soundtrack",
+			"color": "#3366cc"
+		},
+		{
+			"name": "Concert",
+			"slug": "concert",
+			"color": "#990000"
+		},
+		{
+			"name": "Festival",
+			"slug": "festival",
+			"color": "#ff6600"
+		},
+		{
+			"name": "Vinyle",
+			"slug": "vinyle",
+			"color": "#666699"
+		},
+		{
+			"name": "Podcasts",
+			"slug": "podcasts",
+			"color": "#ff3366"
+		},
+		{
+			"name": "Streaming",
+			"slug": "streaming",
+			"color": "#9966ff"
+		},
+		{
+			"name": "Spotify",
+			"slug": "spotify",
+			"color": "#1db954"
+		},
+		{
+			"name": "Apple Music",
+			"slug": "apple-music",
+			"color": "#fc3c44"
+		},
+		{
+			"name": "Soundcloud",
+			"slug": "soundcloud",
+			"color": "#ff7700"
+		},
+		{
+			"name": "DJ",
+			"slug": "dj",
+			"color": "#00ccff"
+		},
+		{
+			"name": "Production",
+			"slug": "production",
+			"color": "#ccff66"
+		},
+		{
+			"name": "Synthétiseur",
+			"slug": "synthetiseur",
+			"color": "#9999ff"
+		},
+		{
+			"name": "Guitare",
+			"slug": "guitare",
+			"color": "#663300"
+		},
+		{
+			"name": "Batterie",
+			"slug": "batterie",
+			"color": "#333333"
+		},
+		{
+			"name": "Piano",
+			"slug": "piano",
+			"color": "#000000"
+		},
+		{
+			"name": "IoT",
+			"slug": "iot",
+			"color": "#60c6d7"
+		},
+		{
+			"name": "Wearables",
+			"slug": "wearables",
+			"color": "#8c44a2"
+		},
+		{
+			"name": "Robotique",
+			"slug": "robotique",
+			"color": "#d7b270"
+		},
+		{
+			"name": "Domotique",
+			"slug": "domotique",
+			"color": "#e05c31"
+		},
+		{
+			"name": "Impression 3D",
+			"slug": "impression-3d",
+			"color": "#9e77bf"
+		},
+		{
+			"name": "Drone",
+			"slug": "drone",
+			"color": "#8c44a2"
+		},
+		{
+			"name": "Automatisation",
+			"slug": "automatisation",
+			"color": "#5b8a4f"
+		},
+		{
+			"name": "Deep Fake",
+			"slug": "deep-fake",
+			"color": "#63d917"
+		},
+		{
+			"name": "Smart City",
+			"slug": "smart-city",
+			"color": "#95009a"
+		},
+		{
+			"name": "eSanté",
+			"slug": "esante",
+			"color": "#d7b270"
+		},
+		{
+			"name": "Fintech",
+			"slug": "fintech",
+			"color": "#181515"
+		},
+		{
+			"name": "Green Tech",
+			"slug": "green-tech",
+			"color": "#60c6d7"
+		},
+		{
+			"name": "Gaming",
+			"slug": "gaming",
+			"color": "#336152"
+		},
+		{
+			"name": "Esport",
+			"slug": "esport",
+			"color": "#d3065b"
+		},
+		{
+			"name": "Jeu mobile",
+			"slug": "jeu-mobile",
+			"color": "#97772c"
+		},
+		{
+			"name": "VR",
+			"slug": "vr",
+			"color": "#9b9400"
+		},
+		{
+			"name": "AR",
+			"slug": "ar",
+			"color": "#8e0a4f"
+		},
+		{
+			"name": "Jeu de rôle",
+			"slug": "jeu-de-role",
+			"color": "#35a6e8"
+		},
+		{
+			"name": "Jeu de survie",
+			"slug": "jeu-de-survie",
+			"color": "#3b45a0"
+		},
+		{
+			"name": "Jeu d'horreur",
+			"slug": "jeu-d-horreur",
+			"color": "#361a4f"
+		},
+		{
+			"name": "Jeu de stratégie",
+			"slug": "jeu-de-strategie",
+			"color": "#4a4968"
+		},
+		{
+			"name": "Jeu d'action",
+			"slug": "jeu-d-action",
+			"color": "#9d8926"
+		},
+		{
+			"name": "Jeu de plateforme",
+			"slug": "jeu-de-plateforme",
+			"color": "#85d5c0"
+		},
+		{
+			"name": "Jeu d'aventure",
+			"slug": "jeu-d-aventure",
+			"color": "#94b1ae"
+		},
+		{
+			"name": "Jeu de combat",
+			"slug": "jeu-de-combat",
+			"color": "#a494d8"
+		},
+		{
+			"name": "Jeu de course",
+			"slug": "jeu-de-course",
+			"color": "#210940"
+		},
+		{
+			"name": "Jeu de sport",
+			"slug": "jeu-de-sport",
+			"color": "#f147b3"
+		},
+		{
+			"name": "Jeu de puzzle",
+			"slug": "jeu-de-puzzle",
+			"color": "#91500a"
+		},
+		{
+			"name": "Jeu de société",
+			"slug": "jeu-de-societe",
+			"color": "#110738"
+		},
+		{
+			"name": "Jeu en ligne",
+			"slug": "jeu-en-ligne",
+			"color": "#a4794e"
+		},
+		{
+			"name": "Jeu multijoueur",
+			"slug": "jeu-multijoueur",
+			"color": "#633c7c"
+		},
+		{
+			"name": "Solo",
+			"slug": "solo",
+			"color": "#852655"
+		},
+		{
+			"name": "Coop",
+			"slug": "coop",
+			"color": "#c402b8"
+		},
+		{
+			"name": "Indie Dev",
+			"slug": "indie-dev",
+			"color": "#7686b2"
+		},
+		{
+			"name": "Développement",
+			"slug": "developpement",
+			"color": "#e86e37"
+		},
+		{
+			"name": "Programmation",
+			"slug": "programmation",
+			"color": "#3c7e73"
+		},
+		{
+			"name": "Code",
+			"slug": "code",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Coding",
+			"slug": "coding",
+			"color": "#477840"
+		},
+		{
+			"name": "Web",
+			"slug": "web",
+			"color": "#5b262e"
+		},
+		{
+			"name": "Mobile",
+			"slug": "mobile",
+			"color": "#49f55e"
+		},
+		{
+			"name": "Application",
+			"slug": "application",
+			"color": "#d986f3"
+		},
+		{
+			"name": "Framework",
+			"slug": "framework",
+			"color": "#76d75c"
+		},
+		{
+			"name": "Librairie",
+			"slug": "librairie",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Base de données",
+			"slug": "base-de-donnees",
+			"color": "#292729"
+		},
+		{
+			"name": "SQL",
+			"slug": "sql",
+			"color": "#6d5257"
+		},
+		{
+			"name": "NoSQL",
+			"slug": "nosql",
+			"color": "#46c827"
+		},
+		{
+			"name": "Cloud",
+			"slug": "cloud",
+			"color": "#9c279c"
+		},
+		{
+			"name": "DevOps",
+			"slug": "devops",
+			"color": "#2e9a26"
+		},
+		{
+			"name": "CI/CD",
+			"slug": "ci-cd",
+			"color": "#525287"
+		},
+		{
+			"name": "Sécurité",
+			"slug": "securite",
+			"color": "#7d00d3"
+		},
+		{
+			"name": "Cyber",
+			"slug": "cyber",
+			"color": "#d87d90"
+		},
+		{
+			"name": "Hacking",
+			"slug": "hacking",
+			"color": "#a11181"
+		},
+		{
+			"name": "Ethique",
+			"slug": "ethique",
+			"color": "#17013d"
+		},
+		{
+			"name": "IA",
+			"slug": "ia",
+			"color": "#609315"
+		},
+		{
+			"name": "ML",
+			"slug": "ml",
+			"color": "#33261a"
+		},
+		{
+			"name": "Blockchain",
+			"slug": "blockchain",
+			"color": "#537c35"
+		},
+		{
+			"name": "Crypto",
+			"slug": "crypto",
+			"color": "#5d2c47"
+		},
+		{
+			"name": "NFT",
+			"slug": "nft",
+			"color": "#f8f170"
+		},
+		{
+			"name": "Web3",
+			"slug": "web3",
+			"color": "#210516"
+		},
+		{
+			"name": "Gaming",
+			"slug": "gaming",
+			"color": "#811e5f"
+		},
+		{
+			"name": "E-sport",
+			"slug": "e-sport",
+			"color": "#014c50"
+		},
+		{
+			"name": "Jeu",
+			"slug": "jeu",
+			"color": "#53331b"
+		},
+		{
+			"name": "Console",
+			"slug": "console",
+			"color": "#ce6400"
+		},
+		{
+			"name": "PC",
+			"slug": "pc",
+			"color": "#4a460b"
+		},
+		{
+			"name": "Mobile",
+			"slug": "mobile",
+			"color": "#617c0a"
+		},
+		{
+			"name": "RPG",
+			"slug": "rpg",
+			"color": "#e05c10"
+		},
+		{
+			"name": "FPS",
+			"slug": "fps",
+			"color": "#207e46"
+		},
+		{
+			"name": "Stratégie",
+			"slug": "strategie",
+			"color": "#9476c5"
+		},
+		{
+			"name": "Aventure",
+			"slug": "aventure",
+			"color": "#e256b8"
+		},
+		{
+			"name": "Simulation",
+			"slug": "simulation",
+			"color": "#f06159"
+		},
+		{
+			"name": "Indépendant",
+			"slug": "independant",
+			"color": "#a1114c"
+		},
+		{
+			"name": "AAA",
+			"slug": "aaa",
+			"color": "#c8065d"
+		},
+		{
+			"name": "Retro",
+			"slug": "retro",
+			"color": "#4f014e"
+		},
+		{
+			"name": "Musique",
+			"slug": "musique",
+			"color": "#40e90c"
+		},
+		{
+			"name": "Genre",
+			"slug": "genre",
+			"color": "#821a8a"
+		},
+		{
+			"name": "Artiste",
+			"slug": "artiste",
+			"color": "#042c13"
+		},
+		{
+			"name": "Album",
+			"slug": "album",
+			"color": "#a565f4"
+		},
+		{
+			"name": "Titre",
+			"slug": "titre",
+			"color": "#d2b4f9"
+		},
+		{
+			"name": "Concert",
+			"slug": "concert",
+			"color": "#1767de"
+		},
+		{
+			"name": "Live",
+			"slug": "live",
+			"color": "#183204"
+		},
+		{
+			"name": "Studio",
+			"slug": "studio",
+			"color": "#b8c347"
+		},
+		{
+			"name": "Production",
+			"slug": "production",
+			"color": "#d86161"
+		},
+		{
+			"name": "Mixage",
+			"slug": "mixage",
+			"color": "#33e614"
+		},
+		{
+			"name": "Mastering",
+			"slug": "mastering",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "DJ",
+			"slug": "dj",
+			"color": "#927e1f"
+		},
+		{
+			"name": "Remix",
+			"slug": "remix",
+			"color": "#e05c31"
+		},
+		{
+			"name": "Instrument",
+			"slug": "instrument",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Guitare",
+			"slug": "guitare",
+			"color": "#477840"
+		},
+		{
+			"name": "Batterie",
+			"slug": "batterie",
+			"color": "#d7b270"
+		},
+		{
+			"name": "Synthé",
+			"slug": "synthe",
+			"color": "#63d917"
+		},
+		{
+			"name": "Piano",
+			"slug": "piano",
+			"color": "#60c6d7"
+		},
+		{
+			"name": "Basse",
+			"slug": "basse",
+			"color": "#8c44a2"
+		},
+		{
+			"name": "Ukulele",
+			"slug": "ukulele",
+			"color": "#d73243"
+		},
+		{
+			"name": "Violon",
+			"slug": "violon",
+			"color": "#8f000b"
+		},
+		{
+			"name": "Trompette",
+			"slug": "trompette",
+			"color": "#891823"
+		},
+		{
+			"name": "Saxophone",
+			"slug": "saxophone",
+			"color": "#a81985"
+		},
+		{
+			"name": "Flûte",
+			"slug": "flute",
+			"color": "#4b1e60"
+		},
+		{
+			"name": "Batterie",
+			"slug": "batterie",
+			"color": "#17013d"
+		},
+		{
+			"name": "Drones",
+			"slug": "drones",
+			"color": "#f1636c"
+		},
+		{
+			"name": "IoT Security",
+			"slug": "iot-security",
+			"color": "#5143a5"
+		},
+		{
+			"name": "AR/VR Dev",
+			"slug": "ar-vr-dev",
+			"color": "#0b1574"
+		},
+		{
+			"name": "Smart Home",
+			"slug": "smart-home",
+			"color": "#181515"
+		},
+		{
+			"name": "AI Ethics",
+			"slug": "ai-ethics",
+			"color": "#4a4968"
+		},
+		{
+			"name": "Quantum Computing",
+			"slug": "quantum-computing",
+			"color": "#9d8926"
+		},
+		{
+			"name": "Gaming",
+			"slug": "gaming",
+			"color": "#7686b2"
+		},
+		{
+			"name": "Esport",
+			"slug": "esport",
+			"color": "#e86e37"
+		},
+		{
+			"name": "MMORPG",
+			"slug": "mmorpg",
+			"color": "#3c7e73"
+		},
+		{
+			"name": "FPS",
+			"slug": "fps",
+			"color": "#0d9233"
+		},
+		{
+			"name": "RPG",
+			"slug": "rpg",
+			"color": "#477840"
+		},
+		{
+			"name": "Indie",
+			"slug": "indie",
+			"color": "#5b262e"
+		},
+		{
+			"name": "Jeu mobile",
+			"slug": "jeu-mobile",
+			"color": "#49f55e"
+		},
+		{
+			"name": "Consoles",
+			"slug": "consoles",
+			"color": "#d986f3"
+		},
+		{
+			"name": "PC Gaming",
+			"slug": "pc-gaming",
+			"color": "#76d75c"
+		},
+		{
+			"name": "Musique",
+			"slug": "musique",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Indie Pop",
+			"slug": "indie-pop",
+			"color": "#292729"
+		},
+		{
+			"name": "Rock",
+			"slug": "rock",
+			"color": "#6d5257"
+		},
+		{
+			"name": "Electro",
+			"slug": "electro",
+			"color": "#46c827"
+		},
+		{
+			"name": "Classique",
+			"slug": "classique",
+			"color": "#9c279c"
+		},
+		{
+			"name": "Hip-Hop",
+			"slug": "hip-hop",
+			"color": "#2e9a26"
+		},
+		{
+			"name": "Jazz",
+			"slug": "jazz",
+			"color": "#525287"
+		},
+		{
+			"name": "Cinéma",
+			"slug": "cinema",
+			"color": "#7d00d3"
+		},
+		{
+			"name": "Série",
+			"slug": "serie",
+			"color": "#d87d90"
+		},
+		{
+			"name": "Podcast",
+			"slug": "podcast",
+			"color": "#a11181"
+		},
+		{
+			"name": "Hardware",
+			"slug": "hardware",
+			"color": "#17013d"
+		},
+		{
+			"name": "Software",
+			"slug": "software",
+			"color": "#609315"
+		},
+		{
+			"name": "Web",
+			"slug": "web",
+			"color": "#33261a"
+		},
+		{
+			"name": "Design",
+			"slug": "design",
+			"color": "#537c35"
+		},
+		{
+			"name": "Code",
+			"slug": "code",
+			"color": "#5d2c47"
+		},
+		{
+			"name": "Open Source",
+			"slug": "open-source",
+			"color": "#f8f170"
+		},
+		{
+			"name": "Linux",
+			"slug": "linux",
+			"color": "#210516"
+		},
+		{
+			"name": "Windows",
+			"slug": "windows",
+			"color": "#811e5f"
+		},
+		{
+			"name": "Mac",
+			"slug": "mac",
+			"color": "#014c50"
+		},
+		{
+			"name": "Android",
+			"slug": "android",
+			"color": "#53331b"
+		},
+		{
+			"name": "iOS",
+			"slug": "ios",
+			"color": "#ce6400"
+		},
+		{
+			"name": "Flutter",
+			"slug": "flutter",
+			"color": "#4a460b"
+		},
+		{
+			"name": "React Native",
+			"slug": "react-native",
+			"color": "#617c0a"
+		},
+		{
+			"name": "Laravel",
+			"slug": "laravel",
+			"color": "#e05c10"
+		},
+		{
+			"name": "Symphony",
+			"slug": "symphony",
+			"color": "#207e46"
+		},
+		{
+			"name": "Django",
+			"slug": "django",
+			"color": "#9476c5"
+		},
+		{
+			"name": "Flask",
+			"slug": "flask",
+			"color": "#e256b8"
+		},
+		{
+			"name": "Express",
+			"slug": "express",
+			"color": "#f06159"
+		},
+		{
+			"name": "Docker",
+			"slug": "docker",
+			"color": "#a1114c"
+		},
+		{
+			"name": "Kubernetes",
+			"slug": "kubernetes",
+			"color": "#c8065d"
+		},
+		{
+			"name": "Ansible",
+			"slug": "ansible",
+			"color": "#4f014e"
+		},
+		{
+			"name": "Terraform",
+			"slug": "terraform",
+			"color": "#40e90c"
+		},
+		{
+			"name": "AWS",
+			"slug": "aws",
+			"color": "#821a8a"
+		},
+		{
+			"name": "Azure",
+			"slug": "azure",
+			"color": "#042c13"
+		},
+		{
+			"name": "GCP",
+			"slug": "gcp",
+			"color": "#a565f4"
+		},
+		{
+			"name": "GraphQL",
+			"slug": "graphql",
+			"color": "#d2b4f9"
+		},
+		{
+			"name": "REST",
+			"slug": "rest",
+			"color": "#1767de"
+		},
+		{
+			"name": "API",
+			"slug": "api",
+			"color": "#183204"
+		},
+		{
+			"name": "Front-End",
+			"slug": "front-end",
+			"color": "#b8c347"
+		},
+		{
+			"name": "Back-End",
+			"slug": "back-end",
+			"color": "#d86161"
+		},
+		{
+			"name": "Full-Stack",
+			"slug": "full-stack",
+			"color": "#33e614"
+		},
+		{
+			"name": "Jeu de cartes",
+			"slug": "jeu-de-cartes",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Jeu de société",
+			"slug": "jeu-de-societe",
+			"color": "#927e1f"
+		},
+		{
+			"name": "Jeu de plateau",
+			"slug": "jeu-de-plateau",
+			"color": "#e05c31"
+		},
+		{
+			"name": "Jeu de dés",
+			"slug": "jeu-de-des",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Jeu de rôle sur table",
+			"slug": "jeu-de-role-sur-table",
+			"color": "#477840"
+		},
+		{
+			"name": "Donjons et Dragons",
+			"slug": "donjons-et-dragons",
+			"color": "#d7b270"
+		},
+		{
+			"name": "Jeu de figurine",
+			"slug": "jeu-de-figurine",
+			"color": "#63d917"
+		},
+		{
+			"name": "Peinture de figurine",
+			"slug": "peinture-de-figurine",
+			"color": "#60c6d7"
+		},
+		{
+			"name": "Warhammer",
+			"slug": "warhammer",
+			"color": "#8c44a2"
+		},
+		{
+			"name": "Magic",
+			"slug": "magic",
+			"color": "#d73243"
+		},
+		{
+			"name": "Board games",
+			"slug": "board-games",
+			"color": "#8f000b"
+		},
+		{
+			"name": "Card games",
+			"slug": "card-games",
+			"color": "#891823"
+		},
+		{
+			"name": "Tabletop games",
+			"slug": "tabletop-games",
+			"color": "#a81985"
+		},
+		{
+			"name": "Jeu de rôle",
+			"slug": "jeu-de-role",
+			"color": "#4b1e60"
+		},
+		{
+			"name": "Cosplay",
+			"slug": "cosplay",
+			"color": "#17013d"
+		},
+		{
+			"name": "Convention",
+			"slug": "convention",
+			"color": "#f1636c"
+		},
+		{
+			"name": "Exposition",
+			"slug": "exposition",
+			"color": "#5143a5"
+		},
+		{
+			"name": "Salon",
+			"slug": "salon",
+			"color": "#0b1574"
+		},
+		{
+			"name": "Geek",
+			"slug": "geek",
+			"color": "#181515"
+		},
+		{
+			"name": "Nerd",
+			"slug": "nerd",
+			"color": "#4a4968"
+		},
+		{
+			"name": "Otaku",
+			"slug": "otaku",
+			"color": "#9d8926"
+		},
+		{
+			"name": "Manga",
+			"slug": "manga",
+			"color": "#7686b2"
+		},
+		{
+			"name": "Anime",
+			"slug": "anime",
+			"color": "#e86e37"
+		},
+		{
+			"name": "Comics",
+			"slug": "comics",
+			"color": "#3c7e73"
+		},
+		{
+			"name": "BD",
+			"slug": "bd",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Livres",
+			"slug": "livres",
+			"color": "#477840"
+		},
+		{
+			"name": "Lecture",
+			"slug": "lecture",
+			"color": "#5b262e"
+		},
+		{
+			"name": "Roman",
+			"slug": "roman",
+			"color": "#49f55e"
+		},
+		{
+			"name": "Fantasy",
+			"slug": "fantasy",
+			"color": "#d986f3"
+		},
+		{
+			"name": "Sci-fi",
+			"slug": "sci-fi",
+			"color": "#76d75c"
+		},
+		{
+			"name": "Horreur",
+			"slug": "horreur",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Thriller",
+			"slug": "thriller",
+			"color": "#292729"
+		},
+		{
+			"name": "Policier",
+			"slug": "policier",
+			"color": "#6d5257"
+		},
+		{
+			"name": "Dystopie",
+			"slug": "dystopie",
+			"color": "#46c827"
+		},
+		{
+			"name": "Cyberpunk",
+			"slug": "cyberpunk",
+			"color": "#9c279c"
+		},
+		{
+			"name": "Steampunk",
+			"slug": "steampunk",
+			"color": "#2e9a26"
+		},
+		{
+			"name": "Science",
+			"slug": "science",
+			"color": "#525287"
+		},
+		{
+			"name": "Espace",
+			"slug": "espace",
+			"color": "#7d00d3"
+		},
+		{
+			"name": "Astronomie",
+			"slug": "astronomie",
+			"color": "#d87d90"
+		},
+		{
+			"name": "Physique",
+			"slug": "physique",
+			"color": "#a11181"
+		},
+		{
+			"name": "Chimie",
+			"slug": "chimie",
+			"color": "#17013d"
+		},
+		{
+			"name": "Biologie",
+			"slug": "biologie",
+			"color": "#609315"
+		},
+		{
+			"name": "Écologie",
+			"slug": "ecologie",
+			"color": "#33261a"
+		},
+		{
+			"name": "Environnement",
+			"slug": "environnement",
+			"color": "#537c35"
+		},
+		{
+			"name": "Mathématiques",
+			"slug": "mathematiques",
+			"color": "#5d2c47"
+		},
+		{
+			"name": "Histoire",
+			"slug": "histoire",
+			"color": "#f8f170"
+		},
+		{
+			"name": "Géographie",
+			"slug": "geographie",
+			"color": "#210516"
+		},
+		{
+			"name": "Culture",
+			"slug": "culture",
+			"color": "#811e5f"
+		},
+		{
+			"name": "Art",
+			"slug": "art",
+			"color": "#014c50"
+		},
+		{
+			"name": "Peinture",
+			"slug": "peinture",
+			"color": "#53331b"
+		},
+		{
+			"name": "Dessin",
+			"slug": "dessin",
+			"color": "#ce6400"
+		},
+		{
+			"name": "Cinéma",
+			"slug": "cinema",
+			"color": "#4a460b"
+		},
+		{
+			"name": "Séries",
+			"slug": "series",
+			"color": "#617c0a"
+		},
+		{
+			"name": "Film",
+			"slug": "film",
+			"color": "#e05c10"
+		},
+		{
+			"name": "Théâtre",
+			"slug": "theatre",
+			"color": "#207e46"
+		},
+		{
+			"name": "Lecture",
+			"slug": "lecture",
+			"color": "#9476c5"
+		},
+		{
+			"name": "Roman",
+			"slug": "roman",
+			"color": "#e256b8"
+		},
+		{
+			"name": "BD",
+			"slug": "bd",
+			"color": "#f06159"
+		},
+		{
+			"name": "Comics",
+			"slug": "comics",
+			"color": "#a1114c"
+		},
+		{
+			"name": "Manga",
+			"slug": "manga",
+			"color": "#c8065d"
+		},
+		{
+			"name": "Anime",
+			"slug": "anime",
+			"color": "#4f014e"
+		},
+		{
+			"name": "Dessins animés",
+			"slug": "dessins-animes",
+			"color": "#40e90c"
+		},
+		{
+			"name": "Série TV",
+			"slug": "serie-tv",
+			"color": "#821a8a"
+		},
+		{
+			"name": "Film d'horreur",
+			"slug": "film-d-horreur",
+			"color": "#042c13"
+		},
+		{
+			"name": "Film de science-fiction",
+			"slug": "film-de-science-fiction",
+			"color": "#a565f4"
+		},
+		{
+			"name": "Film fantastique",
+			"slug": "film-fantastique",
+			"color": "#d2b4f9"
+		},
+		{
+			"name": "Film d'action",
+			"slug": "film-d-action",
+			"color": "#1767de"
+		},
+		{
+			"name": "Film policier",
+			"slug": "film-policier",
+			"color": "#183204"
+		},
+		{
+			"name": "Film comique",
+			"slug": "film-comique",
+			"color": "#b8c347"
+		},
+		{
+			"name": "Film dramatique",
+			"slug": "film-dramatique",
+			"color": "#d86161"
+		},
+		{
+			"name": "Film d'amour",
+			"slug": "film-d-amour",
+			"color": "#33e614"
+		},
+		{
+			"name": "Film pour enfants",
+			"slug": "film-pour-enfants",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Jeu de société",
+			"slug": "jeu-de-societe",
+			"color": "#927e1f"
+		},
+		{
+			"name": "Jeu de rôle",
+			"slug": "jeu-de-role",
+			"color": "#e05c31"
+		},
+		{
+			"name": "Jeu de plateau",
+			"slug": "jeu-de-plateau",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Jeu de cartes",
+			"slug": "jeu-de-cartes",
+			"color": "#477840"
+		},
+		{
+			"name": "Jeu de dés",
+			"slug": "jeu-de-des",
+			"color": "#d7b270"
+		},
+		{
+			"name": "Jeu de figurine",
+			"slug": "jeu-de-figurine",
+			"color": "#63d917"
+		},
+		{
+			"name": "Jeu de rôle sur table",
+			"slug": "jeu-de-role-sur-table",
+			"color": "#60c6d7"
+		},
+		{
+			"name": "Donjons et Dragons",
+			"slug": "donjons-et-dragons",
+			"color": "#8c44a2"
+		},
+		{
+			"name": "Warhammer",
+			"slug": "warhammer",
+			"color": "#d73243"
+		},
+		{
+			"name": "Magic",
+			"slug": "magic",
+			"color": "#8f000b"
+		},
+		{
+			"name": "Jeu de rôle en ligne",
+			"slug": "jeu-de-role-en-ligne",
+			"color": "#891823"
+		},
+		{
+			"name": "Jeu de stratégie en ligne",
+			"slug": "jeu-de-strategie-en-ligne",
+			"color": "#a81985"
+		},
+		{
+			"name": "Jeu de tir en ligne",
+			"slug": "jeu-de-tir-en-ligne",
+			"color": "#4b1e60"
+		},
+		{
+			"name": "Jeu de survie en ligne",
+			"slug": "jeu-de-survie-en-ligne",
+			"color": "#17013d"
+		},
+		{
+			"name": "Jeu de course en ligne",
+			"slug": "jeu-de-course-en-ligne",
+			"color": "#f1636c"
+		},
+		{
+			"name": "Jeu de sport en ligne",
+			"slug": "jeu-de-sport-en-ligne",
+			"color": "#5143a5"
+		},
+		{
+			"name": "Jeu de puzzle en ligne",
+			"slug": "jeu-de-puzzle-en-ligne",
+			"color": "#0b1574"
+		},
+		{
+			"name": "Jeu de plateforme en ligne",
+			"slug": "jeu-de-plateforme-en-ligne",
+			"color": "#181515"
+		},
+		{
+			"name": "Jeu de combat en ligne",
+			"slug": "jeu-de-combat-en-ligne",
+			"color": "#4a4968"
+		},
+		{
+			"name": "Jeu d'aventure en ligne",
+			"slug": "jeu-d-aventure-en-ligne",
+			"color": "#9d8926"
+		},
+		{
+			"name": "Jeu d'horreur en ligne",
+			"slug": "jeu-d-horreur-en-ligne",
+			"color": "#7686b2"
+		},
+		{
+			"name": "Jeu de stratégie temps réel",
+			"slug": "jeu-de-strategie-temps-reel",
+			"color": "#e86e37"
+		},
+		{
+			"name": "Jeu de stratégie au tour par tour",
+			"slug": "jeu-de-strategie-au-tour-par-tour",
+			"color": "#3c7e73"
+		},
+		{
+			"name": "Jeu de gestion",
+			"slug": "jeu-de-gestion",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Jeu de construction",
+			"slug": "jeu-de-construction",
+			"color": "#477840"
+		},
+		{
+			"name": "Jeu de simulation de vie",
+			"slug": "jeu-de-simulation-de-vie",
+			"color": "#5b262e"
+		},
+		{
+			"name": "Jeu de simulation de vol",
+			"slug": "jeu-de-simulation-de-vol",
+			"color": "#49f55e"
+		},
+		{
+			"name": "Jeu de simulation de course",
+			"slug": "jeu-de-simulation-de-course",
+			"color": "#d986f3"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#76d75c"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#292729"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#6d5257"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#46c827"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#9c279c"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#2e9a26"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#525287"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#7d00d3"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#d87d90"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#a11181"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#17013d"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#609315"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#33261a"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#537c35"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#5d2c47"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#f8f170"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#210516"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#811e5f"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#014c50"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#53331b"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#ce6400"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#4a460b"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#617c0a"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#e05c10"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#207e46"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#9476c5"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#e256b8"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#f06159"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#a1114c"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#c8065d"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#4f014e"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#40e90c"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#821a8a"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#042c13"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#a565f4"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#d2b4f9"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#1767de"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#183204"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#b8c347"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#d86161"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#33e614"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#927e1f"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#e05c31"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#477840"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#d7b270"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#63d917"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#60c6d7"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#8c44a2"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#d73243"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#8f000b"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#891823"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#a81985"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#4b1e60"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#17013d"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#f1636c"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#5143a5"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#0b1574"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#181515"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#4a4968"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#9d8926"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#7686b2"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#e86e37"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#3c7e73"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#477840"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#5b262e"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#49f55e"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#d986f3"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#76d75c"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#292729"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#6d5257"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#46c827"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#9c279c"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#2e9a26"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#525287"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#7d00d3"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#d87d90"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#a11181"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#17013d"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#609315"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#33261a"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#537c35"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#5d2c47"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#f8f170"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#210516"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#811e5f"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#014c50"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#53331b"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#ce6400"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#4a460b"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#617c0a"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#e05c10"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#207e46"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#9476c5"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#e256b8"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#f06159"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#a1114c"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#c8065d"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#4f014e"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#40e90c"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#821a8a"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#042c13"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#a565f4"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#d2b4f9"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#1767de"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#183204"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#b8c347"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#d86161"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#33e614"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#927e1f"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#e05c31"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#477840"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#d7b270"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#63d917"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#60c6d7"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#8c44a2"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#d73243"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#8f000b"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#891823"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#a81985"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#4b1e60"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#17013d"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#f1636c"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#5143a5"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#0b1574"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#181515"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#4a4968"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#9d8926"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#7686b2"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#e86e37"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#3c7e73"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#477840"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#5b262e"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#49f55e"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#d986f3"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#76d75c"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#292729"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#6d5257"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#46c827"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#9c279c"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#2e9a26"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#525287"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#7d00d3"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#d87d90"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#a11181"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#17013d"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#609315"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#33261a"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#537c35"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#5d2c47"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#f8f170"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#210516"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#811e5f"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#014c50"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#53331b"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#ce6400"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#4a460b"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#617c0a"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#e05c10"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#207e46"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#9476c5"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#e256b8"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#f06159"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#a1114c"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#c8065d"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#4f014e"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#40e90c"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#821a8a"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#042c13"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#a565f4"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#d2b4f9"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#1767de"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#183204"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#b8c347"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#d86161"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#33e614"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#927e1f"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#e05c31"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#477840"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#d7b270"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#63d917"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#60c6d7"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#8c44a2"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#d73243"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#8f000b"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#891823"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#a81985"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#4b1e60"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#17013d"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#f1636c"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#5143a5"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#0b1574"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#181515"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#4a4968"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#9d8926"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#7686b2"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#e86e37"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#3c7e73"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#0d9233"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#477840"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#5b262e"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#49f55e"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#d986f3"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#76d75c"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#2c1c69"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#292729"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#6d5257"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#46c827"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#9c279c"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#2e9a26"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#525287"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#7d00d3"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#d87d90"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#a11181"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#17013d"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#609315"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#33261a"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#537c35"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#5d2c47"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#f8f170"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#210516"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#811e5f"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#014c50"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#53331b"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#ce6400"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#4a460b"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#617c0a"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#e05c10"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#207e46"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#9476c5"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#e256b8"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#f06159"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#a1114c"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#c8065d"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#4f014e"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#40e90c"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#821a8a"
+		},
+		{
+			"name": "Jeu de simulation de rôle",
+			"slug": "jeu-de-simulation-de-role",
+			"color": "#042c13"
+		},
+		{
+			"name": "Jeu de simulation de sport",
+			"slug": "jeu-de-simulation-de-sport",
+			"color": "#a565f4"
+		},
+		{
+			"name": "Jeu de simulation de combat",
+			"slug": "jeu-de-simulation-de-combat",
+			"color": "#d2b4f9"
+		},
+		{
+			"name": "Jeu de simulation de stratégie",
+			"slug": "jeu-de-simulation-de-strategie",
+			"color": "#1767de"
+		},
+		{
+			"name": "Jeu de simulation d'horreur",
+			"slug": "jeu-de-simulation-d-horreur",
+			"color": "#183204"
+		},
+		{
+			"name": "Jeu de simulation d'aventure",
+			"slug": "jeu-de-simulation-d-aventure",
+			"color": "#b8c347"
+		},
+		{
+			"name": "Jeu de simulation de puzzle",
+			"slug": "jeu-de-simulation-de-puzzle",
+			"color": "#d86161"
+		},
+		{
+			"name": "Jeu de simulation de plateforme",
+			"slug": "jeu-de-simulation-de-plateforme",
+			"color": "#33e614"
+		}
+	]
+}

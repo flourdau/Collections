@@ -1,0 +1,25 @@
+{
+	"metadata": {
+		"name": "affirmations.json",
+		"description": "Expressions d'accord et de validation.",
+		"author": "Florian LOURDAUX",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "Standard Collection",
+		"create": "2026-01-25",
+		"update": "2026-02-03",
+		"version": "1.0"
+	},
+
+
+	"data": [
+		"Oui",
+		"Je confirme",
+		"Affirmatif",
+		"Positif",
+		"Yep",
+		"Exactement",
+		"Carrément",
+		"Effectivement",
+		"Ok"
+	]
+}

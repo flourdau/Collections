@@ -1,0 +1,64 @@
+{
+	"metadata": {
+		"name": "byes.json",
+		"description": "Formules de déconnexion pour terminer une interaction.",
+		"author": "Florian LOURDAUX",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "Standard Collection",
+		"create": "2026-01-25",
+		"update": "2026-01-30",
+		"version": "1.0"
+	},
+
+
+	"items": [
+		{
+			"terme": "à plus",
+			"style": "informel",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "à plus dans le bus!",
+			"style": "humour",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Aurevoir!",
+			"style": "formel",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Bye!",
+			"style": "informel",
+			"lang": "en",
+			"period": "all"
+		},
+		{
+			"terme": "Good Bye!",
+			"style": "informel",
+			"lang": "en",
+			"period": "all"
+		},
+		{
+			"terme": "Ciao!",
+			"style": "informel",
+			"lang": "it",
+			"period": "all"
+		},
+		{
+			"terme": "Adios!",
+			"style": "formel",
+			"lang": "es",
+			"period": "all"
+		},
+		{
+			"terme": "Sayonara!",
+			"style": "formel",
+			"lang": "jp",
+			"period": "all"
+		}
+	]
+}

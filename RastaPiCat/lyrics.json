@@ -1,0 +1,396 @@
+{
+	"metadata": {
+		"name": "lyrics.json",
+		"description": "Base de données des paroles et chansons pour la matrice et le système audio.",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-01-25",
+		"update": "2026-02-05",
+		"version": "1.0",
+		"count": 12
+	},
+
+
+
+	"tracks": [
+		{
+			"title": "Three Little Birds",
+			"artist": "Bob Marley",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Don't worry about a thing, Cause every little thing gonna be alright. Singin, don't worry about a thing, Cause every little thing gonna be alright! Rise up this mornin', Smiled with the risin' sun. Three little birds pitch by my doorstep, Singin' sweet songs of melodies pure and true, Sayin', this is my message to you-ou-ou: Don't worry about a thing, 'cause every little thing gonna be alright. Singin', don't worry about a thing, 'cause every little thing gonna be alright!",
+				"short": "Don't worry...    ...about a thing...    ...Cause every little thing gonna be alright!..    <^ )   "
+			}
+		},
+		{
+			"title": "Could You Be Loved",
+			"artist": "Bob Marley",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Don't let them fool ya, Or even try to school ya! Oh, no! We've got a mind of our own, So go to hell if what you're thinking is not right! Love would never leave us alone, A-yin the darkness there must come out to light. So, let's face it, Could you be loved and be loved? Could you be loved and be loved? Don't let them change ya, Oh! ...Or even rearrange ya! Oh, no! We've got a life of our own, So go to hell if what you're thinking is not right! We wish you'd realize that we all shall rise in the end. So, let's face it, Could you be loved and be loved? Could you be loved and be loved?",
+				"short": "Could you be loved...    ...And be loved?..    ...Could you be loved...    ...And be loved?..    "
+			}
+		},
+		{
+			"title": "Natty Dreadlocks",
+			"artist": "Bob Marley",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Natty Dreadlocks!",
+				"short": "Natty Dreadlocks!   "
+			}
+		},
+		{
+			"title": "La pression",
+			"artist": "Zoxea",
+			"mood_target": "chill",
+			"versions": {
+				"full": "La pressi-Yo! Pire qu'une agressi-Yo!",
+				"short": "La pressi-Yo!    Pire qu'une agressi-Yo!   "
+			}
+		},
+		{
+			"title": "Ma Bulle",
+			"artist": "Volodia",
+			"mood_target": "chill",
+			"versions": {
+				"full": "j'suis bien dans ma bulle,..    ...à contempler la Lune.   ",
+				"short": "j'suis bien dans ma bulle,..    ...à contempler la Lune.   "
+			}
+		},
+		{
+			"title": "Denver",
+			"artist": "??",
+			"mood_target": "generic",
+			"versions": {
+				"full": "Denver!..    ...Le dernier dinosaure...    ...C'est mon ami & bien plus encore!..    ",
+				"short": "Denver!..    ...Le dernier dinosaure...    ...C'est mon ami & bien plus encore!..    "
+			}
+		},
+		{
+			"title": "Polyurethane (Plastic life)",
+			"artist": "Disiz",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Vu-Vu c'qu'on supporte, on est tous des héros!.. ...& vu, c'qu'on supporte on est tous des Héros!..",
+				"short": "Vu-Vu c'qu'on supporte,     on est tous des héros!..    ...& vu, c'qu'on supporte on est tous des Héros!..    "
+			}
+		},
+		{
+			"title": "Pourquoi",
+			"artist": "Busta Flex",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Pourquoi le ciel est bleu? Pourquoi l'on vit mieux à deux? Pourquoi l'argent et le pouvoir rendent tes amis dangereux? La jalousie, l'hypocrisie, quand elle choisit son camp! fout l'camp! fout l'camp! J'ai vu des amis armés, des mères alarmées de voir partir leur fils loin, mais pas pour l'armée Charmés par l'odeur de l'argent et du succès Vu qu'c'est pour un temps, à 20 ans on nique tout et tu l'sais Et si ça marche ça se voit, tu peux pas l'cacher Les autres le savent et les bouches commencent à baver, à cracher À mâcher leur haine parce que ça n'passe pas Un mec du quartier qui s'en sort, ça ça n'passe pas Et les amis changent, l'argent les rend étranges Et si tu manges mieux qu'eux, ils se vengent Quand je repense à notre enfance Tous soudés positifs pour que les choses avancent Mais elles ont avancé vite pour certains Pas assez pour d'autres, c'n'est pas leur faute, mais celle du destin Un destin aux cartes distribuées par un manchot Voilà pourquoi certains de mes frères face au succès ont le sang chaud Pourquoi le ciel est bleu, pourquoi l'on vit mieux à deux Pourquoi l'argent et le pouvoir rend des amis dangereux La jalousie, l'hypocrisie, quand elle choisit son camp, fout l'camp, fout l'camp Pourquoi le ciel est bleu, pourquoi l'on vit mieux à deux Pourquoi l'argent et le pouvoir rend des amis dangereux La jalousie, l'hypocrisie, quand elle choisit son camp, fout l'camp, fout l'camp Croyant que la galère nous ralliait sous une bannière Croyant que la galère nous ralliait sous une bannière J'ai bossé avec des personnes en qui j'avais confiance Pendant quatre années les choses allaient dans l'bon sens Voyages, restaurants, loisirs choisir Entre le meilleur et le meilleur pour mon avenir Mon avenir, la musique Mais pour eux c'était plus pour le fric Hip Hop de luxe à 50 keuss le sweat ils m'ont aveuglé Par des avantages qui m'ont déréglé, m'ont rendu cinglé Contre un mur m'épingler, certains voulaient m'étrangler Ça n'a pas tardé, le 20 mars 97 ça a bardé Les mêmes soi-disant amis dévoués pour être près de moi Étaient loin de moi lorsque je criais \"aidez-moi\" Mais non, l'argent te rend sourd, aveugle et muet Impossible de bouger même si ton pote se fait tuer Tu penses à toi et à tes intérêts avant tout, espèce de lâche Le jour du jugement dernier y aura pas d'cash Et tu oses encore te regarder dans une glace À partir de 97 souviens-toi du 20 mars Les amis changent, l'argent les rend étranges Et si tu manges mieux qu'eux, ils se vengent Quand je repense à mon enfance Tous soudés positifs pour que les choses avancent Pourquoi le ciel est bleu, pourquoi l'on vit mieux à deux Pourquoi l'argent et le pouvoir rend des amis dangereux La jalousie, l'hypocrisie, quand elle choisit son camp, fout l'camp, fout l'camp Pourquoi le ciel est bleu, pourquoi l'on vit mieux à deux Pourquoi l'argent et le pouvoir rend des amis dangereux La jalousie, l'hypocrisie, quand elle choisit son camp, fout l'camp, fout l'camp Croyant que la galère nous ralliait sous une bannière Croyant que la galère nous ralliait sous une bannière",
+				"short": "Pourquoi le ciel est bleu?    Pourquoi l'on vit mieux à deux?    Pourquoi l'argent et le pouvoir rendent tes amis dangereux?    La jalousie, l'hypocrisie,    Quand elle choisit son camp!    Fout l'camp!    Fout l'camp!"
+			}
+		},
+		{
+			"title": "Robot",
+			"artist": "IyaMeU",
+			"mood_target": "humour",
+			"versions": {
+				"full": "Je ne suis pas un robot!    Faut pas croire ce que disent les journaux!",
+				"short": "Je ne suis pas un robot!    Faut pas croire ce que disent les journaux!"
+			}
+		},
+		{
+			"title": "Quand tu me diras",
+			"artist": "Mano Solo",
+			"mood_target": "unhappy",
+			"versions": {
+				"full": "Quand tu me diras tous ces trucs-là... Moi j'entendrai rien, je serai déjà loin dans la Musique qui m'emporte et qui me prend dans ses Bras! La Musique qui me réchauffe la tripe et qui pleure avec moi...",
+				"short": "Quand tu m'diras tous ces trucs-là...    Moi j'entendrai rien, j'serai djà loin dans la Musique...    ...qui m'emporte et qui m'prend dans ses bras!..    ...La Musique qui m'réchauffe la tripe...    ...et qui pleure avec moi... :'("
+			}
+		},
+		{
+			"title": "C@t's Eyes",
+			"artist": "Anri (Generique TV)",
+			"mood_target": "warning",
+			"versions": {
+				"full": "Filles d'aujourd'hui, Enfants de la forme, Nous aimons rire et danser. Vienne minuit, Quand d'autres s'endorment, Nous devenons pour la nuit... Trois vives pantheres Qui en un eclair Savent bondir sans un bruit. Soeurs et solidaires Sur terre ou en l'air Relevant tous les defis. C@t's Eyes, signe 'C@t's Eyes'. C@t's Eyes, signe, signe 'C@t's Eyes'. Belles incognito, Fabuleux trio, Nees pour agir et gagner. Dans un helico, Sur terre ou dans l'eau, Au mepris de tous les dangers. C@t's Eyes, signe 'C@t's Eyes'. C@t's Eyes, signe, signe 'C@t's Eyes'. Elles s'appellent Alexia, Tam et Sylia, Trois ombres dans un oeil de ch@t. Tant de malice Que la police Jamais ne les decouvrira. C@t's Eyes, signe 'C@t's Eyes'. C@t's Eyes, signe, signe 'C@t's Eyes'. Cheveux au vent, Libres et battantes, Nous recherchons l'aventure. Le meme sang Bat dessous nos tempes Quand nous filons a toute allure. Dans un helico, Sur terre ou dans l'eau, Au mepris de tous les dangers. Belles incognito, Fabuleux trio, Nees pour agir et gagner. C@t's Eyes, signe 'C@t's Eyes'. C@t's Eyes, signe, signe 'C@t's Eyes'. Soeurs et solidaires Sur terre ou en l'air Relevant tous les defis. Trois vives pantheres Qui en un eclair Savent bondir sans un bruit. C@t's Eyes, signe 'C@t's Eyes'. C@t's Eyes, signe, signe 'C@t's Eyes'. C@t's Eyes, signe 'C@t's Eyes'. C@t's Eyes, signe, signe 'C@t's Eyes'. C@t's Eyes, signe 'C@t's Eyes'.",
+				"short": "Cat's Eyes!..     ...Tu lu lu li lu,..     Signé Cat's Eyes!..    ...Tu li lu!..    =^..^=    "
+			}
+		},
+		{
+			"title": "Tout le monde veut devenir un C@t",
+			"artist": "Les Aristoch@ts",
+			"mood_target": "love",
+			"versions": {
+				"full": "Tout le monde veut devenir un C@t parce que un ch@t quand il est c@t retombe sur ces pattes. C'est vrai ! Tout le monde est pique de ces pas si bien rythme, tout semble aupres de lui tres demode, c'est comme les bottines a boutons. Une cloche, des qu'il joue sa trompette vous rend fou, ca swingue comme un pied. Mais oui, c'est pire que l'ennui, oh la la mes amis, quelle calamite ! Za za za za Olle ! C'est comme parmi ces gars qui veulent chanter, ben c'est un c@t, le seul qui sache s'acharne a swinguer. Qui donc danserait encore la gigue avec des nattes ? Quand tout le monde veut devenir un c@t. Une cloche, quoi qu'il joue bientot ca vous rend fou, ca swingue comme un pied. Oh rinky, tinky tinky, oui c'est pire que l'ennui, oh la la mes amis, quelle calamite ! Oh rinky, tinky tinky, oui ! Tout le monde veut devenir un c@t parce que un ch@t quand il est c@t retombe sur ces pattes. A jouer du jazz on devient vite un acrobate. Oui tout le monde qui daigne du swing des c@ts, j'aimerai plus de passion, plus de coeur et d'abandon, habillez de couleurs cette chanson ! Il n'y a qu'a jouer en d'autres clefs, moduler oh oui ca me plait, car j'adore faire certaines petites variations. Les autres ch@ts vont s'assembler dans la ruelle mal eclairee, la grande nuit va commencer, nous les laisserons alors s'aimer. Tout le monde, tout le monde, tout le monde veut devenir un c@t. Ch@t-lleluia ! Ch@t-lleluia ! Ch@t-lleluia ! Tout le monde veut devenir un c@t je le dis bien haut, tout le monde, tout le monde du pirate au bel Aristoc@t. Yeah ! Ch@t-lleluia ! Ch@t-lleluia ! Tout le monde veut devenir un c@t. Mmmm ! Tout le monde, tout le monde, un par un par 3 ou meme par 4. Ch@t-lleluia ! Ch@t-lleluia ! Ch@t-lleluia ! Tout le monde veut devenir un c@t.",
+				"short": "Tout le monde veut devenir un C@t!    =^..^=     "
+			}
+		},
+		{
+			"title": "Des gammes et des arpeges",
+			"artist": "Les Aristoch@ts",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Si vous chantez vos gammes et vos arpeges, vous ferez de vos jours un eternel cortege! Do mi sol do do sol mi do, do mi sol do do sol mi do. On progresse quand on etudie ses gammes et ses arpeges. Si vous avez le don ne soyez pas vains, mais travaillez pour devenir de bons musiciens ! Chantez vos gammes et vos arpeges ! Do mi sol do do sol mi do... Bien que ce soit un solfege un peu dur, vous ne devez pas chanter a l'aventure. Il faut avoir l'esprit pur et la voix sure, pour bien moduler toutes vos mesures ! Do mi sol do do sol mi do... Do mi sol do do sol mi do...",
+				"short": "Do mi sol do do sol mi do,    do mi sol do do sol mi do...    ...Des gammes et des arpeges!..    "
+			}
+		},
+		{
+			"title": "Matière première",
+			"artist": "Scylla",
+			"mood_target": "chill",
+			"versions": {
+				"full": "On est souvent trompés en amour, on est souvent blessés et souvent malheureux mais on aime, et on... Quand on est sur le bord de sa tombe, on se retourne pour regarder en arrière, et on s'est dit, J'ai souffert souvent, je me suis trompé quelquefois, mais j'ai aimé. J'ai aimé tant qu'j'pouvais l'faire J'ai aimé comme un con, comme un poids lourd Aimé chaque combat, aimé chaque adversaire Pigé bien souvent, même la violence est amour J'ai aimé fort, j'ai aimé vite, j'ai aimé mal J'ai aimé comme un porc, comme une prise de MMA Aimé comme on tire des balles, sans s'mettre à l'abri des flammes Même à degré inégal, jusqu'à briser l'idéal J'ai aimé jusqu'à vous abandonner totalement, ma fierté J'ai souvent préféré rester naïf, même si je savais déjà à l'avance c'que vous alliez faire, ouais On allait s'aimer jusqu'à se haïr J'ai aimé fort, j'ai aimé triste, j'ai aimé sale Bien sûr, que j'ai mes torts, on va esquiver les détails J'ai pas toujours été droit, non, mais j'ai essayé J'l'ai peut-être fait maladroitement, mais au moins, j'ai aimé, aimé J'ai aimé Au moins, j'aurais aimé J'aurais jamais perdu cette force-là Au moins, j'aurais aimé Gardez l'rythme J'aurais aimé J'aurais essayé Mon cœur sera reconstitué tôt ou tard, donc on va le briser encore quelquefois On va encore s'aimer comme des martyrs Perdre la raison, le contrôle, même le poids S'aimer jusqu'à être toi, disparaître ou t'laisser partir On va s'aimer fort, s'aimer vite ou s'aimer mal Comme une pluie de météores, comme une foutue guerre d'étoiles Quand Trinity esquive des balles, ou comment on déchire des voiles Aimer même la pire des failles, que nous rafraichissent les flammes Quand on a que la force d'aimer pour faire trembler les plus hautes tours Que l'amour pour parler au canon Pour habiller de soleil, la foutue laideur de nos faubourgs, ouais On risque d's'aimer fort, d's'aimer vite ou d's'aimer mal Chacun de nous aura ses torts, on va esquiver les détails On a pas toujours été droit, non, on a essayé On l'a fait maladroitement, mais au moins, on a aimé, aimé On a aimé Au moins, on aura aimé Perdu cette putain d'force-là Au moins, on aura aimé Gardez l'rythme On aura aimé On aura tout fait par amour J'ai souvent brisé mon cœur Y en a des morceaux par-ci par-là Certains ont sûrement dû s'y blesser Désolé pour les traces sur le carrelage Plus jamais donner mon cœur, j'me suis juré, mais les promesses n'ont pas duré J'l'ai brisé puis rebrisé, dispersé les pièces aux quatre coins du globe Mais j'sais qu'un jour, il sera reconstitué, ouais À la prod', Greenfinch Aimer, c'est la matière première Celle qui structure tout l'univers L'A.D.N. de la matrice Aimer",
+				"short": "Aimer c'est la matière première,    celle qui structure tout l'univers,    l'ADN de la matrice.    Aimer!"
+			}
+		},
+		{
+			"title": "Interplanetary Revolution",
+			"artist": "Alpha Blondy",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Interplanetary Revolution!",
+				"short": "Interplanetary Revolution!"
+			}
+		},
+		{
+			"title": "La vie",
+			"artist": "??",
+			"mood_target": "general",
+			"versions": {
+				"full": "La Vie, La Vie, La Vie, La Vie, La Vie, La Vie, La Vie,...  ...Et voici La Vie! La belle vie qui coule dans nos veines...  ...Laissons là nos soucis...",
+				"short": "La Vie, La Vie, La Vie, La Vie, La Vie, La Vie, La Vie,...  ...Et voici La Vie! La belle vie qui coule dans nos veines...  ...Laissons là nos soucis..."
+			}
+		},
+		{
+			"title": "Tout le bonheur",
+			"artist": "Sinsemilia",
+			"mood_target": "chill",
+			"versions": {
+				"full": "On vous souhaite tout le bonheur du monde Et que quelqu'un vous tende la main Que votre chemin évite les bombes Qu'il mène vers de calmes jardins On vous souhaite tout le bonheur du monde Pour aujourd'hui comme pour demain Que votre soleil éclaircisse l'ombre Qu'il brille d'amour au quotidien Puisque l'avenir vous appartient Puisqu'on n'contrôle pas votre destin Que votre envol est pour demain Comme tout c'qu'on a à vous offrir Ne saurait toujours vous suffire Dans cette liberté à venir Puisqu'on n'sera pas toujours là Comme on le fut aux premiers pas On vous souhaite tout le bonheur du monde Et que quelqu'un vous tende la main Que votre chemin évite les bombes Qu'il mène vers de calmes jardins On vous souhaite tout le bonheur du monde Pour aujourd'hui comme pour demain Que votre soleil éclaircisse l'ombre Qu'il brille d'amour au quotidien Toute une vie s'offre devant vous Tant de rêves à vivre jusqu'au bout Sûrement tant de joie au rendez-vous Libres de faire vos propres choix De choisir quelle sera votre voie Et où celle-ci vous emmènera J'espère juste que vous prendrez le temps De profiter de chaque instant On vous souhaite tout le bonheur du monde Et que quelqu'un vous tende la main Que votre chemin évite les bombes Qu'il mène vers de calmes jardins On vous souhaite tout le bonheur du monde Pour aujourd'hui comme pour demain Que votre soleil éclaircisse l'ombre Qu'il brille d'amour au quotidien J'sais pas quel monde on vous laissera On fait d'notre mieux, seulement parfois J'ose espérer que c'la suffira Pas à sauver votre insouciance Mais à apaiser notre conscience Pour le reste j'me dois de vous faire confiance ? On vous souhaite tout le bonheur du monde Et que quelqu'un vous tende la main Que votre chemin évite les bombes Qu'il mène vers de calmes jardins On vous souhaite tout le bonheur du monde Pour aujourd'hui comme pour demain Que votre soleil éclaircisse l'ombre Qu'il brille d'amour au quotidien On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde Que votre chemin évite les bombes Qu'il mène vers de calmes jardins On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde Que votre soleil éclaircisse l'ombre Qu'il brille d'amour au quotidien",
+				"short": "On vous souhaite tout le bonheur du monde... Et que quelqu'un vous tende la main... Que votre chemin évite les bombes... Qu'il mène vers de calmes jardins... On vous souhaite tout le bonheur du monde...  :)"
+			}
+		},
+		{
+			"title": "Donne-moi!",
+			"artist": "Demi Portion",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Donner moi l'amour qui rend aveugle plutôt que la haine qui crève les yeux!",
+				"short": "Donner moi l'amour qui rend aveugle plutôt que la haine qui crève les yeux!"
+			}
+		},
+		{
+			"title": "Tortues Ninja",
+			"artist": "Tortues Ninja",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! Tortues Ninja! ",
+				"short": "Tortues Ninja!..    ...Tortues Niiiiinja!..    ...Tortues Ninja!..    ...Tortues Niiiiinja!..    ...Tortues Ninja!...    ...Tortues Niiiiinja!..    ...4 Tortues d'enfer!..     ...Dans la nuit!..    ...Tortues Ninja!..    ...Tortues Niiiiinja!..    XD    "
+			}
+		},
+		{
+			"title": "Je dance le mIA!",
+			"artist": "Iam",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Je danse le mIA!",
+				"short": "Je danse le mIA!..    "
+			}
+		},
+		{
+			"title": "La vie à 2",
+			"artist": "Manu Chao",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Donne-moi de quoi tenir-tenir. Je ne veux pas dormir-dormir. Laisse-moi voir venir le jour...",
+				"short": "Donne-moi de quoi tenir-tenir...    ...Je ne veux pas dormir-dormir...    ...Laisse-moi voir venir le jour...    "
+			}
+		},
+		{
+			"title": "Pierpoljak",
+			"artist": "Pierpoljak",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Pierpoljak qu'est ce que tu fais là?",
+				"short": "Pierpoljak qu'est ce que tu fais là?"
+			}
+		},
+		{
+			"title": "On ira",
+			"artist": "Polnaref",
+			"mood_target": "chill",
+			"versions": {
+				"full": "On ira tous au paradis.... Même moi!",
+				"short": "On ira tous au paradis.... Même moi!"
+			}
+		},
+		{
+			"title": "ça m'étonne pas!",
+			"artist": "Mickey 3d",
+			"mood_target": "chill",
+			"versions": {
+				"full": "On aurait pourtant pu être amis,  aller danser au bal.    Se croiser le matin,  se voir l'après-midi,  se balader sous les étoiles.    On pourrait pourtant tous être amis,  un peu comme les fourmis.    Mais les gens sont comme toi,  toujours ils se méfient.    Alors la guerre ça m'étonne pas...    Oh waaah ah!    Oh wahh ah ah ah!    Oh waaah ah!    Oh wahh ah ah ah!  Wah bidou wa wa bidou bidou wa!    Wa bidou yeahhh heyyy hey!..",
+				"short": "On aurait pourtant pu être amis,  aller danser au bal.    Se croiser le matin,  se voir l'après-midi,  se balader sous les étoiles.    On pourrait pourtant tous être amis,  un peu comme les fourmis.    Mais les gens sont comme toi,  toujours ils se méfient.    Alors la guerre ça m'étonne pas...    Oh waaah ah!    Oh wahh ah ah ah!    Oh waaah ah!    Oh wahh ah ah ah!  Wah bidou wa wa bidou bidou wa!    Wa bidou yeahhh heyyy hey!.."
+			}
+		},
+		{
+			"title": "J'ai mal au mic",
+			"artist": "Owmo",
+			"mood_target": "chill",
+			"versions": {
+				"full": "J'ai mal au mic!    C'est la seule tristesse que je ressent!    Tu m'as planté dans l'dos y'avait pas de sang!    Car c'est du son qui coule dans les veines!    En BPM!",
+				"short": "J'ai mal au mic!    C'est la seule tristesse que je ressent!    Tu m'as planté dans l'dos y'avait pas de sang!    Car c'est du son qui coule dans les veines!    En BPM!"
+			}
+		},
+		{
+			"title": "Banga",
+			"artist": "Banga",
+			"mood_target": "pub",
+			"versions": {
+				"full": "Allez Hop!.. ...On y va!.. ...En route pour l'aventure!.. ...On y résiste pas!",
+				"short": "Allez Hop!..    ...On y va!..    ...En route pour l'aventure!..    ...On y résiste pas!..    "
+			}
+		},
+		{
+			"title": "Pif & Hercule",
+			"artist": "Pif & Hercule",
+			"mood_target": "generic",
+			"versions": {
+				"full": "Pif & Hercule!.. ...Pif Paf Pouf!.. ...Ont la formule... ...Pour être des copains!",
+				"short": "Pif & Hercule!..    ...Pif Paf Pouf!..    ...Ont la formule...    ...Pour être des copains!..    "
+			}
+		},
+		{
+			"title": "INgénieur Informaticien",
+			"artist": "??",
+			"mood_target": "generic",
+			"versions": {
+				"full": "Ingénieur informaticien, je suis Ingénieurrrrr  informaticiennnnnn... J'ailmeeee les ordinaaaaaateurs! Windows 98! XD",
+				"short": "Ingénieur informaticien!..    je suis Ingénieurrrrr  informaticiennnnnn!..    J'ailmeeee les ordinaaaaaateurs!    Windows 98!    XD"
+			}
+		},
+		{
+			"title": "Le Ch@t",
+			"artist": "Pow-woW",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Wee ee ee wee wee ee. Wee ee ee wee wee ee. Moi vouloir être chat. Me frotter contre tes bas. Je me ferai angora. Pour me blottir dans tes bras. Je te jure j'boirai plus. Que du lait je n'aime plus. La vodka. Moi vouloir être chat. Tous les soirs quand je te vois. Moi vouloir être chat. Retrouver sur les gouttières. Mes copines de litière. Mais toujours rester à toi. Prendre des mines chafouines. Me lécher les babines. Quand viennent tes copines. Moi vouloir être chat. Et ne risquer de tes doigts. Que leurs caresses sur moi. Wee ee ee wee wee ee. Wee ee ee wee wee ee. Moi vouloir être chat. Quand dehors il fait froid. Attendre mon repas. Tapi au creux de tes draps. Si un jour tu préfères. A mes félines caresses. Les canines d'un chien en laisse. Tu ne comptes pas sur moi. Pour dormir sur le sofa. Je te montrerai de quoi. Est capable un gros chat. A ce jeu là je suis roi. Et la souris ce sera toi. Et la souris ce sera toi. Et la souris ce sera.. Wee ee ee wee wee ee. Wee ee ee wee wee ee. Wee ouh",
+				"short": "Moi vouloir être chat!    Me frotter contre tes bas.    Je me ferai Angora!    Pour me blottir dans tes bras... Je te jure!    J'boirai plus.    Que du lait,  je n'aime plus la vodka.    Moi vouloir être chat.    Tous les soirs quand je te vois...  Moi vouloir être chat.   "
+			}
+		},
+		{
+			"title": "Am stram Gram",
+			"artist": "Am stram Gram",
+			"mood_target": "comptine",
+			"versions": {
+				"full": "Am, Stram, Gram, Pic & Pic & Colégram, Bour & Bour & Ratatam, Am, Stram, Gram!",
+				"short": "Am, Stram, Gram,    Pic & Pic & Colégram,    Bour & Bour & Ratatam,    Am, Stram, Gram!   "
+			}
+		},
+		{
+			"title": "Ulysse revient",
+			"artist": "Appolo & Nono",
+			"mood_target": "generic",
+			"versions": {
+				"full": "A travers les cieux. L’espace et le temps. Un vaisseau s’en vient. Ulysse. Contrôlés des Dieux. Les pièges géants. C’est l’Odysseus. Ulysse. Ulysse revient. Et c'est un bien long chemin. Ulysse revient. Il lutte pour son destin. Salut c’est moi Nono. ‘Suis le robot héro. Cadeau d’Ulysse. Pour Télémaque son fils. Je vis dans l’gand vaisseau. Comme un poisson dans l’eau. Avec Thémis Télémaque et Ulysse. Ulysse revient. Ulysse revient. Car pour Télémaque. Thémis et Nono. Il lui faut lutter. Ulysse. Ulysse 31 prépare ton vaisseau. La Terre t’attends. Ulysse.",
+				"short": "Salut c'est moi Nono.    'Suis le robot héro.    Cadeau d'Ulysse.    Pour Télémaque son fils.    Je vis dans l'gand vaisseau.    Comme un poisson dans l'eau.    Avec Thémis Télémaque et Ulysse."
+			}
+		},
+		{
+			"title": "Métissage",
+			"artist": "Duc Inc",
+			"mood_target": "chill",
+			"versions": {
+				"full": "J'ai envie de Métissage pour des hommes vrais. & tous ceux qui ont de la rage, vas-y laisse les. Ouvre ton rivage à la différence qu'on aime pour des Hommes vrais, oui pour des Hommes vrai!",
+				"short": "J'ai envie de Métissage pour des hommes vrais.    & tous ceux qui ont de la rage,    vas-y laisse les.    Ouvre ton rivage à la différence qu'on aime    pour des Hommes vrais,    oui pour des Hommes vrai!   "
+			}
+		},
+		{
+			"title": "Dans la vie faut pas s'en faire!",
+			"artist": "Maurice Chevalier",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Dans la vie faut pas s'en faire!    Moi je ne m'en fais pas!    Ces petites misères,    Seront passagères!    Tout ça s'arrangera!    Je n'ai pas un caractère,    A me faire du tracas.    Croyez-moi sur terre,    Faut jamais s'en faire,    Moi je ne m'en fais pas!",
+				"short": "Dans la vie faut pas s'en faire!    Moi je ne m'en fais pas!    Ces petites misères,    Seront passagères!    Tout ça s'arrangera!    "
+			}
+		},
+		{
+			"title": "Aie confianceeeee! Crois ennnn Moi!",
+			"artist": "Le livre de la jungle",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Aie confianceeeee! Crois ennnn Moi!",
+				"short": "Aie confianceeeee! Crois ennnn Moi!"
+			}
+		},
+		{
+			"title": "Aie confianceeeee! Crois ennnn Moi!",
+			"artist": "Le livre de la jungle",
+			"mood_target": "chill",
+			"versions": {
+				"full": "J'ai des petits problèmes dans ma plantation!    Pourquoi ça pousse pas?",
+				"short": "J'ai des petits problèmes dans ma plantation!    Pourquoi ça pousse pas?"
+			}
+		},
+		{
+			"title": "Je te tiens(Win)",
+			"artist": "Je te tiens",
+			"mood_target": "comptine",
+			"versions": {
+				"full": "Je te tiens, Tu me tiens, Par la barbichette. Le premier de nous deux qui rira aura une tapette, au bout de trois. Un,.. deux,.. trois,..    T'as gagné!",
+				"short": "Je te tiens,    Tu me tiens,    Par la barbichette.    Le premier de nous deux qui rira aura une tapette,    au bout de trois.    Un,..    deux,..    trois,..    T'as gagné!"
+			}
+		},
+		{
+			"title": "Je te tiens (Looze)",
+			"artist": "Je te tiens",
+			"mood_target": "comptine",
+			"versions": {
+				"full": "Je te tiens, Tu me tiens, Par la barbichette. Le premier de nous deux qui rira aura une tapette, au bout de trois. Un,.. deux,.. trois,..    T'as perdue!",
+				"short": "Je te tiens,    Tu me tiens,    Par la barbichette.    Le premier de nous deux qui rira aura une tapette,    au bout de trois.    Un,..    deux,..    trois,..    T'as perdue!"
+			}
+		},
+		{
+			"title": "Le lion est mort ce soir",
+			"artist": "Pow-woW",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Wé-a, wé-a. Wé-a, wé-a. Wé-a, wé-a. Wé-a, wé-a. Dans la jungle, terrible jungle. Le lion est mort ce soir. Et les hommes tranquilles s'endorment. Le lion est mort ce soir. A-wimboé, a-wimboé, a-wimboé, a-wimboé. A-wimboé, a-wimboé, a-wimboé. A-wimboé, a-wimboé, a-wimboé, a-wimboé. A-wimboé, a-wimboé, a-wimboé. Et les sages dans le village. Le lion est mort ce soir. Plus de rage plus de carnage. Le lion est mort ce soir. L'indomptable, le redoutable. Le lion est mort ce soir. Viens ma belle, viens ma gazelle. Le lion est mort ce soir. Wé-a, wé-a. Wé-a, wé-a. Dans la jungle, terrible jungle. Le lion est mort ce soir. Dans la jungle, terrible jungle. Le lion est mort ce soi.",
+				"short": "Wé-a,    wé-a.    Wé-a,    wé-a.    Wé-a,    wé-a.    Wé-a,    wé-a.    Dans la jungle,  terrible jungle.  Le lion est mort ce soir.  Et les hommes tranquilles s'endorment.  Le lion est mort ce soir.  A-wimboé,    a-wimboé,    a-wimboé,    a-wimboé.    A-wimboé,    a-wimboé,    a-wimboé.    a-wimmmmmmmmmmmmmm!.."
+			}
+		},
+		{
+			"title": "J'aurai voulu être un artiste",
+			"artist": "Starmania",
+			"mood_target": "chill",
+			"versions": {
+				"full": "J'auuuuuurais vouluuuuuuuu être unnnnnn artiste! Pour pouvoir faire mon numéro!",
+				"short": "J'auuuuuurais vouluuuuuuuu être unnnnnn artiste! Pour pouvoir faire mon numéro!"
+			}
+		},
+		{
+			"title": "Boom boom Bass",
+			"artist": "Dj Rush",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Do you like Bass?..    ...Do you like Bass?..     ...Do you like BOOM BOOM Bass?..    ...BOOM BOOM Bass...    ...Na na nan na na...     ...Do you like motherf#ck!ng Bass in your motherf#ck!ng face?!.",
+				"short": "Do you like Bass?..    ...Do you like Bass?..     ...Do you like BOOM BOOM Bass?..    ...BOOM BOOM Bass...    ...Na na nan na na...     ...Do you like motherf#ck!ng Bass in your motherf#ck!ng face?!."
+			}
+		},
+		{
+			"title": "Boom boom Bass",
+			"artist": "Dj Rush",
+			"mood_target": "chill",
+			"versions": {
+				"full": "...BOOM BOOM BASS!..    ...BOOM BOOM BASS!..    ...BOOM BOOM BASS!..",
+				"short": "...BOOM BOOM BASS!..    ...BOOM BOOM BASS!..    ...BOOM BOOM BASS!.."
+			}
+		},
+		{
+			"title": "Boom boom Bass",
+			"artist": "Dj Rush",
+			"mood_target": "chill",
+			"versions": {
+				"full": "...Boom Boom Bass!..    ...Boom Boom Bass!..    ...Boom Boom Bass!..",
+				"short": "...Boom Boom Bass!..    ...Boom Boom Bass!..    ...Boom Boom Bass!.."
+			}
+		}
+	]
+}

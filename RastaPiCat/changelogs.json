@@ -1,0 +1,108 @@
+{
+	"metadata": {
+                "name": "changelogs.json",
+                "description": "Historique des modifications du projet.",
+                "author": "Senacra Flora Van Haze",
+                "email": "lourdaux.florian.pro@gmail.com",
+                "project": "RastaPiC@t",
+                "create": "2026-01-25",
+                "update": "2026-02-04",
+                "version": "1.0"
+        },
+
+
+	"history": [
+		{
+			"version": "1.0",
+			"date": "2026-02-12",
+			"title": "Algo Party",
+			"changes": [
+				"Update des scripts python",
+                "Connection à l'API IyaMeU",
+				"refactorisation du code",
+				""
+			],
+			"status": "Beta"
+		},
+		{
+			"version": "1.0",
+			"date": "2026-02-04",
+			"title": "API Party",
+			"changes": [
+				"Update & Add des .json",
+                "Intégration des logiques de randomisation"			],
+			"status": "Beta"
+		},
+		{
+			"version": "0.9",
+			"date": "2026-01-25",
+			"title": "La Grande Migration JSON",
+			"changes": [
+				"Update du fichier .env au profit d'une structure JSON modulaire",
+				"Séparation propre de la configuration hardware (config.json) et du profil (profil.json)",
+				"Implémentation du système de templates dynamiques pour les présentations",
+				"Ajout des échelles de rareté et de notation (ratings/rarity)",
+				"Nettoyage complet du code et optimisation de la logique logicielle"
+			],
+			"status": "Beta"
+		},
+		{
+			"version": "0.6",
+			"date": "2026-01-05",
+			"title": "Initialisation & Coeur",
+			"changes": [
+				"Premier commit du projet RastaPiC@t",
+				"Mise en place de la structure de base du README"
+			],
+			"status": "Alpha"
+		},
+		{
+			"version": "0.5",
+			"date": "2026-01-12",
+			"title": "Sentinelle",
+			"changes": [
+				"Intégration des capteurs pour la détection d'humains",
+				"Optimisation des threads pour la boucle while infinie"
+			],
+			"status": "Alpha"
+		},
+		{
+			"version": "0.4",
+			"date": "2025-11-21",
+			"title": "Disco Cat",
+			"changes": [
+				"Ajout du mode Disco"
+			],
+			"status": "Alpha"
+		},
+		{
+			"version": "0.3",
+			"date": "2025-10-21",
+			"title": "Ajout de la parole",
+			"changes": [
+				"Premier affichage sur la matrice LED 8x32",
+				"Gestion du défilement (Scroll) et de la luminosité"
+			],
+			"status": "Alpha"
+		},
+		{
+			"version": "0.2",
+			"date": "2025-10-15",
+			"title": "Mise en lumière",
+			"changes": [
+				"Connexion du halo de LED, des bouttons & de la LED RGB"
+			],
+			"status": "Alpha"
+		},
+		{
+			"version": "0.1",
+			"date": "2025-06-12",
+			"title": "Genesis",
+			"changes": [
+				"Naissance de IyaMeU dans l'esprit chaotique de Flood",
+				"Rassemblement des premiers composants matériels"
+			],
+			"status": "Concept"
+		}
+	]
+}

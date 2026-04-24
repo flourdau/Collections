@@ -1,0 +1,73 @@
+{
+	"metadata": {
+		"name": "rarities.json",
+		"description": "Niveau de rareté des éléments.",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-01-25",
+		"update": "2026-02-05",
+		"version": "1.0",
+		"count": 7
+	},
+
+
+	"rarities": [
+		{
+			"level": "Common",
+			"rank": 1,
+			"symbol": "⚪",
+			"color_hex": "#BEBEBE",
+			"color_name": "gray",
+			"description": "Matériel standard, facile à trouver."
+		},
+		{
+			"level": "Rare",
+			"rank": 2,
+			"symbol": "🔵",
+			"color_hex": "#0070DD",
+			"color_name": "blue",
+			"description": "Composants de qualité supérieure."
+		},
+		{
+			"level": "Epic",
+			"rank": 3,
+			"symbol": "🟣",
+			"color_hex": "#A335EE",
+			"color_name": "purple",
+			"description": "Technologie avancée ou spécialisée."
+		},
+		{
+			"level": "Legendary",
+			"rank": 4,
+			"symbol": "🟠",
+			"color_hex": "#FF8000",
+			"color_name": "orange",
+			"description": "Pièces maîtresses du système."
+		},
+		{
+			"level": "Special",
+			"rank": 5,
+			"symbol": "⭐",
+			"color_hex": "#E5FF66",
+			"color_name": "lime",
+			"description": "Objets uniques liés à une anecdote."
+		},
+		{
+			"level": "Mythic",
+			"rank": 6,
+			"symbol": "🔥",
+			"color_hex": "#E6CC80",
+			"color_name": "gold",
+			"description": "Ingrédients secrets intangibles (Imagination & Bidouille)."
+		},
+		{
+			"level": "Unique",
+			"rank": 7,
+			"symbol": "🌈",
+			"color_hex": "#FF1493",
+			"color_name": "deeppink",
+			"description": "L'Amour 😻, la rareté absolue et le cœur du projet."
+		}
+	]
+}

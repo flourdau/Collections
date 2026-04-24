@@ -1,0 +1,59 @@
+{
+	"metadata": {
+		"name": "config.json",
+                "description": "Paramètres de configuration du système.",
+                "author": "Senacra Flora Van Haze",
+                "email": "lourdaux.florian.pro@gmail.com",
+                "project": "RastaPiC@t",
+                "create": "2026-01-25",
+                "update": "2026-02-22",
+                "version": "1.0"
+	},
+
+
+	"pins_gpio": {
+		"halo": 13,
+		"disco": 20,
+		"matrice": 18,
+		"btn_main": 26,
+		"btn_disco": 21,
+		"pir": 4,
+		"sonar": "?",
+		"led_rgb": 
+		{
+			"r": 17,
+			"g": 27,
+			"b": 22
+		}
+	},
+	"matrice_settings": {
+		"width": 32,
+		"height": 8,
+		"brightness": {
+			"default": "5%",
+			"min": "5%",
+			"bold": "50%",
+			"max": "95%"
+		},
+		"scroll_speed": {
+			"display_delay": 2,
+			"default": 0.0002
+		}
+	},
+	"colors_themes": {
+		"default": "green",
+		"info": "blue",
+		"warning": "yellow",
+		"error": "red"
+	},
+	"timing_logic": {
+		"brain": 0.0002,
+		"cooldown_detection": 45,
+		"mqtt_delay": 1.0,
+		"schedule": {
+			"awakening": "6H42",
+			"hibernation": "22H42",
+			"random_action": "4min"
+		}
+	}
+}

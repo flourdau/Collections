@@ -1,0 +1,115 @@
+{
+	"metadata": {
+		"name": "inventories.json",
+		"description": "Gestion du contenu des inventaires.",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-01-25",
+		"update": "2026-02-05",
+		"version": "1.0",
+		"total_items": 12
+	},
+
+
+	"items": [
+		{
+			"category": "Cerveau",
+			"name": "Raspberry Pi 3 A+",
+			"spec": "SD 32Go + Raspi OS Lite",
+			"rarity": "Legendary",
+			"description": "L'unité centrale qui traite chaque miaulement et chaque ligne de code."
+		},
+		{
+			"category": "Cœur",
+			"name": "LED RGB",
+			"spec": "Multicolore",
+			"rarity": "Epic",
+			"description": "Donne vie à la mascotte en battant au rythme du système."
+		},
+		{
+			"category": "Halo",
+			"name": "2 Barres 12 LED 5V",
+			"spec": "24 LEDs total",
+			"rarity": "Rare",
+			"description": "Pour une aura lumineuse qui en jette."
+		},
+		{
+			"category": "Disco",
+			"name": "Boule Disco USB 5V",
+			"spec": "Ambiance Party",
+			"rarity": "Rare",
+			"description": "Parce que RastaPiC@t sait aussi faire la fête."
+		},
+		{
+			"category": "Voie",
+			"name": "Matrice LED RGB 8x32",
+			"spec": "Affichage dynamique",
+			"rarity": "Legendary",
+			"description": "L'organe de communication principal pour afficher les flags et les citations."
+		},
+		{
+			"category": "Électronique",
+			"name": "Composants Discrets",
+			"spec": "Breadboard, Transistors, Résistances",
+			"rarity": "Common",
+			"description": "Le squelette électrique qui relie tous les organes."
+		},
+		{
+			"category": "Énergie",
+			"name": "Power Module",
+			"spec": "Gestion alimentation",
+			"rarity": "Rare",
+			"description": "La source de vitalité stable pour éviter les bugs de basse tension."
+		},
+		{
+			"category": "Détection",
+			"name": "Suite de Capteurs",
+			"spec": "Infrarouge, Ultra-son, Lidar",
+			"rarity": "Epic",
+			"description": "Les yeux de la Sentinelle Flora pour traquer les intrus... ou les câlins."
+		},
+		{
+			"category": "Secret",
+			"name": "La Bidouille",
+			"spec": "Savoir-faire artisanal",
+			"rarity": "Mythic",
+			"description": "L'ingrédient qui rend l'impossible possible avec un fer à souder."
+		},
+		{
+			"category": "Secret",
+			"name": "L'Imagination",
+			"spec": "Créativité infinie",
+			"rarity": "Mythic",
+			"description": "Le moteur de recherche interne le plus puissant au monde."
+		},
+		{
+			"category": "Secret",
+			"name": "Beaucoup d'Amour 😻",
+			"spec": "Énergie Pure",
+			"rarity": "Unique",
+			"description": "Ce qui transforme un circuit imprimé en un compagnon vivant."
+		},
+		{
+			"category": "Mémoire",
+			"name": "API - Application Programming Interface",
+			"spec": "Symfony, MariaDB, API-Platform",
+			"rarity": "Legendary",
+			"description": "Une mémoire bien organisée pour jouer avec les datas!"
+		},
+		{
+			"category": "Cerveau",
+			"name": "Algorithme Python",
+			"spec": "venv, storage...",
+			"rarity": "Legendary",
+			"description": "Un cerveau bien optimisé pour jouer avec les datas!"
+		},
+		{
+			"category": "Énergie",
+			"name": "Prise connectée",
+			"spec": "Énergie intelligente",
+			"rarity": "Common",
+			"description": "Ce qui transforme un circuit imprimé en un compagnon vivant."
+		}
+	]
+}

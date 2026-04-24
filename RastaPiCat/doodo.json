@@ -1,0 +1,22 @@
+{
+	"metadata": {
+		"name": "doodo.json",
+		"description": "Gestion des cycles de sommeil du chat.",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-01-25",
+		"update": "2026-02-20",
+		"version": "1.0",
+		"total_phrases": 5
+	},
+
+
+	"data": [
+		"Rrrr zZz zZz zZz zZz zZz zZz",
+		"zZz",
+		"zzZ zz Zz Tuer tous les humains! zZ Zzz zzz Il faut tuer tous les Humains!",
+		"zZz zZzzZz zZz zZzZz zZz zZzZz zZz",
+		"zzZ zz Zz... sudo apt-get install croquettes... zZz... Error: Belly empty... zZz"
+	]
+}

@@ -1,0 +1,117 @@
+{
+	"metadata": {
+		"name": "commands.json",
+		"description": "Liste des commandes disponibles pour l'automate.",
+		"author": "Senacra Flora Van Haze",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "RastaPiC@t",
+		"create": "2026-01-25",
+		"update": "2026-01-25",
+		"version": "1.0"
+	},
+
+
+	"commands": [
+		{
+			"triggerName": "HALO_ON",
+			"action": "activate_halo",
+			"target": "barre_led",
+			"description": "Active le halo lumineux."
+		},
+		{
+			"triggerName": "HALO_OFF",
+			"action": "desactivate_halo",
+			"target": "barre_led",
+			"description": "Désactive le halo lumineux."
+		},
+		{
+			"triggerName": "STROBE_ON",
+			"action": "activate_strobe",
+			"target": "barre_led, led_rgb",
+			"description": "Active le mode strobe."
+		},
+		{
+			"triggerName": "STROBE_OFF",
+			"action": "desactivate_strobe",
+			"target": "barre_led, led_rgb",
+			"description": "Désactive le mode strobe."
+		},
+		{
+			"triggerName": "DISCO_ON",
+			"action": "activate_disco",
+			"target": "disco_led",
+			"description": "Active le mode disco."
+		},
+		{
+			"triggerName": "DISCO_OFF",
+			"action": "desactivate_disco",
+			"target": "disco_led",
+			"description": "Désactive le mode disco."
+		},
+		{
+			"triggerName": "SCAN_ENV",
+			"action": "environment_check",
+			"target": [
+				"lidar",
+				"ultrason",
+				"infrarouge"
+			],
+			"description": "Active la Sentinelle IyaMeU pour scanner les environs."
+		},
+		{
+			"triggerName": "AWAKENING",
+			"action": "awakening",
+			"target": "system",
+			"description": "Passe en éveil calmement."
+		},
+		{
+			"triggerName": "SPEED_AWAKENING",
+			"action": "speed_awakening",
+			"target": "system",
+			"description": "Passe en éveil rapidement."
+		},
+		{
+			"triggerName": "DOODO_ON",
+			"action": "sleep_mode",
+			"target": "system",
+			"description": "Passe en mode veille avec ronronnement et icône lune."
+		},
+		{
+			"triggerName": "FLAG",
+			"action": "display_flag",
+			"params": [
+				"rasta",
+				"jamaican",
+				"lgbt",
+				"pirate",
+				"french"
+			],
+			"target": "matrice",
+			"description": "Affiche le drapeau spécifié sur la matrice."
+		},
+		{
+			"triggerName": "LED_ON",
+			"action": "activate_led_rgb",
+			"target": "led_rgb",
+			"description": "Active la LED RGB."
+		},
+		{
+			"triggerName": "LED_OFF",
+			"action": "desactivate_led_rgb",
+			"target": "led_rgb",
+			"description": "Désactive la LED RGB."
+		},
+		{
+			"triggerName": "LOVE_ON",
+			"action": "pulse_heart",
+			"target": "matrice",
+			"description": "Fait battre le cœur avec l'intensité 'Amour' 💗."
+		},
+		{
+			"triggerName": "LOVE_OFF",
+			"action": "stop_pulse_heart",
+			"target": "matrice",
+			"description": "Arrête le battement du cœur"
+		}
+	]
+}

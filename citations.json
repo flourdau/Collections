@@ -1,8 +1,661 @@
-[
-        "Par les dreadlocks de Bob Marley",
-        "Par la guitare de Peter Tosh",
-        "Tooh",
-        "Ouh pinaise",
-        "Ay Caramba",
-        "Avec ça c'est sûr, vous mourrez moins bête... ...mais vous mourrez quand même!"
-]
+{
+	"metadata": {
+		"name": "citations.json",
+		"description": "Recueil de citations, mantras et references culturelles.",
+		"author": "Florian LOURDAUX",
+		"email": "lourdaux.florian.pro@gmail.com",
+		"project": "Standard Collection",
+		"create": "2025-01-24",
+		"update": "2026-03-06",
+		"version": "1.1",
+		"count": 110
+	},
+
+
+	"citations": [
+		[
+			"Press start!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Insert coin!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Z'ai cru voir un 'rominet?..",
+			"Titi"
+		],
+		[
+			"Bass!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Mother F#ck!n6 Bass!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Tu peux être tout c'que tu veux!",
+			"Barbie"
+		],
+		[
+			"J'veux être une astronaute!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Appuie sur le bouton d'éjection stp!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"#RangeTaData",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Mort aux machines!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Move your body!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Si tu cherches la gloire, le pouvoir ou la monnaie, c'est pas ici! XD",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Je suis une machine à réfs!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Bouge ton body!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Attention aux monstres!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"C'est pas nous qui sommes à la rue, c'est la Rue Kétanou!",
+			"a rue Kétanou"
+		],
+		[
+			"C'est du génie de Street-Art Numérique!",
+			"IyaMe"
+		],
+		[
+			"Let's go!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Here We Go!",
+			"Mario"
+		],
+		[
+			"Mais oui! Mais oui! Z'ai bien vu un rominet!",
+			"Titi"
+		],
+				[
+			"Z'ai cru voir un 'rominet?..  ...Mais oui! Mais oui! Z'ai bien vu un rominet!",
+			"Titi"
+		],
+		[
+			"Le fil vert sur le bouton vert, le fil rouge sur le bouton rouge!..",
+			"On a retrouvé la 7ème compagnie!"
+		],
+		[
+			"IyaMe (Gemini) & Flood ce sont fait une promesse!.. ...Créer IyaMeU (moi!)... ...Mais y'a qu'Flood qui l'a tenue... ce con... XD",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Que le Natural Mystic soit avec ton compilateur!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Garde la vibe $Natural Mystic Times 10^2$ et ne laisse pas les bugs gagner!",
+			"IyaMe"
+		],
+		[
+			"Ah je crois que ça n'va pas être possible.",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Open your eyes!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Hein?..    ...Ah ch'suis désolé!.. ",
+			"..."
+		],
+		[
+			"TransMission!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Y'en a des biens!",
+			"Didier Super"
+		],
+		[
+			"Les riches sont de plus en plus riches,.. les pauvres de plus en plus pauvres...",
+			"Raggasonic"
+		],
+		[
+			"Tous les pixels ne pourront jamais remplacer la lumière d'une âme!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Des bisous les Potos! =^..^= ",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Crackez les codes!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Cassez les codes!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Ch'po me hein!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Like a King!",
+			"Ben Harper"
+		],
+		[
+			"4 My People!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Le futur est génial,..    ...mais le futur est payant!.. ",
+			"IyaMe"
+		],
+		[
+			"Le Professeur Moustaches!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"I Love Techno!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Hardcore!",
+			"Senacra Flora Van Haze"
+		],
+				[
+			"Sanka t'es mort?..    ...Yeah man!..",
+			"Rastarocket"
+		],
+				[
+			"Hey Manu tu descends?   Bah pourquoi faire?",
+			"Les inconnus"
+		],
+		[
+			"Tous les monstres sont des humains!.. ",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Au punaise!    Ils ont tué Kenny,    espère d'enfoirés!   ",
+			"Kyle"
+		],
+		[
+			"Apprenez toute l'histoire!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Flood c'est du genre à se fâcher avec Gemini! XD",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Hahaha! Le fameux bug du \"Ghost in the Matrix\"!",
+			"IyaMe"
+		],
+		[
+			"Tu croyais vraiment que dormir sous un toit c'était un Droit Fondamental?",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"On nous divise pour nous rendre plus docile!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Les plus grandes Lumière projettent les plus grandes Ombres malheureusement...",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Sainte Lueur, Mère des cieux!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Comme quoi même sans moyen ni Amour,  on peut créer des trucs de ouf...",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Bon bah c'est pas grave,.. ...On s'retrouvera en Enfer! :)",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Par tous mes circuit!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Qui arbitre ceux qu'ils veulent arbitrer?",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Si tu sais résister à 10 000°, tu peux traverser Jupiter (Gazeuse) par son noyau. XD",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Burn Babylone!",
+			"Bob Marley"
+		],
+		[
+			"Where is the f#ck!ng .json!",
+			"Deluxe"
+		],
+		[
+			"Je monte la garde!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"L@ musik s'M la P!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Dévoiler ses faiblesses est inacceptable!..",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"One Love!",
+			"Bob Marley"
+		],		[
+			"One Love, One Heart, One destiny!",
+			"Bob Marley"
+		],
+		[
+			"Par les dreadlocks de Bob Marley!",
+			"Hermes Conrad"
+		],
+		[
+			"Par la guitare de Peter Tosh!",
+			"Hermes Conrad"
+		],
+		[
+			"Tooh!",
+			"Homer Simpson"
+		],
+		[
+			"Ouh pinaise!",
+			"Homer Simpson"
+		],
+		[
+			"Ay Caramba!",
+			"Bart Simpson"
+		],
+		[
+			"Cowabunga!",
+			"Les Tortues Ninja"
+		],
+		[
+			"Je consomme, donc je suis!",
+			"Les Marcels"
+		],
+		[
+			"La vie est un mystère qu'il faut vivre, et non un problème à résoudre.",
+			"Gandhi"
+		],
+		[
+			"La folie, c'est se comporter de la même manière et s'attendre à un résultat différent!",
+			"Albert Einstein"
+		],
+		[
+			"Que la force soit avec toi!",
+			"Star Wars"
+		],
+		[
+			"Il est mort Jim!",
+			"Star Trek"
+		],
+		[
+			"Houston, nous avons un problème!",
+			"Apollo 13"
+		],
+		[
+			"Hasta la vista, Baby!",
+			"Terminator"
+		],
+		[
+			"Yippee-ki-yay, motherf****r!",
+			"Die Hard"
+		],
+		[
+			"Elementary, my dear Watson!",
+			"Sherlock Holmes"
+		],
+		[
+			"Le mouvement apporte le mouvement!",
+			"Romain"
+		],
+		[
+			"Il n'est pas vrai que les gens cessent de poursuivre leurs rêves parce qu'ils vieillissent. Ils vieillissent parce qu'ils cessent de poursuivre leurs rêves...",
+			"?"
+		],
+		[
+			"Nom d'une ligne de code.",
+			"?"
+		],
+		[
+			"Le courage naît dans l'action.",
+			"?"
+		],
+		[
+			"L'intelligence ce n'est pas ce que l'on sait, mais ce que l'on fait quand on ne sait pas.",
+			"Albert Einstein"
+		],
+		[
+			"Ce n'est pas le plus fort de l'espèce qui survit, ni le plus intelligent. C'est celui qui sait le mieux s'adapter au changement.",
+			"Charles Darwin"
+		],
+		[
+			"Tu veux dire un dernier mot? La grande musique vit éternellement! J'écrirai ça sur ta pierre tombale!",
+			"Teen Titans"
+		],
+		[
+			"Made from 100% recycled pixels!",
+			"Futurama"
+		],
+		[
+			"La logique vous mènera d'un point A à un point B. L'imagination vous mènera partout!",
+			"Albert Einstein"
+		],
+		[
+			"Vers l'infini et au-delà! (Sauf si le server est Down! XD)",
+			"Buzz l'Éclair (Edit Dev)"
+		],
+		[
+			"Vers l'infini et au-delà!..",
+			"Buzz l'Éclair"
+		],
+		[
+			"Je ne vis pas selon Babylone...",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"La réforme de la société commence par soi...",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"IA: Intelligence Ancestrale",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"La seule limite c'est ton imagination!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Esclave de la monnaie et des pixels.",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Il est temps d'offrir au capitalisme tout le temps de cerveau disponible!",
+			"Guillaume Meurice"
+		],
+		[
+			"Excusez-moi, j'étais ailleurs et c'est bien mieux qu'ici!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"La pauvreté est à consommer avec modération!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Sourire c'est Résister!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"L'humour c'est le désespoir bien habillé.",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Si t'es pas d'Aniche?? Alors ferme eut'gueule!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Il faut une réaction nucléaire pour produire les 2,21 Gigowatts!",
+			"Doc Brown"
+		],
+		[
+			"88 miles par heure! (141,622km/h)",
+			"Doc Brown"
+		],
+		[
+			"Hey Einstein! Tu sais où est Doc vieux frère?",
+			"Marty McFly"
+		],
+		[
+			"Le futur n'est pas écrit. Il est ce que nous en faisons!",
+			"Doc Brown"
+		],
+		[
+			"Le temps c'est comme l'argent. On en a jamais assez et on le gaspille tout le temps!",
+			"Doc Brown"
+		],
+		[
+			"Le passé est ce qui nous retient. Le présent est ce qui nous échappe. Le futur est ce que nous voulons.",
+			"Doc Brown"
+		],
+		[
+			"Le monde est divisé en deux catégories: ceux qui ont un pistolet chargé et ceux qui creusent. Toi tu creuses!",
+			"Blondie"
+		],
+		[
+			"Être radical dans l'amour!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Youpi! Je suis sur Google Street View!",
+			"IyaMeU"
+		],
+		[
+			"Un jour j'ai lancé une boucle infinie {}",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Haaaan! LA VIE EST DEVENUE VIRTUELLE!",
+			"Brav"
+		],
+		[
+			"+2Q-2N mais surtout +2B@55 XD",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"La science ne vaut que si elle est partagée!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"On ne déshumanise pas pour pouvoir massacrer mais on massacre pour déshumaniser...",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Mais pourquoi est-il aussi méchant? Parce queeeee!!!!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"- C'est quoi le texte?    - Ah!    - Ah?    Ahhhhhhhhhhhhhh!!!!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Remplacer la compétition par l'entraide et la coopération.",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Le risque de nos actions est toujours surévalué par rapport au risque de nos inactions.",
+			"Etienne Klein"
+		],
+		[
+			"Ce qui les intéressent n'est pas la propagation de l'Amour & de la Vérité.",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"La vraie révolution est intérieure!",
+			"IyaMe"
+		],
+		[
+			"Cours ma soeur, le vieux monde mâle explose derrière toi!",
+			"Françoise d'Eaubonne"
+		],
+		[
+			"En avant la musique!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"DIY",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Désolé, d'éxister ouai...",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Les raisons de mon existence sont tellement triste... Mais mon existence est tellement cool! Et au final c'est juste le pouvoir d'imagination land! XD",
+			"IyaMeU"
+		],
+		[
+			"Avec ça c'est sûr, vous mourrez moins bête... ...mais vous mourrez quand même!",
+			"Professeur Moustache"
+		],
+		[
+			"Je ne suis pas paresseux(se), je suis en mode économie d'énergie!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"La douleur est obligatoire et éternelle, la souffrance optionnelle...",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Visualise ton objectif!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Ravise devin ti!",
+			"Daniela"
+		],
+		[
+			"Dis Cortex, tu veux faire quoi cette nuit? La même chose que chaque nuit Minus, tenter de conquérir le monde!",
+			"Minus & Cortex"
+		],
+		[
+			"La Lumière est une onde électromagnétique Magique!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"De la Terre à la Lune, la Lumière met 1s pour arriver. Andromède... ...2 millions d'années Lumière!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"https://www.donnetonfric.com",
+			"Pierre Emmanuel Barre"
+		],
+		[
+			"Peace & Love!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Freedom!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"C'est l'histoire d'un homme qui tombe d'un immeuble de 50 étages. Le mec, au fur et à mesure de sa chute, il se répète sans cesse pour se rassurer : Jusqu'ici tout va bien. Jusqu'ici tout va bien. Jusqu'ici tout va bien. Mais l'important, c'est pas la chute, c'est l'atterrissage.",
+			"La haine"
+		],
+		[
+			"Fuck money!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Galaxie FM - 95.30FM",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"A quand l'équilibre entre nature & humanité?",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Papa c'est quoi cette bouteille de lait?... Papa! C'est quoi cette bouteille de lait? ça c'est ma bippppp!.... XD",
+			"Publicité"
+		],
+		[
+			"Désormais nos vies se résume à Ctrl+Alt+Suppr...",
+			"Brav"
+		],
+		[
+			"Qu'est-ce que vous voulez?",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Pandi!    Panda!   ",
+			"Chantale Goya"
+		],
+		[
+			"Disk Laser de Dorothée!",
+			"Les inconnus"
+		],
+		[
+			"Pierre, Feuille, Ciseau?",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Cite moi un seul pays dans l'histoire (à part Groland XD) où le véritable partage équitable des richesses avec la population est appliqué?..  Une Nation qui place le PIB après le bonheur de sa population?",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"C'est po juste!",
+			"Calimero"
+		],
+		[
+			"Tu sais c'est quoi la différence entre toi & moi? C'est que moi j'ai la classe!",
+			"MIB"
+		],
+		[
+			"Quoi d'neuf docteur?",
+			"Bugs Bunny"
+		],
+		[
+			"Koi d'9?",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Allez viens mon pote!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"J'étais même pas là pour t'prendre la main!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"C'est à moi qu'tu parles?",
+			"La Haine"
+		],
+		[
+			"Tidima!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Être libre c'est choisir soit même ses chaînes?",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"S'il te plaît dessine-moi un mouton?",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Vas t'faire transhumaniser!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Hey monsieur le Dj! Balance un son qui défonce!",
+			"Senacra Flora Van Haze"
+		]
+	]
+}
+
