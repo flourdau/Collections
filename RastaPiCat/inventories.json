@@ -65,7 +65,7 @@
 		{
 			"category": "Détection",
 			"name": "Suite de Capteurs",
-			"spec": "Infrarouge, Ultra-son, Lidar",
+			"spec": "Infrarouge",
 			"rarity": "Epic",
 			"description": "Les yeux de la Sentinelle Flora pour traquer les intrus... ou les câlins."
 		},

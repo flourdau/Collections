@@ -240,12 +240,6 @@
             "couleur_alerte": "#FFA500"
         },
         {
-            "etat": "doodo",
-            "type": "PIR_DETECTED",
-            "message": "Zzz... Capteurs en mod veille. Zzz...",
-            "couleur_alerte": "#4682B4"
-        },
-        {
             "etat": "amical",
             "type": "PIR_DETECTED",
             "message": "Cible en vue!",
