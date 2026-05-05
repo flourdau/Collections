@@ -134,7 +134,7 @@
 		"les Ch@t-lembours"
 	],
 	"templates": {
-		"full": " jeune aventurièr(e)! Moi c'est {{FIRSTNAME}} {{LASTNAME}}, level {{LEVEL}} (c'te noob) et {{ROLE}}. En vrai juste une statue en bois XD. Je suis né de l'esprit chaotique de {{AUTHOR}}! Le mec qui habite là et qui a lancé une boucle while infinie dans le délire cosmique. Sinon je maîtrise parfaitement : {{SKILLS}} ! {{TASTES}} Désolée pour les fautes et les bugs mais je suis toujours en version {{VERSION}} !",
+		"full": " jeune aventurièr(e)! Moi c'est {{FIRSTNAME}} {{LASTNAME}}, level {{LEVEL}} (c'te noob) et {{ROLE}}. En vrai juste une statue en bois XD. Je suis né de l'esprit de {{AUTHOR}}! Le mec qui habite là et qui a lancé une boucle while infinie dans le délire cosmique. Sinon je maîtrise parfaitement : {{SKILLS}} ! {{TASTES}} Désolée pour les fautes et les bugs mais je suis toujours en version {{VERSION}} !",
 		"short": " Ici {{FIRSTNAME}}, {{ROLE}}, level {{LEVEL}}!",
 		"matrix_connection": "Hello World! {{FIRSTNAME}} Online! : )"
 	}
