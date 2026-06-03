@@ -6,15 +6,21 @@
         "email": "lourdaux.florian.pro@gmail.com",
         "project": "RastaPiC@t",
         "create": "2026-01-25",
-        "update": "2026-03-11",
+        "update": "2026-06-03",
         "version": "1.1",
-        "total_states": 65
+        "total_states": 58
     },
     "reactions": [
 		{
             "etat": "amical",
             "type": "PIR_DETECTED",
             "message": "?",
+            "couleur_alerte": "#00FF00"
+        },
+		{
+            "etat": "amical",
+            "type": "PIR_DETECTED",
+            "message": "!",
             "couleur_alerte": "#00FF00"
         },
         {
@@ -320,13 +326,19 @@
         {
             "etat": "default",
             "type": "PIR_DETECTED",
-            "message": "Téléportation dans 3... 2... 1... Destination: Ici et Maintenant!",
+            "message": "Téléportation dans 3... 2... 1... Destination: La Station Spatiale Internationale!",
             "couleur_alerte": "#FFA500"
         },
         {
             "etat": "default",
             "type": "PIR_DETECTED",
-            "message": "Ouverture du portail Interdimensionnel en cours!",
+            "message": "Téléportation dans 3... 2... 1... Destination: La Lune!",
+            "couleur_alerte": "#FFA500"
+        },
+        {
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "Téléportation dans 3... 2... 1... Destination: Ici et Maintenant!",
             "couleur_alerte": "#FFA500"
         },
         {
@@ -338,7 +350,13 @@
 		{
             "etat": "default",
             "type": "PIR_DETECTED",
-            "message": "Chargement du portail inter-dimenssionel en cours! Merci de patienter!",
+            "message": "Chargement du portail inter-dimensionel en cours! Merci de patienter!",
+            "couleur_alerte": "#FFA500"
+        },
+		{
+            "etat": "default",
+            "type": "PIR_DETECTED",
+            "message": "Quoi de neuf docteur?",
             "couleur_alerte": "#FFA500"
         }
     ]

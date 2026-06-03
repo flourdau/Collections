@@ -30,8 +30,8 @@
 		"width": 32,
 		"height": 8,
 		"brightness": {
-			"default": "5%",
-			"min": "5%",
+			"default": "50%",
+			"min": "50%",
 			"bold": "50%",
 			"max": "95%"
 		},

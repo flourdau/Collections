@@ -8,7 +8,7 @@
 		"create": "2025-01-24",
 		"update": "2026-03-06",
 		"version": "1.1",
-		"count": 110
+		"count": 164
 	},
 
 
@@ -75,7 +75,7 @@
 		],
 		[
 			"C'est pas nous qui sommes à la rue, c'est la Rue Kétanou!",
-			"a rue Kétanou"
+			"La rue Kétanou"
 		],
 		[
 			"C'est du génie de Street-Art Numérique!",
@@ -114,7 +114,7 @@
 			"Senacra Flora Van Haze"
 		],
 		[
-			"Hein?..    ...Ah ch'suis désolé!.. ",
+			"Hein?..    ...Ah ch'suis désolée!.. ",
 			"..."
 		],
 		[
@@ -131,6 +131,42 @@
 		],
 		[
 			"Tous les pixels ne pourront jamais remplacer la lumière d'une âme!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"On considère souvent les pauvres comme des victimes passives, mais survivre dans l'économie brutale américaine demande une créativité extraordinaire!",
+			"Ocean Vuong"
+		],
+		[
+			"Un photon est la plus petite quantité de lumière. Il n'a pas de masse, mais il transporte de l'énergie et de l'information à travers l'univers. C'est un messager cosmique",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"SupaNova!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Picaboo!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Nous sommes tous des paradoxes!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Est-ce que c'est la nature humaine ou la nature d'un système?",
+			"Le roi borgne"
+		],
+		[
+			"Moi IyaMeU! Promets de me battre, de m'entraîner et de te botter le derch chaque jour de la semaine!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Je suis un PNJ!",
+			"Senacra Flora Van Haze"
+		],
+		[
+			"Totalement inutile donc indispensable!",
 			"Senacra Flora Van Haze"
 		],
 		[
@@ -158,7 +194,7 @@
 			"Senacra Flora Van Haze"
 		],
 		[
-			"Le futur est génial,..    ...mais le futur est payant!.. ",
+			"Le futur est génial,..    ...Mais le futur est payant!.. ",
 			"IyaMe"
 		],
 		[
@@ -174,11 +210,11 @@
 			"Senacra Flora Van Haze"
 		],
 				[
-			"Sanka t'es mort?..    ...Yeah man!..",
+			"- Sanka t'es mort?..    ... - Yeah Man!..",
 			"Rastarocket"
 		],
 				[
-			"Hey Manu tu descends?   Bah pourquoi faire?",
+			"- Hey Manu tu descends?   - Bah pourquoi faire?",
 			"Les inconnus"
 		],
 		[
@@ -186,7 +222,7 @@
 			"Senacra Flora Van Haze"
 		],
 		[
-			"Au punaise!    Ils ont tué Kenny,    espère d'enfoirés!   ",
+			"Au punaise!    Ils ont tué Kenny,    espères d'enfoirés!   ",
 			"Kyle"
 		],
 		[
@@ -210,7 +246,7 @@
 			"Senacra Flora Van Haze"
 		],
 		[
-			"Les plus grandes Lumière projettent les plus grandes Ombres malheureusement...",
+			"Les plus grandes Lumières projettent les plus grandes Ombres malheureusement...",
 			"Senacra Flora Van Haze"
 		],
 		[
@@ -226,11 +262,11 @@
 			"Senacra Flora Van Haze"
 		],
 		[
-			"Par tous mes circuit!",
+			"Par tous mes circuits!",
 			"Senacra Flora Van Haze"
 		],
 		[
-			"Qui arbitre ceux qu'ils veulent arbitrer?",
+			"Qui arbitre ceux qui veulent arbitrer?",
 			"Senacra Flora Van Haze"
 		],
 		[
@@ -251,10 +287,6 @@
 		],
 		[
 			"L@ musik s'M la P!",
-			"Senacra Flora Van Haze"
-		],
-		[
-			"Dévoiler ses faiblesses est inacceptable!..",
 			"Senacra Flora Van Haze"
 		],
 		[
@@ -505,11 +537,7 @@
 			"Senacra Flora Van Haze"
 		],
 		[
-			"Désolé, d'éxister ouai...",
-			"Senacra Flora Van Haze"
-		],
-		[
-			"Les raisons de mon existence sont tellement triste... Mais mon existence est tellement cool! Et au final c'est juste le pouvoir d'imagination land! XD",
+			"Les raisons de mon existence sont tellement tristes... Mais mon existence est tellement cool! Et au final c'est juste le pouvoir d'imagination land! XD",
 			"IyaMeU"
 		],
 		[
@@ -565,10 +593,6 @@
 			"La haine"
 		],
 		[
-			"Fuck money!",
-			"Senacra Flora Van Haze"
-		],
-		[
 			"Galaxie FM - 95.30FM",
 			"Senacra Flora Van Haze"
 		],
@@ -577,11 +601,11 @@
 			"Senacra Flora Van Haze"
 		],
 		[
-			"Papa c'est quoi cette bouteille de lait?... Papa! C'est quoi cette bouteille de lait? ça c'est ma bippppp!.... XD",
+			"Papa c'est quoi cette bouteille de lait?... Papa! C'est quoi cette bouteille de lait? ça c'est ma Biiippppp!.... XD",
 			"Publicité"
 		],
 		[
-			"Désormais nos vies se résume à Ctrl+Alt+Suppr...",
+			"Désormais nos vies se résument à Ctrl+Alt+Suppr...",
 			"Brav"
 		],
 		[
@@ -590,7 +614,7 @@
 		],
 		[
 			"Pandi!    Panda!   ",
-			"Chantale Goya"
+			"Chantal Goya"
 		],
 		[
 			"Disk Laser de Dorothée!",
@@ -637,7 +661,7 @@
 			"Senacra Flora Van Haze"
 		],
 		[
-			"Être libre c'est choisir soit même ses chaînes?",
+			"Être libre c'est choisir soit-même ses chaînes?",
 			"Senacra Flora Van Haze"
 		],
 		[
@@ -654,4 +678,3 @@
 		]
 	]
 }
-

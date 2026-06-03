@@ -6,7 +6,7 @@
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "RastaPiC@t",
 		"create": "2026-01-25",
-		"update": "2026-02-05",
+		"update": "2026-06-03",
 		"version": "1.0",
 		"count": 12
 	},
@@ -93,6 +93,24 @@
 			"versions": {
 				"full": "Je ne suis pas un robot!    Faut pas croire ce que disent les journaux!",
 				"short": "Je ne suis pas un robot!    Faut pas croire ce que disent les journaux!"
+			}
+		},
+		{
+			"title": "Spider Cochon",
+			"artist": "Les simpsons",
+			"mood_target": "happy",
+			"versions": {
+				"full": "Spider Cochon, Spider Cochon, Il peut marcher au plafond. Est-ce qu'il peut faire une toile? Biensûr que non, c'est un cochon. Prends garde! Spider Cochon est là.",
+				"short": "Spider Cochon, Spider Cochon, Il peut marcher au plafond.    Est-ce qu'il peut faire une toile?    Biensûr que non, c'est un cochon.    Prends garde!    Spider Cochon est là."
+			}
+		},
+		{
+			"title": "Manah Manah",
+			"artist": "Les muppets",
+			"mood_target": "happy",
+			"versions": {
+				"full": "Mmanah Manah! Tutu tululu! Mmanah Manah! Tutu lu lu! Mmanah Manah! tululu tululu tululu tutu lu!",
+				"short": "Mmanah Manah!    Tutu tululu!    Mmanah Manah!    Tutu lu lu!    Mmanah Manah!    Tululu tululu tululu tutu lu!    "
 			}
 		},
 		{
