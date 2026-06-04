@@ -1,6 +1,8 @@
 # Collections
 Data 'fixe', référencée en dictionnaire .json
 
+## Fichiers racine
+
 | Fichier | Date de modification |
 |---------|----------------------|
 | [acclamations.json](acclamations.json) | 2026-01-25 |
@@ -25,6 +27,11 @@ Data 'fixe', référencée en dictionnaire .json
 | [tags.json](tags.json) | 2026-01-25 |
 | [thanks.json](thanks.json) | 2026-02-19 |
 | [welcomes.json](welcomes.json) | 2026-01-25 |
+
+## RastaPiCat
+
+| Fichier | Date de modification |
+|---------|----------------------|
 | [achievements.json](RastaPiCat/achievements.json) | 2026-02-04 |
 | [changelogs.json](RastaPiCat/changelogs.json) | 2026-02-04 |
 | [chatations.json](RastaPiCat/chatations.json) | 2026-06-03 |
