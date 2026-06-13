@@ -1,0 +1,25 @@
+{
+        "metadata": {
+                "name": "jurons.json",
+                "author": "Senacra Flora Van Haze",
+                "email": "lourdaux.florian.pro@gmail.com",
+                "project": "RastaPiC@t",
+                "create": "2026-02-19",
+                "update": "2026-06-13",
+                "version": "1.0",
+                "total_text": 10
+        },
+        "data": [
+                "Zut",
+                "Flûte",
+                "Zut Flûte Glut",
+                "Oups",
+                "Bof",
+                "Mince",
+                "Saperlipopette",
+                "Samerlipopette",
+                "Nul",
+                "Purée",
+                "Ah bah bravo"
+        ]
+}
