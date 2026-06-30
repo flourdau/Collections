@@ -1,12 +1,12 @@
 {
 	"metadata": {
 		"name": "lyrics.json",
-		"description": "Base de données des paroles et chansons pour la matrice et le système audio.",
+		"description": "Base de données des paroles et chansons pour la matrice.",
 		"author": "Senacra Flora Van Haze",
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "RastaPiC@t",
 		"create": "2026-01-25",
-		"update": "2026-06-12",
+		"update": "2026-06-30",
 		"version": "1.0",
 		"count": 12
 	},
@@ -98,7 +98,7 @@
 			"mood_target": "happy",
 			"versions": {
 				"full": "Spider Cochon, Spider Cochon, Il peut marcher au plafond. Est-ce qu'il peut faire une toile? Biensûr que non, c'est un cochon. Prends garde! Spider Cochon est là.",
-				"short": "Spider Cochon, Spider Cochon, Il peut marcher au plafond.    Est-ce qu'il peut faire une toile ?    Biensûr que non, c'est un cochon.    Prends garde !    Spider Cochon est là."
+				"short": "Spider Cochon,    Spider Cochon,    Il peut marcher au plafond.    Est-ce qu'il peut faire une toile ?    Biensûr que non,    c'est un cochon.    Prends garde !    Spider Cochon est là."
 			}
 		},
 		{
@@ -116,7 +116,7 @@
 			"mood_target": "unhappy",
 			"versions": {
 				"full": "Quand tu me diras tous ces trucs-là... Moi j'entendrai rien, je serai déjà loin dans la Musique qui m'emporte et qui me prend dans ses Bras! La Musique qui me réchauffe la tripe et qui pleure avec moi...",
-				"short": "Quand tu m'diras tous ces trucs-là...    Moi j'entendrai rien, j'serai djà loin dans la Musique...    ...qui m'emporte et qui m'prend dans ses bras !..    ...La Musique qui m'réchauffe la tripe...    ...et qui pleure avec moi... :'("
+				"short": "Quand tu m'diras tous ces trucs-là...    Moi j'entendrai rien,    j'serai djà loin dans la Musique...    ...qui m'emporte et qui m'prend dans ses bras !..    ...La Musique qui m'réchauffe la tripe...    ...et qui pleure avec moi...    :'("
 			}
 		},
 		{
@@ -152,7 +152,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "On est souvent trompés en amour, on est souvent blessés et souvent malheureux mais on aime, et on... Quand on est sur le bord de sa tombe, on se retourne pour regarder en arrière, et on s'est dit, J'ai souffert souvent, je me suis trompé quelquefois, mais j'ai aimé. J'ai aimé tant qu'j'pouvais l'faire J'ai aimé comme un con, comme un poids lourd Aimé chaque combat, aimé chaque adversaire Pigé bien souvent, même la violence est amour J'ai aimé fort, j'ai aimé vite, j'ai aimé mal J'ai aimé comme un porc, comme une prise de MMA Aimé comme on tire des balles, sans s'mettre à l'abri des flammes Même à degré inégal, jusqu'à briser l'idéal J'ai aimé jusqu'à vous abandonner totalement, ma fierté J'ai souvent préféré rester naïf, même si je savais déjà à l'avance c'que vous alliez faire, ouais On allait s'aimer jusqu'à se haïr J'ai aimé fort, j'ai aimé triste, j'ai aimé sale Bien sûr, que j'ai mes torts, on va esquiver les détails J'ai pas toujours été droit, non, mais j'ai essayé J'l'ai peut-être fait maladroitement, mais au moins, j'ai aimé, aimé J'ai aimé Au moins, j'aurais aimé J'aurais jamais perdu cette force-là Au moins, j'aurais aimé Gardez l'rythme J'aurais aimé J'aurais essayé Mon cœur sera reconstitué tôt ou tard, donc on va le briser encore quelquefois On va encore s'aimer comme des martyrs Perdre la raison, le contrôle, même le poids S'aimer jusqu'à être toi, disparaître ou t'laisser partir On va s'aimer fort, s'aimer vite ou s'aimer mal Comme une pluie de météores, comme une foutue guerre d'étoiles Quand Trinity esquive des balles, ou comment on déchire des voiles Aimer même la pire des failles, que nous rafraichissent les flammes Quand on a que la force d'aimer pour faire trembler les plus hautes tours Que l'amour pour parler au canon Pour habiller de soleil, la foutue laideur de nos faubourgs, ouais On risque d's'aimer fort, d's'aimer vite ou d's'aimer mal Chacun de nous aura ses torts, on va esquiver les détails On a pas toujours été droit, non, on a essayé On l'a fait maladroitement, mais au moins, on a aimé, aimé On a aimé Au moins, on aura aimé Perdu cette putain d'force-là Au moins, on aura aimé Gardez l'rythme On aura aimé On aura tout fait par amour J'ai souvent brisé mon cœur Y en a des morceaux par-ci par-là Certains ont sûrement dû s'y blesser Désolé pour les traces sur le carrelage Plus jamais donner mon cœur, j'me suis juré, mais les promesses n'ont pas duré J'l'ai brisé puis rebrisé, dispersé les pièces aux quatre coins du globe Mais j'sais qu'un jour, il sera reconstitué, ouais À la prod', Greenfinch Aimer, c'est la matière première Celle qui structure tout l'univers L'A.D.N. de la matrice Aimer",
-				"short": "Aimer c'est la matière première,    celle qui structure tout l'univers,    l'ADN de la matrice.    Aimer !"
+				"short": "Aimer : c'est la matière première,    celle qui structure tout l'univers,    l'ADN de la matrice.    Aimer !"
 			}
 		},
 		{
@@ -161,7 +161,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Interplanetary Revolution!    ",
-				"short": "Interplanetary Revolution !"
+				"short": "Interplanetary Revolution !   "
 			}
 		},
 		{
@@ -170,7 +170,7 @@
 			"mood_target": "general",
 			"versions": {
 				"full": "La Vie, La Vie, La Vie, La Vie, La Vie, La Vie, La Vie,...  ...Et voici La Vie! La belle vie qui coule dans nos veines...  ...Laissons là nos soucis...",
-				"short": "La Vie, La Vie, La Vie, La Vie, La Vie, La Vie, La Vie,...  ...Et voici La Vie !    La belle vie qui coule dans nos veines...    ...Laissons là nos soucis... "
+				"short": "La Vie,    La Vie,    La Vie,    La Vie,    La Vie,    La Vie,    La Vie,...    ...Et voici La Vie !    La belle vie qui coule dans nos veines...    ...Laissons là nos soucis... "
 			}
 		},
 		{
@@ -179,7 +179,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "On vous souhaite tout le bonheur du monde Et que quelqu'un vous tende la main Que votre chemin évite les bombes Qu'il mène vers de calmes jardins On vous souhaite tout le bonheur du monde Pour aujourd'hui comme pour demain Que votre soleil éclaircisse l'ombre Qu'il brille d'amour au quotidien Puisque l'avenir vous appartient Puisqu'on n'contrôle pas votre destin Que votre envol est pour demain Comme tout c'qu'on a à vous offrir Ne saurait toujours vous suffire Dans cette liberté à venir Puisqu'on n'sera pas toujours là Comme on le fut aux premiers pas On vous souhaite tout le bonheur du monde Et que quelqu'un vous tende la main Que votre chemin évite les bombes Qu'il mène vers de calmes jardins On vous souhaite tout le bonheur du monde Pour aujourd'hui comme pour demain Que votre soleil éclaircisse l'ombre Qu'il brille d'amour au quotidien Toute une vie s'offre devant vous Tant de rêves à vivre jusqu'au bout Sûrement tant de joie au rendez-vous Libres de faire vos propres choix De choisir quelle sera votre voie Et où celle-ci vous emmènera J'espère juste que vous prendrez le temps De profiter de chaque instant On vous souhaite tout le bonheur du monde Et que quelqu'un vous tende la main Que votre chemin évite les bombes Qu'il mène vers de calmes jardins On vous souhaite tout le bonheur du monde Pour aujourd'hui comme pour demain Que votre soleil éclaircisse l'ombre Qu'il brille d'amour au quotidien J'sais pas quel monde on vous laissera On fait d'notre mieux, seulement parfois J'ose espérer que c'la suffira Pas à sauver votre insouciance Mais à apaiser notre conscience Pour le reste j'me dois de vous faire confiance ? On vous souhaite tout le bonheur du monde Et que quelqu'un vous tende la main Que votre chemin évite les bombes Qu'il mène vers de calmes jardins On vous souhaite tout le bonheur du monde Pour aujourd'hui comme pour demain Que votre soleil éclaircisse l'ombre Qu'il brille d'amour au quotidien On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde Que votre chemin évite les bombes Qu'il mène vers de calmes jardins On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde On vous souhaite tout le bonheur du monde Ouh, oui, tout le bonheur du monde Que votre soleil éclaircisse l'ombre Qu'il brille d'amour au quotidien",
-				"short": "On vous souhaite tout le bonheur du monde...    Et que quelqu'un vous tende la main...    Que votre chemin évite les bombes...     Qu'il mène vers de calmes jardins...    On vous souhaite tout le bonheur du monde...     :)"
+				"short": "On vous souhaite tout le bonheur du monde...    Et que quelqu'un vous tende la main...    Que votre chemin évite les bombes...     Qu'il mène vers de calmes jardins...    On vous souhaite tout le bonheur du monde...     :)    "
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Donner moi l'amour qui rend aveugle plutôt que la haine qui crève les yeux!",
-				"short": "Donner moi l'amour qui rend aveugle plutôt que la haine qui crève les yeux !"
+				"short": "Donner moi l'amour qui rend aveugle plutôt que la haine qui crève les yeux !   "
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Pierpoljak qu'est ce que tu fais là?",
-				"short": "Pierpoljak qu'est ce que tu fais là ?"
+				"short": "Pierpoljak qu'est ce que tu fais là ?    "
 			}
 		},
 		{
@@ -233,7 +233,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "On ira tous au paradis.... Même moi!",
-				"short": "On ira tous au paradis.... Même moi !"
+				"short": "On ira tous au paradis...    Même moi !   "
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "On aurait pourtant pu être amis,  aller danser au bal.    Se croiser le matin,  se voir l'après-midi,  se balader sous les étoiles.    On pourrait pourtant tous être amis,  un peu comme les fourmis.    Mais les gens sont comme toi,  toujours ils se méfient.    Alors la guerre ça m'étonne pas...    Oh waaah ah!    Oh wahh ah ah ah!    Oh waaah ah!    Oh wahh ah ah ah!  Wah bidou wa wa bidou bidou wa!    Wa bidou yeahhh heyyy hey!..",
-				"short": "On aurait pourtant pu être amis, aller danser au bal.    Se croiser le matin, se voir l'après-midi, se balader sous les étoiles.    On pourrait pourtant tous être amis, un peu comme les fourmis.    Mais les gens sont comme toi, toujours ils se méfient.     Alors la guerre ça m'étonne pas...    Oh waaah ah !    Oh wahh ah ah ah !    Oh waaah ah !    Oh wahh ah ah ah !    Wah bidou wa wa bidou bidou wa !    Wa bidou yeahhh heyyy hey !.."
+				"short": "On aurait pourtant pu être amis,   aller danser au bal.   Se croiser le matin,   se voir l'après-midi,   se balader sous les étoiles.    On pourrait pourtant tous être amis,   un peu comme les fourmis.   Mais les gens sont comme toi,    toujours ils se méfient.    Alors la guerre ça m'étonne pas...    Oh waaah ah !    Oh wahh ah ah ah !    Oh waaah ah !    Oh wahh ah ah ah !    Wah bidou wa wa bidou bidou wa !    Wa bidou yeahhh heyyy hey !.."
 			}
 		},
 		{
@@ -314,7 +314,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "J'ai envie de Métissage pour des hommes vrais. & tous ceux qui ont de la rage, vas-y laisse les. Ouvre ton rivage à la différence qu'on aime pour des Hommes vrais, oui pour des Hommes vrai!",
-				"short": "J'ai envie de Métissage pour des hommes vrais.    & tous ceux qui ont de la rage,    vas-y laisse les.    Ouvre ton rivage à la différence qu'on aime pour des Hommes vrais,    oui pour des Hommes vrai !"
+				"short": "J'ai envie de Métissage pour des hommes vrais.    & tous ceux qui ont de la rage,    vas-y laisse les."
 			}
 		},
 		{
@@ -324,15 +324,6 @@
 			"versions": {
 				"full": "Dans la vie faut pas s'en faire!    Moi je ne m'en fais pas!    Ces petites misères,    Seront passagères!    Tout ça s'arrangera!    Je n'ai pas un caractère,    A me faire du tracas.    Croyez-moi sur terre,    Faut jamais s'en faire,    Moi je ne m'en fais pas!",
 				"short": "Dans la vie faut pas s'en faire !    Moi je ne m'en fais pas !    Ces petites misères,    Seront passagères !    Tout ça s'arrangera !"
-			}
-		},
-		{
-			"title": "Aie confianceeeee! Crois ennnn Moi!",
-			"artist": "Le livre de la jungle",
-			"mood_target": "chill",
-			"versions": {
-				"full": "Aie confianceeeee! Crois ennnn Moi!",
-				"short": "Aie confianceeeee !    Crois ennnn Moi !"
 			}
 		},
 		{
@@ -396,6 +387,33 @@
 			"versions": {
 				"full": "...Boom Boom Bass!..    ...Boom Boom Bass!..    ...Boom Boom Bass!..",
 				"short": "...Boom Boom Bass !..    ...Boom Boom Bass !..    ...Boom Boom Bass !.."
+			}
+		},
+		{
+			"title": "",
+			"artist": "",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Seuls les guerriers maudits survivent ici. Des fois y'a pas le choix on pète les plombs, c'est fini !..",
+				"short": "Seuls les guerriers maudits survivent ici.   Des fois y'a pas le choix on pète les plombs,    c'est fini !..     "
+			}
+		},
+		{
+			"title": "Punk à Chien",
+			"artist": "Les Fatal Picards",
+			"mood_target": "chill",
+			"versions": {
+				"full": "    ... Punk à Ch@t !..    ... Punk à  !..    ... Punk à  !..    ... Punk à Ch@t !..    ",
+				"short": "    ... Punk à Ch@t !..    ... Punk à  !..    ... Punk à  !..    ... Punk à Ch@t !..    "
+			}
+		},
+		{
+			"title": "C'est toi que je t'aime",
+			"artist": "Les inconnus",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Faudrait que j'invente des mots qui n'existent pas dans le Dico !   ",
+				"short": "Faudrait que j'invente des mots qui n'existent pas dans le Dico !   "
 			}
 		}
 	]

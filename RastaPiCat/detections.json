@@ -26,6 +26,12 @@
 		{
 			"etat": "amical",
 			"type": "PIR_DETECTED",
+			"message": "Sainte Lueur,    Mère des cieux !",
+			"couleur_alerte": "#00FF00"
+		},
+		{
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"message": "Par tous mes circuits !?",
 			"couleur_alerte": "#00FF00"
 		},
