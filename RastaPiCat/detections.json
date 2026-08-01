@@ -32,6 +32,30 @@
 		{
 			"etat": "amical",
 			"type": "PIR_DETECTED",
+			"message": "Tooh !",
+			"couleur_alerte": "#00FF00"
+		},
+		{
+			"etat": "amical",
+			"type": "PIR_DETECTED",
+			"message": "Par Toutatis !",
+			"couleur_alerte": "#00FF00"
+		},
+		{
+			"etat": "amical",
+			"type": "PIR_DETECTED",
+			"message": "Wesh canne à pêche !",
+			"couleur_alerte": "#00FF00"
+		},
+		{
+			"etat": "amical",
+			"type": "PIR_DETECTED",
+			"message": "Connection au paradis en cours, merci de patienter... ",
+			"couleur_alerte": "#00FF00"
+		},
+		{
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"message": "Par tous mes circuits !?",
 			"couleur_alerte": "#00FF00"
 		},

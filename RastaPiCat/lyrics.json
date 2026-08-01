@@ -6,7 +6,7 @@
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "RastaPiC@t",
 		"create": "2026-01-25",
-		"update": "2026-06-30",
+		"update": "2026-07-29",
 		"version": "1.0",
 		"count": 12
 	},
@@ -278,7 +278,7 @@
 			"mood_target": "generic",
 			"versions": {
 				"full": "Ingénieur informaticien, je suis Ingénieurrrrr  informaticiennnnnn... J'ailmeeee les ordinaaaaaateurs! Windows 98! XD",
-				"short": "Ingénieur informaticien !..    je suis Ingénieurrrrr  informaticiennnnnn !..    J'ailmeeee les ordinaaaaaateurs !..    Windows 98 !..    XD"
+				"short": "Ingénieur informaticien !..    je suis Ingénieurrrrr  informaticiennnnnn !..    J'aimeeee les ordinaaaaaateurs !..    Windows 98 !..    XD"
 			}
 		},
 		{
@@ -390,8 +390,35 @@
 			}
 		},
 		{
+			"title": "Un autre monde",
+			"artist": "Téléphone",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Je rêvais d'un autre monde...",
+				"short": "Je rêvais d'un autre monde..."
+			}
+		},
+		{
+			"title": "Yeeah Yeah Yo",
+			"artist": "Busta Flex",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Check mon Hip Hop Lou La !...",
+				"short": "Check mon Hip Hop Lou La !..."
+			}
+		},
+		{
+			"title": "Usé",
+			"artist": "Damien Saez",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Un jour on c'est aimé et ce jour c'est demain. Un jour d'humanité un jour de gloire !.. Un jour on c'est aimé et ce jour c'est demain. Un jour d'humanité un jour d'humain !.. Lalalalala lala lalalala lalal.... ",
+				"short": "Un jour on c'est aimé et ce jour c'est demain.    Un jour d'humanité un jour de gloire !..    Un jour on c'est aimé et ce jour c'est demain.    Un jour d'humanité un jour d'humain !..    Lalalalala lala lalalala lalal.... "
+			}
+		},
+		{
 			"title": "",
-			"artist": "",
+			"artist": "Shuriken",
 			"mood_target": "chill",
 			"versions": {
 				"full": "Seuls les guerriers maudits survivent ici. Des fois y'a pas le choix on pète les plombs, c'est fini !..",

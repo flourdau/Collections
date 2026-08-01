@@ -6,7 +6,7 @@
         "email": "lourdaux.florian.pro@gmail.com",
         "project": "RastaPiC@t",
         "create": "2026-01-25",
-        "update": "2026-06-29",
+        "update": "2026-07-29",
         "version": "1.0",
         "total_quotes": 124
     },
@@ -15,6 +15,56 @@
 	"quotes": [
 		{
 			"text": "    =^..^=    ",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+		{
+			"text": "Ch@tanyctalope ! XD",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+        {
+			"text": "Les Ch@t-docks pompaient !..",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+        {
+			"text": "Du hardcore jusqu'@ la mort !..",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+        {
+			"text": "Je suis dans le C@talogue électrique du 20ème siècle !",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+        {
+			"text": "Aidez-moi!  Aidez-moi ! Je suis prisonnière dans le donjon du Ch@t-eau ! Je m'appelle Zelda. !",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+		{
+			"text": "CH@T-DOUKENNNNNN !",
+			"author": "Riu",
+			"color": "default"
+		},
+		{
+			"text": "Wakazabougaaaa !",
+			"author": "Alain Chabat",
+			"color": "default"
+		},
+		{
+			"text": "Ch@t raver 4ever !",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+		{
+			"text": "Etat morbide, dans lequel ce qui est pure imagination est perçu comme réalité...    ...Ch@t-llucination en progression !",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+		{
+			"text": "On Ch@t nuit tellement...",
 			"author": "Senacra Flora Van Haze",
 			"color": "default"
 		},
@@ -44,7 +94,7 @@
 			"color": "default"
 		},
 		{
-			"text": "Ze chuis un Ch@t-Bot-Zombie-Ninja-Pirate de l'E-space !",
+			"text": "Ze chuis un Karaté Ch@t-Bot-Zombie-Ch@tmouraï-Ninja-Pirate de l'E-space !",
 			"author": "Senacra Flora Van Haze",
 			"color": "default"
 		},
@@ -429,7 +479,7 @@
             "color": "default"
         },
         {
-            "text": "Oh un K-méléon !",
+            "text": "Oh un K-méléon ! ah nan c'est un gecko...",
             "author": "Senacra Flora Van Haze",
             "color": "default"
         },
@@ -440,6 +490,11 @@
         },
         {
             "text": "Qui Ch@t mi ?",
+            "author": "Senacra Flora Van Haze",
+            "color": "default"
+        },
+        {
+            "text": "C'est Ch@t-leur dans ton corps !",
             "author": "Senacra Flora Van Haze",
             "color": "default"
         },
