@@ -6,21 +6,45 @@
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "Standard Collection",
 		"create": "2026-01-25",
-		"update": "2026-01-25",
+		"update": "2026-09-15",
 		"version": "1.0"
 	},
 
 
 	"items": [
 		{
-			"terme": "Tadaaaa!!!",
+			"terme": "Tadaaaa!!! ",
 			"style": "humoristique",
 			"lang": "fr",
 			"period": "all"
 		},
 		{
-			"terme": "Bienvenue!",
+			"terme": "Tadoumm!!! ",
+			"style": "humoristique",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Bienvenue! ",
 			"style": "standard",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Bienvenue à Dreamland! ",
+			"style": "humour",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Bienvenue dans cette dimension parallèle! ",
+			"style": "humour",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Bienvenue dans la cellule de dégrisement de SteamLand! ",
+			"style": "humour",
 			"lang": "fr",
 			"period": "all"
 		},
@@ -32,6 +56,24 @@
 		},
 		{
 			"terme": "Welcome!",
+			"style": "standard",
+			"lang": "en",
+			"period": "all"
+		},
+		{
+			"terme": "Welcome to 'Utopia'! ",
+			"style": "standard",
+			"lang": "en",
+			"period": "all"
+		},
+		{
+			"terme": "Welcome to the 'Gaming Room'! ",
+			"style": "standard",
+			"lang": "en",
+			"period": "all"
+		},
+		{
+			"terme": "Welcome to the Méga-Block! ",
 			"style": "standard",
 			"lang": "en",
 			"period": "all"

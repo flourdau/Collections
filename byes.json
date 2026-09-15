@@ -25,6 +25,26 @@
 			"period": "all"
 		},
 		{
+			"terme": "Yata! ",
+			"style": "humour",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Circulez! ",
+			"style": "humour",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Banzaï! ",
+			"style": "humour",
+			"lang": "fr",
+			"period": "all"
+		},
+
+
+		{
 			"terme": "Aurevoir!",
 			"style": "formel",
 			"lang": "fr",
@@ -56,6 +76,12 @@
 		},
 		{
 			"terme": "Sayonara!",
+			"style": "formel",
+			"lang": "jp",
+			"period": "all"
+		},
+		{
+			"terme": "Ch@t-Yonara!",
 			"style": "formel",
 			"lang": "jp",
 			"period": "all"
