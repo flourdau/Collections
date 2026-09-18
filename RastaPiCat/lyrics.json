@@ -560,6 +560,24 @@
 				"full": "Un petit indien, un petit indien! Nagawika, Nagawika! Chantait gaiement sur le chemin! Nagawika, Nagawika! ",
 				"short": "Un petit indien, un petit indien! Nagawika, Nagawika! Chantait gaiement sur le chemin! Nagawika, Nagawika! "
 			}
+		},
+		{
+			"title": "C'est comme ça",
+			"artist": "Les Rita Mitsouko",
+			"mood_target": "chill",
+			"versions": {
+				"full": "C'est comme Ch@t! Lala la lalaaaaa",
+				"short": "C'est comme Ch@t! Lala la lalaaaaa"
+			}
+		},
+		{
+			"title": "",
+			"artist": "",
+			"mood_target": "",
+			"versions": {
+				"full": "Ch@t! Andy! Dis-moi oui! Andy! Ch@t! Andy! Dis-moi oui! Chéri!",
+				"short": "Ch@t! Andy! Dis-moi oui! Andy! Ch@t! Andy! Dis-moi oui! Chéri!"
+			}
 		}
 	]
 }
