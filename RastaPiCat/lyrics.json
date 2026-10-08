@@ -116,7 +116,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Bob l'éponge carré! Bob l'éponge carré! ",
-				"short": "Bob l'éponge carré! Bob l'éponge carré! "
+				"short": "Bob l'éponge carré! Bob l'éponge carré! Bob l'éponge carré! Bob l'éponge carré! Bob l'éponge carré! Bob l'éponge carré! "
 			}
 		},
 		{
@@ -125,7 +125,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Du courage, du courage, du courage! ",
-				"short": "Du courage, du courage, du courage! "
+				"short": "Du courage, du courage, du courage! Du courage, du courage, du courage! "
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Allô, allô, monsieur l'ordinateur.   Dites-moi, dites-moi où est passé mon cœur.   Je vous appelle au Bureau du Bonheur.   Car je sors à l'instant du Ministère des Pleurs.   Dites-moi! (Ne quittez pas, Bureau du Bonheur)    Où il est? (Nous recherchons votre petit cœur)    Dites-moi! (Toutes les données dans l'ordinateur)    S'il vous plaît! (Sont programmées)     Woh-woh-woh-woh! ",
-				"short": "Allô, allô, monsieur l'ordinateur.   Dites-moi, dites-moi où est passé mon cœur.   Je vous appelle au Bureau du Bonheur.   Car je sors à l'instant du Ministère des Pleurs.   Dites-moi! (Ne quittez pas, Bureau du Bonheur)    Où il est? (Nous recherchons votre petit cœur)    Dites-moi! (Toutes les données dans l'ordinateur)    S'il vous plaît! (Sont programmées)     Woh-woh-woh-woh! "
+				"short": "Allô, allô, monsieur l'ordinateur.   Dites-moi, dites-moi où est passé mon coeur.   Je vous appelle au Bureau du Bonheur... "
 			}
 		},
 		{
@@ -183,21 +183,12 @@
 			}
 		},
 		{
-			"title": "Robot",
-			"artist": "IyaMeU",
-			"mood_target": "humour",
-			"versions": {
-				"full": "Je ne suis pas un robot!    Faut pas croire ce que disent les journaux!",
-				"short": "Je ne suis pas un robot !    Faut pas croire ce que disent les journaux !"
-			}
-		},
-		{
 			"title": "Spider Cochon",
 			"artist": "Les simpsons",
 			"mood_target": "happy",
 			"versions": {
 				"full": "Spider Cochon, Spider Cochon, Il peut marcher au plafond. Est-ce qu'il peut faire une toile? Biensûr que non, c'est un cochon. Prends garde! Spider Cochon est là.",
-				"short": "Spider Cochon,    Spider Cochon,    Il peut marcher au plafond.    Est-ce qu'il peut faire une toile ?    Biensûr que non,    c'est un cochon.    Prends garde !    Spider Cochon est là."
+				"short": "Spider Cochon,    Spider Cochon,    Il peut marcher au plafond.    Est-ce qu'il peut faire une toile?    Biensûr que non,    c'est un cochon.    Prends garde!    Spider Cochon est là."
 			}
 		},
 		{
@@ -206,7 +197,7 @@
 			"mood_target": "happy",
 			"versions": {
 				"full": "Mmanah Manah! Tutu tululu! Mmanah Manah! Tutu lu lu! Mmanah Manah! tululu tululu tululu tutu lu!",
-				"short": "Mmanah Manah !    Tutu tululu !    Mmanah Manah !    Tutu lu lu !    Mmanah Manah !    Tululu tululu tululu tutu lu !"
+				"short": "Mmanah Manah!   Tutu tululu!    Mmanah Manah!   Tutu lu lu!   Mmanah Manah!   Tululu tululu tululu tutu lu! "
 			}
 		},
 		{
@@ -233,7 +224,7 @@
 			"mood_target": "love",
 			"versions": {
 				"full": "Tout le monde veut devenir un C@t parce que un ch@t quand il est c@t retombe sur ces pattes. C'est vrai ! Tout le monde est pique de ces pas si bien rythme, tout semble aupres de lui tres demode, c'est comme les bottines a boutons. Une cloche, des qu'il joue sa trompette vous rend fou, ca swingue comme un pied. Mais oui, c'est pire que l'ennui, oh la la mes amis, quelle calamite ! Za za za za Olle ! C'est comme parmi ces gars qui veulent chanter, ben c'est un c@t, le seul qui sache s'acharne a swinguer. Qui donc danserait encore la gigue avec des nattes ? Quand tout le monde veut devenir un c@t. Une cloche, quoi qu'il joue bientot ca vous rend fou, ca swingue comme un pied. Oh rinky, tinky tinky, oui c'est pire que l'ennui, oh la la mes amis, quelle calamite ! Oh rinky, tinky tinky, oui ! Tout le monde veut devenir un c@t parce que un ch@t quand il est c@t retombe sur ces pattes. A jouer du jazz on devient vite un acrobate. Oui tout le monde qui daigne du swing des c@ts, j'aimerai plus de passion, plus de coeur et d'abandon, habillez de couleurs cette chanson ! Il n'y a qu'a jouer en d'autres clefs, moduler oh oui ca me plait, car j'adore faire certaines petites variations. Les autres ch@ts vont s'assembler dans la ruelle mal eclairee, la grande nuit va commencer, nous les laisserons alors s'aimer. Tout le monde, tout le monde, tout le monde veut devenir un c@t. Ch@t-lleluia ! Ch@t-lleluia ! Ch@t-lleluia ! Tout le monde veut devenir un c@t je le dis bien haut, tout le monde, tout le monde du pirate au bel Aristoc@t. Yeah ! Ch@t-lleluia ! Ch@t-lleluia ! Tout le monde veut devenir un c@t. Mmmm ! Tout le monde, tout le monde, un par un par 3 ou meme par 4. Ch@t-lleluia ! Ch@t-lleluia ! Ch@t-lleluia ! Tout le monde veut devenir un c@t.",
-				"short": "Tout le monde veut devenir un C@t !    =^..^=     "
+				"short": "Tout le monde veut devenir un C@t!   =^..^=    "
 			}
 		},
 		{
@@ -242,7 +233,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Si vous chantez vos gammes et vos arpeges, vous ferez de vos jours un eternel cortege! Do mi sol do do sol mi do, do mi sol do do sol mi do. On progresse quand on etudie ses gammes et ses arpeges. Si vous avez le don ne soyez pas vains, mais travaillez pour devenir de bons musiciens ! Chantez vos gammes et vos arpeges ! Do mi sol do do sol mi do... Bien que ce soit un solfege un peu dur, vous ne devez pas chanter a l'aventure. Il faut avoir l'esprit pur et la voix sure, pour bien moduler toutes vos mesures ! Do mi sol do do sol mi do... Do mi sol do do sol mi do...",
-				"short": "Do mi sol do do sol mi do,    do mi sol do do sol mi do...    ...Des gammes et des arpeges !.."
+				"short": "Do mi sol do do sol mi do,    do mi sol do do sol mi do...    ...Des gammes et des arpeges!.."
 			}
 		},
 		{
@@ -291,6 +282,33 @@
 			}
 		},
 		{
+			"title": "Donne-moi!",
+			"artist": "Demi Portion",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Donne moi un sourire, j't'avoue le mien fait grève depuis très tôt... ",
+				"short": "Donne moi un sourire, j't'avoue le mien fait grève depuis très tôt... "
+			}
+		},
+		{
+			"title": "Donne-moi!",
+			"artist": "Demi Portion",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Donne moi la force et je dominerai la peur de la chute inévitable. ",
+				"short": "Donne moi la force et je dominerai la peur de la chute inévitable. "
+			}
+		},
+		{
+			"title": "Donne-moi!",
+			"artist": "Demi Portion",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Une grosse envie oui de s'évader s'évader s'évader, toujours garder les pieds sur Terre et ne jamais trop se laisser tenter. ",
+				"short": "Une grosse envie oui de s'évader s'évader s'évader, toujours garder les pieds sur Terre et ne jamais trop se laisser tenter. "
+			}
+		},
+		{
 			"title": "Tortues Ninja",
 			"artist": "Tortues Ninja",
 			"mood_target": "chill",
@@ -309,6 +327,15 @@
 			}
 		},
 		{
+			"title": "Elle est où ma loge",
+			"artist": "Vampas",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Elle est où ma loge? Je suis tout seul! Elle est où ma loge? Je suis perdu! Allez...",
+				"short": "Elle est où ma loge? Je suis tout seul! Elle est où ma loge? Je suis perdu! Allez..."
+			}
+		},
+		{
 			"title": "La vie à 2",
 			"artist": "Manu Chao",
 			"mood_target": "chill",
@@ -323,7 +350,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Pierpoljak qu'est ce que tu fais là?",
-				"short": "Pierpoljak qu'est ce que tu fais là?    "
+				"short": "Pierpoljak qu'est ce que tu fais là? "
 			}
 		},
 		{
@@ -332,7 +359,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "On ira tous au paradis.... Même moi!",
-				"short": "On ira tous au paradis...    Même moi!   "
+				"short": "On ira tous au paradis...    Même moi! "
 			}
 		},
 		{
@@ -341,7 +368,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "On aurait pourtant pu être amis,  aller danser au bal.    Se croiser le matin,  se voir l'après-midi,  se balader sous les étoiles.    On pourrait pourtant tous être amis,  un peu comme les fourmis.    Mais les gens sont comme toi,  toujours ils se méfient.    Alors la guerre ça m'étonne pas...    Oh waaah ah!    Oh wahh ah ah ah!    Oh waaah ah!    Oh wahh ah ah ah!  Wah bidou wa wa bidou bidou wa!    Wa bidou yeahhh heyyy hey!..",
-				"short": "On aurait pourtant pu être amis,   aller danser au bal.   Se croiser le matin,   se voir l'après-midi,   se balader sous les étoiles.    On pourrait pourtant tous être amis,   un peu comme les fourmis.   Mais les gens sont comme toi,    toujours ils se méfient.    Alors la guerre ça m'étonne pas...    Oh waaah ah!    Oh wahh ah ah ah!    Oh waaah ah!    Oh wahh ah ah ah!    Wah bidou wa wa bidou bidou wa!    Wa bidou yeahhh heyyy hey!.."
+				"short": "On aurait pourtant pu être amis,   aller danser au bal.   Se croiser le matin,   se voir l'après-midi,   se balader sous les étoiles.    On pourrait pourtant tous être amis,   un peu comme les fourmis.   Mais les gens sont comme toi,    toujours ils se méfient.    Alors la guerre ça m'étonne pas...    Oh waaah ah!    Oh wahh ah ah ah!    Oh waaah ah!    Oh wahh ah ah ah!    Wah bidou wa wa bidou bidou wa!    Wa bidou yeahhh heyyy hey!.. "
 			}
 		},
 		{
@@ -350,7 +377,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "J'ai mal au mic!    C'est la seule tristesse que je ressent!    Tu m'as planté dans l'dos y'avait pas de sang!    Car c'est du son qui coule dans les veines!    En BPM!",
-				"short": "J'ai mal au mic!    C'est la seule tristesse que je ressent!    Tu m'as planté dans l'dos y'avait pas de sang!    Car c'est du son qui coule dans les veines!    En BPM!"
+				"short": "J'ai mal au mic!    C'est la seule tristesse que je ressent!    Tu m'as planté dans l'dos y'avait pas de sang!    Car c'est du son qui coule dans les veines!    En BPM! "
 			}
 		},
 		{
@@ -359,7 +386,7 @@
 			"mood_target": "pub",
 			"versions": {
 				"full": "Allez Hop!.. ...On y va!.. ...En route pour l'aventure!.. ...On y résiste pas!",
-				"short": "Allez Hop!..    ...On y va!..    ...En route pour l'aventure!..    ...On y résiste pas!.."
+				"short": "Allez Hop!..    ...On y va!..    ...En route pour l'aventure!..    ...On y résiste pas!.. "
 			}
 		},
 		{
@@ -377,7 +404,7 @@
 			"mood_target": "generic",
 			"versions": {
 				"full": "Ingénieur informaticien, je suis Ingénieurrrrr  informaticiennnnnn... J'ailmeeee les ordinaaaaaateurs! Windows 98! XD",
-				"short": "Ingénieur informaticien!..    je suis Ingénieurrrrr  informaticiennnnnn!..    J'aimeeee les ordinaaaaaateurs!..    Windows 98!..    XD"
+				"short": "Ingénieur informaticien!..    je suis Ingénieurrrrr  informaticiennnnnn!..    J'aimeeee les ordinaaaaaateurs!..    Windows 98!..    XD "
 			}
 		},
 		{
@@ -386,7 +413,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Wee ee ee wee wee ee. Wee ee ee wee wee ee. Moi vouloir être chat. Me frotter contre tes bas. Je me ferai angora. Pour me blottir dans tes bras. Je te jure j'boirai plus. Que du lait je n'aime plus. La vodka. Moi vouloir être chat. Tous les soirs quand je te vois. Moi vouloir être chat. Retrouver sur les gouttières. Mes copines de litière. Mais toujours rester à toi. Prendre des mines chafouines. Me lécher les babines. Quand viennent tes copines. Moi vouloir être chat. Et ne risquer de tes doigts. Que leurs caresses sur moi. Wee ee ee wee wee ee. Wee ee ee wee wee ee. Moi vouloir être chat. Quand dehors il fait froid. Attendre mon repas. Tapi au creux de tes draps. Si un jour tu préfères. A mes félines caresses. Les canines d'un chien en laisse. Tu ne comptes pas sur moi. Pour dormir sur le sofa. Je te montrerai de quoi. Est capable un gros chat. A ce jeu là je suis roi. Et la souris ce sera toi. Et la souris ce sera toi. Et la souris ce sera.. Wee ee ee wee wee ee. Wee ee ee wee wee ee. Wee ouh",
-				"short": "Moi vouloir être chat!    Me frotter contre tes bas.    Je me ferai Angora!    Pour me blottir dans tes bras...    Je te jure!    J'boirai plus.     Que du lait, je n'aime plus la vodka.    Moi vouloir être chat.    Tous les soirs quand je te vois...     Moi vouloir être chat."
+				"short": "Wee ee ee wee wee ee. Wee ee ee wee wee ee. Moi vouloir être chat!    Me frotter contre tes bas.    Je me ferai Angora!    Pour me blottir dans tes bras...    Je te jure!    J'boirai plus.     Que du lait, je n'aime plus la vodka.    Moi vouloir être chat.    Tous les soirs quand je te vois...     Moi vouloir être chat. "
 			}
 		},
 		{
@@ -395,7 +422,7 @@
 			"mood_target": "comptine",
 			"versions": {
 				"full": "Am, Stram, Gram, Pic & Pic & Colégram, Bour & Bour & Ratatam, Am, Stram, Gram!",
-				"short": "Am, Stram, Gram,    Pic & Pic & Colégram,    Bour & Bour & Ratatam,    Am, Stram, Gram!"
+				"short": "Am, Stram, Gram,    Pic & Pic & Colégram,    Bour & Bour & Ratatam,    Am, Stram, Gram! "
 			}
 		},
 		{
@@ -413,7 +440,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "J'ai envie de Métissage pour des hommes vrais. & tous ceux qui ont de la rage, vas-y laisse les. Ouvre ton rivage à la différence qu'on aime pour des Hommes vrais, oui pour des Hommes vrai!",
-				"short": "J'ai envie de Métissage pour des hommes vrais.    & tous ceux qui ont de la rage,    vas-y laisse les."
+				"short": "J'ai envie de Métissage pour des hommes vrais.    & tous ceux qui ont de la rage,    vas-y laisse les. "
 			}
 		},
 		{
@@ -422,7 +449,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Dans la vie faut pas s'en faire!    Moi je ne m'en fais pas!    Ces petites misères,    Seront passagères!    Tout ça s'arrangera!    Je n'ai pas un caractère,    A me faire du tracas.    Croyez-moi sur terre,    Faut jamais s'en faire,    Moi je ne m'en fais pas!",
-				"short": "Dans la vie faut pas s'en faire!    Moi je ne m'en fais pas!    Ces petites misères,    Seront passagères!    Tout ça s'arrangera!"
+				"short": "Dans la vie faut pas s'en faire!    Moi je ne m'en fais pas!    Ces petites misères,    Seront passagères!    Tout ça s'arrangera! "
 			}
 		},
 		{
@@ -431,7 +458,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "J'ai des petits problèmes dans ma plantation!    Pourquoi ça pousse pas?",
-				"short": "J'ai des petits problèmes dans ma plantation!    Pourquoi ça pousse pas?"
+				"short": "J'ai des petits problèmes dans ma plantation!    Pourquoi ça pousse pas? "
 			}
 		},
 		{
@@ -467,7 +494,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Do you like Bass?..    ...Do you like Bass?..     ...Do you like BOOM BOOM Bass?..    ...BOOM BOOM Bass...    ...Na na nan na na...     ...Do you like motherf#ck!ng Bass in your motherf#ck!ng face?!.",
-				"short": "Do you like Bass?..    ...Do you like Bass?..     ...Do you like BOOM BOOM Bass?..    ...BOOM BOOM Bass...    ...Na na nan na na!..     ...Do you like MotherF#ck!n9 Bass in your MotherF#ck!n9 face?!."
+				"short": "Do you like Bass?..    ...Do you like Bass?..     ...Do you like BOOM BOOM Bass?..    ...BOOM BOOM Bass...    ...Na na nan na na!..     ...Do you like MotherF#ck!n9 Bass in your MotherF#ck!n9 face?!. "
 			}
 		},
 		{
@@ -476,7 +503,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "...BOOM BOOM BASS!..    ...BOOM BOOM BASS!..    ...BOOM BOOM BASS!..",
-				"short": "...BOOM BOOM BASS!..    ...BOOM BOOM BASS!..    ...BOOM BOOM BASS!.."
+				"short": "...BOOM BOOM BASS!..    ...BOOM BOOM BASS!..    ...BOOM BOOM BASS!.. "
 			}
 		},
 		{
@@ -485,7 +512,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "...Boom Boom Bass!..    ...Boom Boom Bass!..    ...Boom Boom Bass!..",
-				"short": "...Boom Boom Bass!..    ...Boom Boom Bass!..    ...Boom Boom Bass!.."
+				"short": "...Boom Boom Bass!..    ...Boom Boom Bass!..    ...Boom Boom Bass!.. "
 			}
 		},
 		{
@@ -513,7 +540,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Yo, pump up the jam, pump it up.   While your feet are stompin'.   And the jam is pumpin'.   Look ahead, the crowd a-jumpin'.   Pump it up a little more.   Get the party goin' on the dance floor.   See, 'cause that's where the party's at.   And you'll find out if you do that.   Awa, a place to stay.   Get your booty on the floor tonight.   Make my day.   Awa, a place to stay.   Get your booty on the floor tonight.   Make my day",
-				"short": "Yo, pump up the jam, pump it up.   While your feet are stompin'.   And the jam is pumpin'.   Look ahead, the crowd a-jumpin'.   Pump it up a little more.   Get the party goin' on the dance floor.   See, 'cause that's where the party's at.   And you'll find out if you do that.   Awa, a place to stay.   Get your booty on the floor tonight.   Make my day.   Awa, a place to stay.   Get your booty on the floor tonight.   Make my day"
+				"short": "Yo, pump up the jam, pump it up.   While your feet are stompin'.   And the jam is pumpin'.   Look ahead, the crowd a-jumpin'.   Pump it up a little more.   Get the party goin' on the dance floor.   See, 'cause that's where the party's at.   And you'll find out if you do that.   Awa, a place to stay.   Get your booty on the floor tonight.   Make my day.   Awa, a place to stay.   Get your booty on the floor tonight.   Make my day . "
 			}
 		},
 		{
@@ -531,7 +558,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Seuls les guerriers maudits survivent ici. Des fois y'a pas le choix on pète les plombs, c'est fini !..",
-				"short": "Seuls les guerriers maudits survivent ici.   Des fois y'a pas le choix on pète les plombs,    c'est fini!..     "
+				"short": "Seuls les guerriers maudits survivent ici.   Des fois y'a pas le choix on pète les plombs,    c'est fini!.. "
 			}
 		},
 		{
@@ -540,7 +567,16 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "    ... Punk à Ch@t !..    ... Punk à  !..    ... Punk à  !..    ... Punk à Ch@t !..    ",
-				"short": "    ...Punk à Ch@t!..    ...Punk à!..    ...Punk à!..    ...Punk à Ch@t!..    "
+				"short": " ...Punk à Ch@t!..    ...Punk à!..    ...Punk à!..    ...Punk à Ch@t!.. "
+			}
+		},
+		{
+			"title": "Punk à Chien",
+			"artist": "Les Fatal Picards",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Moi je suis un puuuunk, Un punk avec un chat, Mais mon chat il est mort, D'une cirrhose des moustaches, C'est bête je l'aimais bien, Il s'appelait f#ck U... ",
+				"short": "Moi je suis un Puuuunk,   Un Punk avec un Chat,    Mais mon Chat il est mort,    D'une cirrhose des Moustaches,    C'est bête je l'Aimais bien,    Il s'appelait f#ck U... "
 			}
 		},
 		{
@@ -549,7 +585,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "Faudrait que j'invente des mots qui n'existent pas dans le Dico !   ",
-				"short": "Faudrait que j'invente des mots qui n'existent pas dans le Dico!   "
+				"short": "Faudrait que j'invente des mots qui n'existent pas dans le Dico! "
 			}
 		},
 		{
@@ -567,7 +603,7 @@
 			"mood_target": "chill",
 			"versions": {
 				"full": "C'est comme Ch@t! Lala la lalaaaaa",
-				"short": "C'est comme Ch@t! Lala la lalaaaaa"
+				"short": "C'est comme Ch@t!     Lala la lalaaaaa!.. "
 			}
 		},
 		{
@@ -576,7 +612,7 @@
 			"mood_target": "",
 			"versions": {
 				"full": "Ch@t! Andy! Dis-moi oui! Andy! Ch@t! Andy! Dis-moi oui! Chéri!",
-				"short": "Ch@t! Andy! Dis-moi oui! Andy! Ch@t! Andy! Dis-moi oui! Chéri!"
+				"short": "Ch@t! Andy! Dis-moi oui! Annnnndy! Ch@t! Andy! Dis-moi oui! Chéri! "
 			}
 		}
 	]

@@ -6,7 +6,7 @@
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "Standard Collection",
 		"create": "2026-01-25",
-		"update": "2026-09-15",
+		"update": "2026-10-05",
 		"version": "1.0"
 	},
 
@@ -49,7 +49,25 @@
 			"period": "all"
 		},
 		{
-			"terme": "Ravi de t'accueillir!",
+			"terme": "Je suis ravie par ta présence! ",
+			"style": "famlier",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Je suis ravie par votre présence! ",
+			"style": "formel",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Ravi de t'accueillir! ",
+			"style": "famlier",
+			"lang": "fr",
+			"period": "all"
+		},
+		{
+			"terme": "Ravi de vous accueillir! ",
 			"style": "formel",
 			"lang": "fr",
 			"period": "all"

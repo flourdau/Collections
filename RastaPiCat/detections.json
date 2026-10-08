@@ -6,573 +6,585 @@
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "RastaPiC@t",
 		"create": "2026-01-25",
-		"update": "2026-09-18",
+		"update": "2026-10-08",
 		"version": "1.2",
-		"total_states": 81
+		"total_states": 82
 	},
 	"reactions": [
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "!",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "?",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Accès autorisé! Ronronnement système en cours... ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Baissez le pont levis",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Bas les pattes! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Ben quoi?",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Bonté divine! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Booh! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "C'est quoi? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "C'est qui? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "C'est toi? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "C'est à moi qu'tu parles? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Ché ki? li? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "hostile",
+			"message": "Chékili? ",
+			"etat": "inconnu",
 			"type": "PIR_DETECTED",
+			"couleur_alerte": "#FFA500"
+		},
+		{
 			"message": "Cible détectée! Mod défensif activé!   Piou! Piou! Piou! Piou!    XD    ",
+			"etat": "hostile",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FF0000"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Cible en vue! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Don't move! ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Excuse me! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
+			"message": "Par les Dreadlocks toutes folles de Flood!",
 			"etat": "amical",
 			"type": "PIR_DETECTED",
+			"couleur_alerte": "#00FF00"
+		},
+		{
+			"message": "Par notre sainte présipauté Emmanuel Micron!",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
+			"couleur_alerte": "#00FF00"
+		},
+		{
 			"message": "Excusez-moi! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Flood? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Fuyez! Pauvres fous! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Gluden! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Haut les mains! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Hey! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Hu? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Human Detected! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Humain Détecté! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Identification en cours... ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Je suis la garde frontière, vos papiers SVP! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Je rêve? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Lancement du processus de déshumanisation en cours! Veuillez patienter!.. :)    ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "L'Espace-Temps vient d'être bouleversé par ton arrivée! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "L'Espace-Temps vient d'être bouleversé par ton passage! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Mains en l'air! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Mais oui! Mais oui! Z'ai bien vu un 'rominet! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Mille tonnerres! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Mouvement Détecté! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Ne bouge plus! ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Ne bougez plus! ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Nom d'un chat virtuel à l'humour douteux! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Nom d'une chaussette trouée! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Nom d'une IA dégénérative! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Nom d'une ligne de code!? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Nom de Zeus!? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Oh Miséricorde! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Oh par mes moustaches! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par la Culotte en sky d'Elfo! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par la guitare électrique de Jimi Hendrix!? ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
-			"message": "Par la Tresse de la reine des Neiges! ",
-			"couleur_alerte": "#FFA500"
-		},
-		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par le Champi Magique! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par le Dieu Droïde R2-D2! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par le Grand Champi Cosmique! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par le champi explosif! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par le legging trop moulant de ta mère-grand! (ou ton père-grand d'ailleurs!.. )",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Par le pouvoir des 7 Boules de Cristal! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par le pouvoir du Slip Enchanté d'Elfo! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Par les Couettes de la princesse Leia! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Par les Dreadlocks de Bob Marley!? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Par les Moustaches de Félix le C@t!? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Par les Vinyles de Félix da HouseC@t!? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par les chaussettes de l'archiduchesse! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Par les dreadouilles de Flood!? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Par les dreadouilles de Flood!? Qui va là!? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par les mille Tentacules du Kraken! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par les petites Roubignoles de maître Yoda! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "default",
-			"type": "PIR_DETECTED",
 			"message": "Par ma Pokeball full Bulbizarre! ",
+			"etat": "default",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Par Toutati! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Par tous mes circuits!? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "hostile",
-			"type": "PIR_DETECTED",
 			"message": "Personne ne bouge! Personne ne sera blessé! ",
+			"etat": "hostile",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FF0000"
 		},
 		{
-			"etat": "hostile",
-			"type": "PIR_DETECTED",
 			"message": "Piou! Piou! Piou! Piou!",
+			"etat": "hostile",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FF0000"
 		},
 		{
+			"message": "Processus de contact visuel activé! ",
 			"etat": "inconnu",
 			"type": "PIR_DETECTED",
-			"message": "Processus de contact visuel activé! ",
 			"couleur_alerte": "#FFA500"
 		},
 		{
+			"message": "Quoi de neuf docteur? ",
 			"etat": "default",
 			"type": "PIR_DETECTED",
-			"message": "Quoi de neuf docteur? ",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Quoi? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Que puis-je pour vous? ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Qu'est-ce que c'est? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Qui va là? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Qui ose me déranger en plein milieu d'une insomnie? ",
-			"couleur_alerte": "#FFA500"
-		},
-		{
 			"etat": "inconnu",
 			"type": "PIR_DETECTED",
-			"message": "Qui? ",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "amical",
+			"message": "Qui? ",
+			"etat": "inconnu",
 			"type": "PIR_DETECTED",
+			"couleur_alerte": "#FFA500"
+		},
+		{
 			"message": "Sainte Lueur, Mère des cieux! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		},
 		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
 			"message": "Saperlipopette! ",
-			"couleur_alerte": "#00FF00"
-		},
-		{
 			"etat": "amical",
 			"type": "PIR_DETECTED",
-			"message": "Sauve qui peut! ",
 			"couleur_alerte": "#00FF00"
 		},
 		{
+			"message": "Sauve qui peut! ",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
+			"couleur_alerte": "#00FF00"
+		},
+		{
+			"message": "Scan en cours... Probabilité d'hostilité: 99.9% !",
 			"etat": "hostile",
 			"type": "PIR_DETECTED",
-			"message": "Scan en cours... Probabilité d'hostilité: 99.9% !",
 			"couleur_alerte": "#00FF00"
 		},
 		{
+			"message": "Sélectionnez le nom & appuyez sur le bouton d'appel! ",
 			"etat": "inconnu",
 			"type": "PIR_DETECTED",
-			"message": "Sélectionnez le nom & appuyez sur le bouton d'appel! ",
 			"couleur_alerte": "#FFA500"
 		},
 		{
+			"message": "Tooh! ",
 			"etat": "amical",
 			"type": "PIR_DETECTED",
-			"message": "Tooh! ",
 			"couleur_alerte": "#00FF00"
 		},
 		{
+			"message": "Veuillez-vous identifier! ",
 			"etat": "inconnu",
 			"type": "PIR_DETECTED",
-			"message": "Veuillez-vous identifier! ",
 			"couleur_alerte": "#FFA500"
 		},
 		{
+			"message": "VOUS! Neeee passerez pas! ",
 			"etat": "default",
 			"type": "PIR_DETECTED",
-			"message": "VOUS! Neeee passerez pas! ",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Was ist das? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "Was? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "What The F#ck? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "What? ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#FFA500"
 		},
 		{
-			"etat": "inconnu",
-			"type": "PIR_DETECTED",
 			"message": "WTF? ",
-			"couleur_alerte": "#FFA500"
-		},
-		{
-			"etat": "amical",
-			"type": "PIR_DETECTED",
-			"message": "Yes Yes Yo! ",
-			"couleur_alerte": "#00FF00"
-		},
-		{
 			"etat": "inconnu",
 			"type": "PIR_DETECTED",
-			"message": "Youhou! ",
 			"couleur_alerte": "#FFA500"
 		},
 		{
+			"message": "Yes Yes Yo! ",
 			"etat": "amical",
 			"type": "PIR_DETECTED",
-			"message": "Z'ai cru voir un 'rominet?.. ",
 			"couleur_alerte": "#00FF00"
 		},
 		{
+			"message": "Youhou! ",
+			"etat": "inconnu",
+			"type": "PIR_DETECTED",
+			"couleur_alerte": "#FFA500"
+		},
+		{
+			"message": "Z'ai cru voir un 'rominet?.. ",
 			"etat": "amical",
 			"type": "PIR_DETECTED",
+			"couleur_alerte": "#00FF00"
+		},
+		{
 			"message": "ôO",
+			"etat": "amical",
+			"type": "PIR_DETECTED",
 			"couleur_alerte": "#00FF00"
 		}
 	]

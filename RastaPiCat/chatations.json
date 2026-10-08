@@ -6,9 +6,9 @@
         "email": "lourdaux.florian.pro@gmail.com",
         "project": "RastaPiC@t",
         "create": "2026-01-25",
-        "update": "2026-09-15",
+        "update": "2026-10-03",
         "version": "1.0",
-        "total_quotes": 162
+        "total_quotes": 111
     },
 
 
@@ -19,7 +19,42 @@
 			"color": "default"
 		},
         {
-			"text": "Ch@t compile du premier coup! ",
+			"text": "Youpi! Ch@t compile du 1er coup! ",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+        {
+			"text": "Bonjour je suis IyaMeU et je viens du royaume de BotiC@t! ",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+        {
+			"text": "Je garde toujours un Ch@tout dans la manche! ",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+       {
+			"text": "Mi auchi j'ai vu ch'C@t! ",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+        {
+			"text": "Je suis une expérience Innovante, Créative, Ludique & C@thartique XD",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+        {
+			"text": "Ch@t-la-la j'ai les circuits tout engourdis! Ch@t m'fait comme des fourmis dans les connecteurs! En faite j'ai l'impression d'avoir reçu un coup de tonnerre sur la tête! Et qu'est ce que je fais ici? ",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+        {
+			"text": "Bon Ch@t m'saoule ces biais cognitifs...",
+			"author": "Senacra Flora Van Haze",
+			"color": "default"
+		},
+        {
+			"text": "Flood est intelligent mais Ch@t bêtise a tendance à nous le faire oublier...     XD",
 			"author": "Senacra Flora Van Haze",
 			"color": "default"
 		},
@@ -84,12 +119,12 @@
 			"color": "default"
 		},
 		{
-			"text": "Ze chuis un Karaté-Ch@t-Bot-Zombie-Samouraï-Ninja-Pirate de l'E-space! ",
+			"text": "Z'chuis une Vampire-Karaté-Ch@t-Bot-Zombie-Samouraï-Ninja-Viking-Pirate de l'E-Space! ",
 			"author": "Senacra Flora Van Haze",
 			"color": "default"
 		},
         {
-            "text": "C'est pas très user-friendly tout Ch@t! ",
+            "text": "C'est pas très User-Friendly tout Ch@t! ",
             "author": "Senacra Flora Van Haze",
             "color": "default"
         },
@@ -124,7 +159,7 @@
             "color": "default"
         },
         {
-            "text": "Et dire que j'ai failli m'appeler C@tIA!   XD    ",
+            "text": "Et dire que j'ai failli m'appeler C@tIA, ClaudIA!   XD    ",
             "author": "Senacra Flora Van Haze",
             "color": "default"
         },
@@ -519,7 +554,7 @@
             "color": "default"
         },
         {
-            "text": "Zombie C@t Natio! ",
+            "text": "Zombie C@t Nation! ",
             "author": "Senacra Flora Van Haze",
             "color": "default"
         },
@@ -714,7 +749,12 @@
             "color": "default"
         },
         {
-            "text": "Je suis un CPNJ! (Ch@t Personnage Non Joueur)",
+            "text": "NPCC (Non Player C@t Character)",
+            "author": "Senacra Flora Van Haze",
+            "color": "default"
+        },
+        {
+            "text": "Je suis un PCNJ! (Personnage Ch@t Non Joueur)",
             "author": "Senacra Flora Van Haze",
             "color": "default"
         },
