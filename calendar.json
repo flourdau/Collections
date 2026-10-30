@@ -11,6 +11,40 @@
 	},
 
 
+	"moments_journee": [
+		{
+			"label": "Matinée",
+			"start": "lever_du_soleil",
+			"end": "12:00"
+		},
+		{
+			"label": "Matin",
+			"start": "06:00",
+			"end": "12:00"
+		},
+		{
+			"label": "Midi",
+			"start": "12:00",
+			"end": "13:00"
+		},
+		{
+			"label": "Après-midi",
+			"start": "13:00",
+			"end": "18:00"
+		},
+		{
+			"label": "Soirée",
+			"start": "18:00",
+			"end": "coucher_du_soleil"
+		},
+		{
+			"label": "Nuit",
+			"start": "coucher_du_soleil",
+			"end": "lever_du_soleil"
+		}
+	],
+
+
 	"saisons": [
 		{
 			"label": "Printemps",
