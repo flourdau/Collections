@@ -6,95 +6,25 @@
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "Standard Collection",
 		"create": "2026-01-25",
-		"update": "2026-10-05",
-		"version": "1.0"
+		"update": "2026-11-06",
+		"version": "1.0",
+		"total_text": 15
 	},
-
-
 	"items": [
-		{
-			"terme": "Tadaaaa!!! ",
-			"style": "humoristique",
-			"lang": "fr",
-			"period": "all"
-		},
-		{
-			"terme": "Tadoumm!!! ",
-			"style": "humoristique",
-			"lang": "fr",
-			"period": "all"
-		},
-		{
-			"terme": "Bienvenue! ",
-			"style": "standard",
-			"lang": "fr",
-			"period": "all"
-		},
-		{
-			"terme": "Bienvenue à Dreamland! ",
-			"style": "humour",
-			"lang": "fr",
-			"period": "all"
-		},
-		{
-			"terme": "Bienvenue dans cette dimension parallèle! ",
-			"style": "humour",
-			"lang": "fr",
-			"period": "all"
-		},
-		{
-			"terme": "Bienvenue dans la cellule de dégrisement de SteamLand! ",
-			"style": "humour",
-			"lang": "fr",
-			"period": "all"
-		},
-		{
-			"terme": "Je suis ravie par ta présence! ",
-			"style": "famlier",
-			"lang": "fr",
-			"period": "all"
-		},
-		{
-			"terme": "Je suis ravie par votre présence! ",
-			"style": "formel",
-			"lang": "fr",
-			"period": "all"
-		},
-		{
-			"terme": "Ravi de t'accueillir! ",
-			"style": "famlier",
-			"lang": "fr",
-			"period": "all"
-		},
-		{
-			"terme": "Ravi de vous accueillir! ",
-			"style": "formel",
-			"lang": "fr",
-			"period": "all"
-		},
-		{
-			"terme": "Welcome!",
-			"style": "standard",
-			"lang": "en",
-			"period": "all"
-		},
-		{
-			"terme": "Welcome to 'Utopia'! ",
-			"style": "standard",
-			"lang": "en",
-			"period": "all"
-		},
-		{
-			"terme": "Welcome to the 'Gaming Room'! ",
-			"style": "standard",
-			"lang": "en",
-			"period": "all"
-		},
-		{
-			"terme": "Welcome to the Méga-Block! ",
-			"style": "standard",
-			"lang": "en",
-			"period": "all"
-		}
+		{ "terme": "à la bonne compagnie !", "style": "humoristique", "lang": "fr", "period": "all" },
+		{ "terme": "Bienvenue !", "style": "standard", "lang": "fr", "period": "all" },
+		{ "terme": "Bienvenue à Dreamland !", "style": "humour", "lang": "fr", "period": "all" },
+		{ "terme": "Bienvenue dans cette dimension parallèle !", "style": "humour", "lang": "fr", "period": "all" },
+		{ "terme": "Bienvenue dans la cellule de dégrisement de SteamLand !", "style": "humour", "lang": "fr", "period": "all" },
+		{ "terme": "Je suis ravie par ta présence !", "style": "familier", "lang": "fr", "period": "all" },
+		{ "terme": "Je suis ravie par votre présence !", "style": "formel", "lang": "fr", "period": "all" },
+		{ "terme": "Ravi de t'accueillir !", "style": "familier", "lang": "fr", "period": "all" },
+		{ "terme": "Ravi de vous accueillir !", "style": "formel", "lang": "fr", "period": "all" },
+		{ "terme": "Tadaaaa !!!", "style": "humoristique", "lang": "fr", "period": "all" },
+		{ "terme": "Tadoumm !!!", "style": "humoristique", "lang": "fr", "period": "all" },
+		{ "terme": "Welcome !", "style": "standard", "lang": "en", "period": "all" },
+		{ "terme": "Welcome to 'Utopia' !", "style": "standard", "lang": "en", "period": "all" },
+		{ "terme": "Welcome to the 'Gaming Room' !", "style": "standard", "lang": "en", "period": "all" },
+		{ "terme": "Welcome to the Méga-Block !", "style": "standard", "lang": "en", "period": "all" }
 	]
 }

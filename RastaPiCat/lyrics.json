@@ -6,9 +6,9 @@
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "RastaPiC@t",
 		"create": "2026-01-25",
-		"update": "2026-09-15",
+		"update": "2026-11-06",
 		"version": "1.0",
-		"count": 45
+		"count": 78
 	},
 	"tracks": [
 		{
@@ -18,6 +18,105 @@
 			"versions": {
 				"full": "Don't worry about a thing, Cause every little thing gonna be alright. Singin, don't worry about a thing, Cause every little thing gonna be alright! Rise up this mornin', Smiled with the risin' sun. Three little birds pitch by my doorstep, Singin' sweet songs of melodies pure and true, Sayin', this is my message to you-ou-ou: Don't worry about a thing, 'cause every little thing gonna be alright. Singin', don't worry about a thing, 'cause every little thing gonna be alright!",
 				"short": "    Don't worry...    ...about a thing...    ...Cause every little thing gonna be alright!..    <^ )   "
+			}
+		},
+		{
+			"title": "L'Canson-dormoire",
+			"artist": "Alexandre desrousseaux",
+			"mood_target": "contine",
+			"versions": {
+				"full": "Dors min p’tit quinquin, Min p’tit pouchin, Min gros rojin. Te m’ f’ras du chagrin, Si te n’ dors point qu’à d’main. ",
+				"short": "Dors min p’tit quinquin, Min p’tit pouchin, Min gros rojin. Te m’ f’ras du chagrin, Si te n’ dors point qu’à d’main. "
+			}
+		},
+		{
+			"title": "???",
+			"artist": "Jacques Dutron",
+			"mood_target": "chill",
+			"versions": {
+				"full": "J'y pense et puis j'oublie... C'est la Vie, c'est la Vie...",
+				"short": "J'y pense et puis j'oublie... C'est la Vie, c'est la Vie..."
+			}
+		},
+		{
+			"title": "???",
+			"artist": "Jacques Dutron",
+			"mood_target": "chill",
+			"versions": {
+				"full": "J'y pense et puis j'oublie... C'est la Vie, c'est la Vie...",
+				"short": "J'y pense et puis j'oublie... C'est la Vie, c'est la Vie..."
+			}
+		},
+		{
+			"title": "???",
+			"artist": "Disiz",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Et je tourne en boucle, en spirales (spirales) ",
+				"short": "Et je tourne en boucle, en spirales (spirales) "
+			}
+		},
+		{
+			"title": "La tête dans les arbres",
+			"artist": "MiniMan & Ksanti",
+			"mood_target": "chill",
+			"versions": {
+				"full": "J'écoute ton cœur comme j'écoute des chansons, ne me demande pas de baisser le son...",
+				"short": "J'écoute ton cœur comme j'écoute des chansons, ne me demande pas de baisser le son..."
+			}
+		},
+		{
+			"title": "???",
+			"artist": "Marcel & son Orchestre",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Pire qu'une démangeaison, je contrôle plus, je fais le con.... ",
+				"short": "Pire qu'une démangeaison, je contrôle plus, je fais le con.... "
+			}
+		},
+		{
+			"title": "???",
+			"artist": "Marcel & son Orchestre",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Où sont passées mes pantoufles... ",
+				"short": "Où sont passées mes pantoufles... "
+			}
+		},
+		{
+			"title": "???",
+			"artist": "Busta Flex",
+			"mood_target": "chill",
+			"versions": {
+				"full": "On construit des murs au lieu de ponts et on se sent seul.... ",
+				"short": "On construit des murs au lieu de ponts et on se sent seul.... "
+			}
+		},
+		{
+			"title": "???",
+			"artist": "Damien Saez",
+			"mood_target": "chill",
+			"versions": {
+				"full": "On a pas la thune mais l'espoir , pas le blé mais l'envie, l'important ami c'est d'aller jusqu'au bout de la nuit... Bien-sûr y'a les cons au pouvoir.... ",
+				"short": "On a pas la thune mais l'espoir , pas le blé mais l'envie, l'important ami c'est d'aller jusqu'au bout de la nuit... Bien-sûr y'a les cons au pouvoir.... "
+			}
+		},
+		{
+			"title": "???",
+			"artist": "???",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Dans la vie on a qu'un seul ange...       ... soi-même... ",
+				"short": "Dans la vie on a qu'un seul ange...       ... soi-même... "
+			}
+		},
+		{
+			"title": "???",
+			"artist": "La Brigade",
+			"mood_target": "chill",
+			"versions": {
+				"full": "Comme dit l'expert, le respect s'perd & certains frère n'ont plus de repère. ",
+				"short": "Comme dit l'expert, le respect s'perd & certains frère n'ont plus de repère. "
 			}
 		},
 		{
@@ -376,8 +475,8 @@
 			"artist": "Owmo",
 			"mood_target": "chill",
 			"versions": {
-				"full": "J'ai mal au mic!    C'est la seule tristesse que je ressent!    Tu m'as planté dans l'dos y'avait pas de sang!    Car c'est du son qui coule dans les veines!    En BPM!",
-				"short": "J'ai mal au mic!    C'est la seule tristesse que je ressent!    Tu m'as planté dans l'dos y'avait pas de sang!    Car c'est du son qui coule dans les veines!    En BPM! "
+				"full": "J'ai mal au mic!    C'est la seule tristesse que je ressents    Tu m'as planté dans l'dos y'avait pas de sang!    Car c'est du son qui coule dans les veines!    En BPM!",
+				"short": "J'ai mal au mic!    C'est la seule tristesse que je ressens!    Tu m'as planté dans l'dos y'avait pas de sang!    Car c'est du son qui coule dans les veines!    En BPM! "
 			}
 		},
 		{
@@ -475,12 +574,12 @@
 			"artist": "Je te tiens",
 			"mood_target": "comptine",
 			"versions": {
-				"full": "Je te tiens, Tu me tiens, Par la barbichette. Le premier de nous deux qui rira aura une tapette, au bout de trois. Un,.. deux,.. trois,..    T'as perdue!",
-				"short": "Je te tiens,    Tu me tiens,    Par la barbichette.    Le premier de nous deux qui rira aura une tapette,    au bout de trois.    Un,..    deux,..    trois,..    T'as perdue! "
+				"full": "Je te tiens, Tu me tiens, Par la barbichette. Le premier de nous deux qui rira aura une tapette, au bout de trois. Un,.. deux,.. trois,..    T'as perdu!",
+				"short": "Je te tiens,    Tu me tiens,    Par la barbichette.    Le premier de nous deux qui rira aura une tapette,    au bout de trois.    Un,..    deux,..    trois,..    T'as perdu! "
 			}
 		},
 		{
-			"title": "J'aurai voulu être un artiste",
+			"title": "J'aurais voulu être un artiste",
 			"artist": "Starmania",
 			"mood_target": "chill",
 			"versions": {
@@ -548,8 +647,8 @@
 			"artist": "Damien Saez",
 			"mood_target": "chill",
 			"versions": {
-				"full": "Un jour on c'est aimé et ce jour c'est demain. Un jour d'humanité un jour de gloire !.. Un jour on c'est aimé et ce jour c'est demain. Un jour d'humanité un jour d'humain!.. Lalalalala lala lalalala lalal... ",
-				"short": "Un jour on c'est aimé et ce jour c'est demain.    Un jour d'humanité un jour de gloire!..    Un jour on c'est aimé et ce jour c'est demain.    Un jour d'humanité un jour d'humain!..    Lalalalala lala lalalala lalal... "
+				"full": "Un jour on s'est aimé et ce jour c'est demain. Un jour d'humanité un jour de gloire !.. Un jour on s'est aimé et ce jour c'est demain. Un jour d'humanité un jour d'humain!.. Lalalalala lala lalalala lalal... ",
+				"short": "Un jour on s'est aimé et ce jour c'est demain.    Un jour d'humanité un jour de gloire!..    Un jour on s'est aimé et ce jour c'est demain.    Un jour d'humanité un jour d'humain!..    Lalalalala lala lalalala lalal... "
 			}
 		},
 		{
@@ -607,9 +706,9 @@
 			}
 		},
 		{
-			"title": "",
-			"artist": "",
-			"mood_target": "",
+			"title": "???",
+			"artist": "???",
+			"mood_target": "chill",
 			"versions": {
 				"full": "Ch@t! Andy! Dis-moi oui! Andy! Ch@t! Andy! Dis-moi oui! Chéri!",
 				"short": "Ch@t! Andy! Dis-moi oui! Annnnndy! Ch@t! Andy! Dis-moi oui! Chéri! "

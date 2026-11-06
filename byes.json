@@ -83,6 +83,18 @@
 			"style": "formel",
 			"lang": "jp",
 			"period": "all"
+		},
+		{
+			"terme": "Asta la vista!",
+			"style": "formel",
+			"lang": "es",
+			"period": "all"
+		},
+		{
+			"terme": "Des zoubis!",
+			"style": "affectueux",
+			"lang": "fr",
+			"period": "all"
 		}
 	]
 }
