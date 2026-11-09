@@ -6,9 +6,9 @@
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "RastaPiC@t",
 		"create": "2026-01-25",
-		"update": "2026-11-06",
+		"update": "2026-11-09",
 		"version": "1.0",
-		"count": 78
+		"count": 77
 	},
 	"tracks": [
 		{
@@ -27,15 +27,6 @@
 			"versions": {
 				"full": "Dors min p’tit quinquin, Min p’tit pouchin, Min gros rojin. Te m’ f’ras du chagrin, Si te n’ dors point qu’à d’main. ",
 				"short": "Dors min p’tit quinquin, Min p’tit pouchin, Min gros rojin. Te m’ f’ras du chagrin, Si te n’ dors point qu’à d’main. "
-			}
-		},
-		{
-			"title": "???",
-			"artist": "Jacques Dutron",
-			"mood_target": "chill",
-			"versions": {
-				"full": "J'y pense et puis j'oublie... C'est la Vie, c'est la Vie...",
-				"short": "J'y pense et puis j'oublie... C'est la Vie, c'est la Vie..."
 			}
 		},
 		{
@@ -632,7 +623,6 @@
 				"short": "Check mon Hip Hop Lou La!... "
 			}
 		},
-		
 		{
 			"title": "Pump Up the Jam",
 			"artist": "Technotronic",

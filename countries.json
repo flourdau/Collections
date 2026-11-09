@@ -1,16 +1,15 @@
 {
 	"metadata": {
-		"name": "country.json",
+		"name": "countries.json",
 		"description": "Base de donnees des pays du monde : capitales, superficie, population et drapeaux.",
 		"author": "Florian LOURDAUX",
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "Standard Collection",
 		"create": "2026-01-22",
-		"update": "2026-01-25",
+		"update": "2026-11-09",
 		"version": "1.1",
-		"count": 195
+		"count": 192
 	},
-
 	"countries": [
 		{
 			"name": "Afghanistan",

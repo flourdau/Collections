@@ -6,47 +6,66 @@
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "RastaPiC@t",
 		"create": "2026-01-25",
-		"update": "2026-01-25",
-		"version": "1.0"
+		"update": "2026-11-09",
+		"version": "1.0",
+		"count": 15
 	},
-
-
 	"commands": [
 		{
 			"triggerName": "HALO_ON",
 			"action": "activate_halo",
-			"target": "barre_led",
-			"description": "Active le halo lumineux."
+			"target": [
+				"barre_led"
+			],
+			"description": "Active le halo lumineux.",
+			"params": []
 		},
 		{
 			"triggerName": "HALO_OFF",
 			"action": "desactivate_halo",
-			"target": "barre_led",
-			"description": "Désactive le halo lumineux."
+			"target": [
+				"barre_led"
+			],
+			"description": "Désactive le halo lumineux.",
+			"params": []
 		},
 		{
 			"triggerName": "STROBE_ON",
 			"action": "activate_strobe",
-			"target": "barre_led, led_rgb",
-			"description": "Active le mode strobe."
+			"target": [
+				"barre_led",
+				"led_rgb"
+			],
+			"description": "Active le mode strobe.",
+			"params": []
 		},
 		{
 			"triggerName": "STROBE_OFF",
 			"action": "desactivate_strobe",
-			"target": "barre_led, led_rgb",
-			"description": "Désactive le mode strobe."
+			"target": [
+				"barre_led",
+				"led_rgb"
+			],
+			"description": "Désactive le mode strobe.",
+			"params": []
 		},
 		{
 			"triggerName": "DISCO_ON",
 			"action": "activate_disco",
-			"target": "disco_led",
-			"description": "Active le mode disco."
+			"target": [
+				"disco_led"
+			],
+			"description": "Active le mode disco.",
+			"params": []
 		},
 		{
 			"triggerName": "DISCO_OFF",
 			"action": "desactivate_disco",
-			"target": "disco_led",
-			"description": "Désactive le mode disco."
+			"target": [
+				"disco_led"
+			],
+			"description": "Désactive le mode disco.",
+			"params": []
 		},
 		{
 			"triggerName": "SCAN_ENV",
@@ -56,25 +75,35 @@
 				"ultrason",
 				"infrarouge"
 			],
-			"description": "Active la Sentinelle IyaMeU pour scanner les environs."
+			"description": "Active la Sentinelle IyaMeU pour scanner les environs.",
+			"params": []
 		},
 		{
 			"triggerName": "AWAKENING",
 			"action": "awakening",
-			"target": "system",
-			"description": "Passe en éveil calmement."
+			"target": [
+				"system"
+			],
+			"description": "Passe en éveil calmement.",
+			"params": []
 		},
 		{
 			"triggerName": "SPEED_AWAKENING",
 			"action": "speed_awakening",
-			"target": "system",
-			"description": "Passe en éveil rapidement."
+			"target": [
+				"system"
+			],
+			"description": "Passe en éveil rapidement.",
+			"params": []
 		},
 		{
 			"triggerName": "DOODO_ON",
 			"action": "sleep_mode",
-			"target": "system",
-			"description": "Passe en mode veille avec ronronnement et icône lune."
+			"target": [
+				"system"
+			],
+			"description": "Passe en mode veille avec ronronnement et icône lune.",
+			"params": []
 		},
 		{
 			"triggerName": "FLAG",
@@ -86,32 +115,46 @@
 				"pirate",
 				"french"
 			],
-			"target": "matrice",
+			"target": [
+				"matrice"
+			],
 			"description": "Affiche le drapeau spécifié sur la matrice."
 		},
 		{
 			"triggerName": "LED_ON",
 			"action": "activate_led_rgb",
-			"target": "led_rgb",
-			"description": "Active la LED RGB."
+			"target": [
+				"led_rgb"
+			],
+			"description": "Active la LED RGB.",
+			"params": []
 		},
 		{
 			"triggerName": "LED_OFF",
 			"action": "desactivate_led_rgb",
-			"target": "led_rgb",
-			"description": "Désactive la LED RGB."
+			"target": [
+				"led_rgb"
+			],
+			"description": "Désactive la LED RGB.",
+			"params": []
 		},
 		{
 			"triggerName": "LOVE_ON",
 			"action": "pulse_heart",
-			"target": "matrice",
-			"description": "Fait battre le cœur avec l'intensité 'Amour' 💗."
+			"target": [
+				"matrice"
+			],
+			"description": "Fait battre le cœur avec l'intensité 'Amour' 💗.",
+			"params": []
 		},
 		{
 			"triggerName": "LOVE_OFF",
 			"action": "stop_pulse_heart",
-			"target": "matrice",
-			"description": "Arrête le battement du cœur"
+			"target": [
+				"matrice"
+			],
+			"description": "Arrête le battement du cœur",
+			"params": []
 		}
 	]
 }

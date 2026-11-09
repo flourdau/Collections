@@ -6,12 +6,10 @@
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "RastaPiC@t",
 		"create": "2026-01-25",
-		"update": "2026-02-04",
+		"update": "2026-11-09",
 		"version": "1.0",
-		"total_achievements": 9
+		"total_achievements": 12
 	},
-
-
 	"achievements": [
 		{
 			"id": 1,
@@ -45,7 +43,7 @@
 			"author": "Flood",
 			"color": "legendary"
 		},
-				{
+		{
 			"id": 5,
 			"date": "2026-01-11",
 			"text": "IyaMeU a débloqué le haut fait \"Overclocking Félin\" en ronronnant à plus de 100 Hz !",
@@ -102,12 +100,12 @@
 			"color": "legendary"
 		},
 		{
-            "id": 13,
-            "date": "2026-02-22",
-            "text": "IyaMeU surveille maintenant ses propres constantes vitales.",
-            "titre": "Même pas chaud!",
-            "author": "Flood",
-            "color": "rare"
-        }
+			"id": 13,
+			"date": "2026-02-22",
+			"text": "IyaMeU surveille maintenant ses propres constantes vitales.",
+			"titre": "Même pas chaud!",
+			"author": "Flood",
+			"color": "rare"
+		}
 	]
 }

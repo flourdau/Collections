@@ -1,16 +1,15 @@
 {
 	"metadata": {
-		"name": "onomatopoeias.json",
+		"name": "onomatopoeia.json",
 		"description": "Représentations phonétiques de sons et bruits.",
 		"author": "Florian LOURDAUX",
 		"email": "lourdaux.florian.pro@gmail.com",
 		"project": "Standard Collection",
 		"create": "2026-01-25",
-		"update": "2026-06-12",
-		"version": "1.0"
+		"update": "2026-11-09",
+		"version": "1.0",
+		"count": 227
 	},
-
-
 	"data": [
 		"AAAAAAH",
 		"AGROUGROU",
